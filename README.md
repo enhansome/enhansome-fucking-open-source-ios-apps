@@ -93,7 +93,7 @@ Jump to
 
 [back to top](#readme)
 
-* <b><code> 19357⭐</code></b> <b><code>  6155🍴</code></b> [VLC](https://github.com/videolan/vlc) ⭐ 19,372 | 🐛 2 | 🌐 C | 📅 2026-08-19): Media Player
+* <b><code> 19357⭐</code></b> <b><code>  6155🍴</code></b> [VLC](https://github.com/videolan/vlc) ⭐ 19,374 | 🐛 2 | 🌐 C | 📅 2026-08-19): Media Player
   * <a href="https://www.videolan.org/">🌎 `https://www.videolan.org/`</a>
   * 🌎 [` App Store`](apps.apple.com/app/vlc-for-ios/id650377962) <a href="https://user-images.githubusercontent.com/4723115/146823429-c85f22c0-e757-48c0-ba54-0930ed1769bc.png">🌎 `Screenshot 1`</a>
   * `2026` `objc` `ipad`
@@ -102,7 +102,7 @@ Jump to
   * <a href="https://user-images.githubusercontent.com/4723115/132869460-db573d22-8474-47bb-9c31-db727821b879.png">🌎 `Screenshot 1`</a>
   * `2026` `realm`
   * ☆`6345`
-* <b><code>  4094⭐</code></b> <b><code>   561🍴</code></b> [Swiftfin](https://github.com/jellyfin/Swiftfin) ⭐ 4,095 | 🐛 132 | 🌐 Swift | 📅 2026-08-19): Jellyfin Client
+* <b><code>  4094⭐</code></b> <b><code>   561🍴</code></b> [Swiftfin](https://github.com/jellyfin/Swiftfin) ⭐ 4,096 | 🐛 133 | 🌐 Swift | 📅 2026-08-19): Jellyfin Client
   * `2026` `swift`
   * ☆`4018`
 * <b><code>  3117⭐</code></b> <b><code>   517🍴</code></b> [BiliBili](https://github.com/yichengchen/ATV-Bilibili-demo) ⭐ 3,118 | 🐛 13 | 🌐 Swift | 📅 2026-08-12)
@@ -129,7 +129,7 @@ Jump to
   * <b><code>     6⭐</code></b> <b><code>     1🍴</code></b> <a href="https://github.com/rm335/dumpert-apple-tv/blob/main/assets/screenshot-categorieen.jpg?raw=true">`Screenshot 1`</a></a>
   * `2026` `swift` `swiftui` `tvos` `cloudkit` `top shelf` `cloudkit` `shareplay`
   * ☆`5`
-* <b><code>     2⭐</code></b> <b><code>     0🍴</code></b> [RAYN Weather](https://github.com/qh-work/RAYN) ⭐ 3 | 🐛 0 | 🌐 Swift | 📅 2026-08-18): Live weather, radar, air quality, astronomy, and marine conditions for Apple TV
+* <b><code>     2⭐</code></b> <b><code>     0🍴</code></b> [RAYN Weather](https://github.com/qh-work/RAYN) ⭐ 3 | 🐛 0 | 🌐 Swift | 📅 2026-08-19): Live weather, radar, air quality, astronomy, and marine conditions for Apple TV
   * <a href="https://raw.githubusercontent.com/qh-work/RAYN/main/docs/media/screenshots/01-current-weather.png">🌎 `Screenshot 1`</a>
   * `swift` `swiftui` `tvos`
 
@@ -287,7 +287,7 @@ Jump to
 
 [back to top](#readme)
 
-* <b><code> 24542⭐</code></b> <b><code>  9157🍴</code></b> [Chrome](https://github.com/chromium/chromium) ⭐ 24,557 | 🐛 28 | 📅 2026-08-19)
+* <b><code> 24542⭐</code></b> <b><code>  9157🍴</code></b> [Chrome](https://github.com/chromium/chromium) ⭐ 24,560 | 🐛 28 | 📅 2026-08-19)
   * <a href="https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/15/4d/26/154d2610-1d6e-ed2e-7a7a-698f98e466c1/mzl.fuawsxsw.png/626x0w.jpg">🌎 `Screenshot 1`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/69/51/f2/6951f239-8529-90e5-3b24-0b8ccae172e3/mzl.qdavkgej.png/626x0w.jpg'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/0a/f9/84/0af984c6-83d0-270a-d062-5a16fd16acfb/mzl.ykkkwqij.png/626x0w.jpg'>`Screenshot 3`</a>
   * `2026` `objective-c++`
   * ☆`24291`
@@ -300,7 +300,7 @@ Jump to
   * 🌎 [` App Store`](apps.apple.com/app/id519296448) <a href="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/df/3b/f7/df3bf7dd-a0ec-08f8-1851-8d753207f069/pr_source.png/460x0w.jpg">🌎 `Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/9e/b8/ab/9eb8abc1-cf22-9866-9521-88cb7772efa9/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/02/2b/e0/022be068-3552-7b25-2bb5-675c7e878e5a/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>
   * `2026` `objc` `tor`
   * ☆`2627`
-* <b><code>  1501⭐</code></b> <b><code>   112🍴</code></b> [Reynard Browser](https://github.com/minh-ton/reynard-browser) ⭐ 1,512 | 🐛 13 | 🌐 Swift | 📅 2026-08-19): Experimental Gecko-based web browser
+* <b><code>  1501⭐</code></b> <b><code>   112🍴</code></b> [Reynard Browser](https://github.com/minh-ton/reynard-browser) ⭐ 1,515 | 🐛 13 | 🌐 Swift | 📅 2026-08-19): Experimental Gecko-based web browser
   * <b><code>     ?⭐</code></b> <b><code>     ?🍴</code></b> <a href="https://github.com/user-attachments/assets/d89f4385-c478-4aea-aa9d-6c9fca72252b">`Screenshot 1`</a></a>
   * `2026` `swift`
   * ☆`1222`
@@ -481,7 +481,7 @@ Jump to
 
 [back to top](#readme)
 
-* <b><code> 19271⭐</code></b> <b><code>  1349🍴</code></b> [SimpleX Chat](https://github.com/simplex-chat/simplex-chat) ⭐ 19,275 | 🐛 1,204 | 🌐 Haskell | 📅 2026-08-19): Privacy redefined (no user IDs)
+* <b><code> 19271⭐</code></b> <b><code>  1349🍴</code></b> [SimpleX Chat](https://github.com/simplex-chat/simplex-chat) ⭐ 19,276 | 🐛 1,207 | 🌐 Haskell | 📅 2026-08-19): Privacy redefined (no user IDs)
   * 🌎 [` App Store`](apps.apple.com/app/simplex-chat-secure-messenger/id1605771084) <a href="https://raw.githubusercontent.com/simplex-chat/.github/master/profile/images/app2.png">🌎 `Screenshot 1`</a>
   * `2026` `swift`
   * ☆`18796`
@@ -510,7 +510,7 @@ Jump to
   * 🌎 [` App Store`](apps.apple.com/app/chatsecure-encrypted-messenger/id464200063) <a href="https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/c8/50/45/c85045d1-e4c3-b45c-b807-88895baabea7/mzl.ifcxuteh.png/460x0w.jpg">🌎 `Screenshot 1`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/b2/76/4a/b2764a43-7234-d208-f390-2d7efd07b13d/mzl.efigjugg.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/b6/f1/8d/b6f18d6a-c361-bfda-9992-6bb0ddc7d9e3/mzl.yplvxiqv.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/49/af/7a/49af7a2a-6ed2-9f47-5511-92c8734a9c77/mzl.bdnewqrd.png/460x0w.jpg'>`Screenshot 4`</a>
   * `2024` `objc` `xmpp`
   * ☆`3157`
-* <b><code>  3054⭐</code></b> <b><code>   609🍴</code></b> [FluffyChat](https://github.com/krille-chan/fluffychat) ⭐ 3,059 | 🐛 554 | 🌐 Dart | 📅 2026-08-19): Cute matrix messenger, easy to use but secure and decentralized
+* <b><code>  3054⭐</code></b> <b><code>   609🍴</code></b> [FluffyChat](https://github.com/krille-chan/fluffychat) ⭐ 3,060 | 🐛 554 | 🌐 Dart | 📅 2026-08-19): Cute matrix messenger, easy to use but secure and decentralized
   * 🌎 [` App Store`](apps.apple.com/app/fluffychat/id1551469600) <a href="https://raw.githubusercontent.com/krille-chan/fluffychat-website/refs/heads/main/src/assets/screenshots/mobile.png">🌎 `Screenshot 1`</a>
   * `2026` `flutter` `ipad`
   * ☆`2988`
@@ -542,11 +542,11 @@ Jump to
   * <a href="https://blog.thunderbird.net/files/2025/10/Mobile-Progress-Report_-September_October4.jpg">🌎 `Screenshot 1`</a>
   * `2026` `swiftui`
   * ☆`1090`
-* <b><code>  1018⭐</code></b> <b><code>   510🍴</code></b> [Chatwoot](https://github.com/chatwoot/chatwoot-mobile-app) ⭐ 1,018 | 🐛 80 | 🌐 TypeScript | 📅 2026-08-18): Live chat for businesses
+* <b><code>  1018⭐</code></b> <b><code>   510🍴</code></b> [Chatwoot](https://github.com/chatwoot/chatwoot-mobile-app) ⭐ 1,018 | 🐛 81 | 🌐 TypeScript | 📅 2026-08-19): Live chat for businesses
   * 🌎 [` App Store`](apps.apple.com/app/id1495796682) <a href='https://github.com/correia-jpv/fucking-open-source-ios-apps/assets/4723115/ca04127b-5c28-419f-95cf-3b1d4816ad07'>`Screenshot 1`</a>
   * `2026` `react-native`
   * ☆`987`
-* <b><code>   922⭐</code></b> <b><code>   360🍴</code></b> [Element X](https://github.com/element-hq/element-x-ios) ⭐ 923 | 🐛 413 | 🌐 Swift | 📅 2026-08-19): Secure decentralised chat/VoIP, newer version of Element
+* <b><code>   922⭐</code></b> <b><code>   360🍴</code></b> [Element X](https://github.com/element-hq/element-x-ios) ⭐ 923 | 🐛 412 | 🌐 Swift | 📅 2026-08-19): Secure decentralised chat/VoIP, newer version of Element
   * <a href="https://element.io">🌎 `https://element.io`</a>
   * 🌎 [` App Store`](apps.apple.com/app/element-x-secure-chat-call/id1631335820) <a href="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/5a/ff/0c5affe2-b3f0-e83e-a095-1aa4a34ac2a3/d0306b7e-aa04-4ef2-b56b-d4a097ef1677_12.9-inch-6th-gen-1.png/626x0w.webp">🌎 `Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/93/80/33/93803343-c529-20f5-cf80-ffbd7cb937b3/106a3d55-876d-4fb4-a37b-2d82cd9a6340_12.9-inch-6th-gen-2.png/626x0w.webp'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/36/2b/2c362b4d-5cf0-3eb5-6756-5185fa747439/5a643efe-d553-43df-bd67-2daee496b467_12.9-inch-6th-gen-3.png/626x0w.webp'>`Screenshot 3`</a>
   * `2026` `swift` `iphone` `ipad` `matrix` `rust`
@@ -599,7 +599,7 @@ Jump to
   * 🌎 [` App Store`](apps.apple.com/app/mumble/id443472808) <a href="https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/71/36/95/7136953f-7ffc-05fa-0df7-78cc7ec4b06b/pr_source.png/460x0w.png">🌎 `Screenshot 1`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/67/56/94/67569407-e82a-6d28-80e6-c59845726c81/pr_source.png/460x0w.png'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/9f/34/7b/9f347b9a-15f9-bd4f-f020-02f633967c9f/pr_source.png/460x0w.png'>`Screenshot 3`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/16/e3/cc/16e3cc1a-e13a-d7f1-cf4a-f3a658828d10/pr_source.png/460x0w.png'>`Screenshot 4`</a>
   * `2026` `objc` `fmdb`
   * ☆`226`
-* <b><code>   166⭐</code></b> <b><code>    40🍴</code></b> [Wire](https://github.com/wireapp/wire-ios) ⭐ 166 | 🐛 33 | 🌐 Swift | 📅 2026-08-19): Modern, private communications with crystal clear voice, video, group chats - always encrypted
+* <b><code>   166⭐</code></b> <b><code>    40🍴</code></b> [Wire](https://github.com/wireapp/wire-ios) ⭐ 166 | 🐛 34 | 🌐 Swift | 📅 2026-08-19): Modern, private communications with crystal clear voice, video, group chats - always encrypted
   * 🌎 [` App Store`](apps.apple.com/app/wire/id930944768) <a href="https://cdn-images-1.medium.com/v2/resize:fit:800/1*CEtofzY1rIOKuGT7JO3VkA.png">🌎 `Screenshot 1`</a>
   * `2026` `swift` `carthage` `afnetworking` `purelayout`
   * ☆`163`
@@ -652,21 +652,21 @@ Jump to
 
 [back to top](#readme)
 
-* <b><code> 51662⭐</code></b> <b><code> 13505🍴</code></b> [Expo Client](https://github.com/expo/expo) ⭐ 51,690 | 🐛 724 | 🌐 TypeScript | 📅 2026-08-19): Developer tool for creating experiences with interactive gestures & graphics
+* <b><code> 51662⭐</code></b> <b><code> 13505🍴</code></b> [Expo Client](https://github.com/expo/expo) ⭐ 51,693 | 🐛 731 | 🌐 TypeScript | 📅 2026-08-19): Developer tool for creating experiences with interactive gestures & graphics
   * <a href="https://expo.io/">🌎 `https://expo.io/`</a>
   * 🌎 [` App Store`](apps.apple.com/app/expo-client/id982107779) <a href="https://a4.mzstatic.com/us/r30/Purple111/v4/42/1e/6e/421e6e4d-2524-5e1a-93aa-b8159d48a8fa/screen696x696.jpeg">🌎 `Screenshot 1`</a>
   * `2026` `react-native` `javascript`
   * ☆`50793`
-* <b><code> 35045⭐</code></b> <b><code>  1784🍴</code></b> [UTM](https://github.com/utmapp/UTM) ⭐ 35,052 | 🐛 1,100 | 🌐 Swift | 📅 2026-08-05): Virtual machines
+* <b><code> 35045⭐</code></b> <b><code>  1784🍴</code></b> [UTM](https://github.com/utmapp/UTM) ⭐ 35,054 | 🐛 1,100 | 🌐 Swift | 📅 2026-08-05): Virtual machines
   * <a href="https://raw.githubusercontent.com/utmapp/UTM/main/screen.png">🌎 `Screenshot 1`</a>
   * `2026` `objc`
   * ☆`34726`
-* <b><code> 20328⭐</code></b> <b><code>  1480🍴</code></b> [iSH](https://github.com/ish-app/ish) ⭐ 20,338 | 🐛 700 | 🌐 C | 📅 2026-07-27): Linux shell
+* <b><code> 20328⭐</code></b> <b><code>  1480🍴</code></b> [iSH](https://github.com/ish-app/ish) ⭐ 20,339 | 🐛 700 | 🌐 C | 📅 2026-07-27): Linux shell
   * <a href="https://ish.app">🌎 `https://ish.app`</a>
   * 🌎 [` App Store`](apps.apple.com/app/ish-shell/id1436902243) <a href="https://raw.githubusercontent.com/PseudonymPatel/images/master/E0617EC4-E004-4DD0-B642-52BA4A189468.jpeg">🌎 `Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/PseudonymPatel/images/master/13DA476F-FF82-45F9-8820-710D34711ADC.jpeg'>`Screenshot 2`</a>
   * `2026` `c` `obj-c`
   * ☆`20162`
-* <b><code>  8913⭐</code></b> <b><code>   685🍴</code></b> [Bark](https://github.com/Finb/Bark) ⭐ 8,919 | 🐛 4 | 🌐 Swift | 📅 2026-08-18): Send custom push notifications by calling an HTTP API
+* <b><code>  8913⭐</code></b> <b><code>   685🍴</code></b> [Bark](https://github.com/Finb/Bark) ⭐ 8,918 | 🐛 4 | 🌐 Swift | 📅 2026-08-18): Send custom push notifications by calling an HTTP API
   * <a href="https://bark.day.app/">🌎 `https://bark.day.app/`</a>
   * 🌎 [` App Store`](apps.apple.com/app/bark-custom-notifications/id1403753865)  <b><code>     ?⭐</code></b> <b><code>     ?🍴</code></b> <a href="https://github.com/user-attachments/assets/0425d8ed-0c2a-49ea-92f8-b5062c91e411">`Screenshot 1`</a></a>
   * `2026` `swift`
@@ -782,7 +782,7 @@ Jump to
 
 [back to top](#readme)
 
-* <b><code> 12098⭐</code></b> <b><code>  1486🍴</code></b> [iGit](https://github.com/git-up/GitUp) ⭐ 12,100 | 🐛 364 | 🌐 Objective-C | 📅 2026-07-27): Uses GitUpKit to clone a GitHub repo and perform a commit
+* <b><code> 12098⭐</code></b> <b><code>  1486🍴</code></b> [iGit](https://github.com/git-up/GitUp) ⭐ 12,101 | 🐛 364 | 🌐 Objective-C | 📅 2026-07-27): Uses GitUpKit to clone a GitHub repo and perform a commit
   * `2026` `objc`
   * ☆`12059`
 * <b><code>  4768⭐</code></b> <b><code>   773🍴</code></b> [GitPoint](https://github.com/gitpoint/git-point) ⭐ 4,768 | 🐛 136 | 🌐 JavaScript | 📅 2024-06-24): GitHub app with a minimal & beautiful UI
@@ -793,7 +793,7 @@ Jump to
   * <b><code>  3117⭐</code></b> <b><code>   541🍴</code></b> <a href="https://github.com/khoren93/SwiftHub/blob/master/screenshots/01_search_repository_screen.png?raw=true">`Screenshot 1`</a>  <a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/02_repository_details_screen.png?raw=true'>`Screenshot 2`</a>  <a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/03_settings_screen.png?raw=true'>`Screenshot 3`</a></a>
   * `2026` `swift` `rxswift` `mvvm` `moya` `fastlane`
   * ☆`3115`
-* <b><code>  1772⭐</code></b> <b><code>   377🍴</code></b> [Monkey](https://github.com/coderyi/Monkey) ⭐ 1,772 | 🐛 1 | 🌐 Objective-C | 📅 2021-04-25): Browse top GitHub coders & repositories
+* <b><code>  1772⭐</code></b> <b><code>   377🍴</code></b> [Monkey](https://github.com/coderyi/Monkey) ⭐ 1,773 | 🐛 1 | 🌐 Objective-C | 📅 2021-04-25): Browse top GitHub coders & repositories
   * <a href="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/7e/7c/52/7e7c5220-f09f-adf0-36d4-6b12aca614d6/pr_source.png/460x0w.jpg">🌎 `Screenshot 1`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/81/cf/be/81cfbe41-0a63-be27-dea1-85d320c0775a/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/17/d1/91/17d1919b-0d7a-29dc-c519-3086fbb081c8/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/d1/5d/be/d15dbebe-0ba4-ebde-b964-1db638f3070e/pr_source.png/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/91/c2/a2/91c2a2bd-8f69-1d5c-3a40-090c0980638b/pr_source.png/460x0w.jpg'>`Screenshot 5`</a>
   * `2021` `objc`
   * ☆`1772`
@@ -946,16 +946,16 @@ Jump to
 
 [back to top](#readme)
 
-* <b><code> 20328⭐</code></b> <b><code>  1480🍴</code></b> [iSH](https://github.com/ish-app/ish) ⭐ 20,338 | 🐛 700 | 🌐 C | 📅 2026-07-27): Linux shell
+* <b><code> 20328⭐</code></b> <b><code>  1480🍴</code></b> [iSH](https://github.com/ish-app/ish) ⭐ 20,339 | 🐛 700 | 🌐 C | 📅 2026-07-27): Linux shell
   * <a href="https://ish.app">🌎 `https://ish.app`</a>
   * 🌎 [` App Store`](apps.apple.com/app/ish-shell/id1436902243) <a href="https://raw.githubusercontent.com/PseudonymPatel/images/master/E0617EC4-E004-4DD0-B642-52BA4A189468.jpeg">🌎 `Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/PseudonymPatel/images/master/13DA476F-FF82-45F9-8820-710D34711ADC.jpeg'>`Screenshot 2`</a>
   * `2026` `c` `obj-c`
   * ☆`20162`
-* <b><code> 14268⭐</code></b> <b><code>  2589🍴</code></b> [PPSSPP](https://github.com/hrydgard/ppsspp) ⭐ 14,272 | 🐛 1,367 | 🌐 C++ | 📅 2026-08-18): PSP emulator
+* <b><code> 14268⭐</code></b> <b><code>  2589🍴</code></b> [PPSSPP](https://github.com/hrydgard/ppsspp) ⭐ 14,272 | 🐛 1,366 | 🌐 C++ | 📅 2026-08-19): PSP emulator
   * 🌎 [` App Store`](apps.apple.com/app/ppsspp-psp-emulator/id6496972903)
   * `2026` `c++`
   * ☆`14141`
-* <b><code> 13526⭐</code></b> <b><code>  2182🍴</code></b> [RetroArch](https://github.com/libretro/RetroArch) ⭐ 13,533 | 🐛 2,998 | 🌐 C | 📅 2026-08-19): Comprehensive emulator frontend with support for NES, SNES, Gameboy, Sega Master System, Genesis, Playstation, N64, Atari Lynx & more
+* <b><code> 13526⭐</code></b> <b><code>  2182🍴</code></b> [RetroArch](https://github.com/libretro/RetroArch) ⭐ 13,533 | 🐛 2,997 | 🌐 C | 📅 2026-08-19): Comprehensive emulator frontend with support for NES, SNES, Gameboy, Sega Master System, Genesis, Playstation, N64, Atari Lynx & more
   * 🌎 [` App Store`](apps.apple.com/app/retroarch/id6499539433) <a href='https://github.com/correia-jpv/fucking-open-source-ios-apps/assets/4723115/76548a8f-626c-4cc9-93f1-962782a177b1'>`Screenshot 1`</a>
   * `2026` `c`
   * ☆`13383`
@@ -963,7 +963,7 @@ Jump to
   * <a href="https://user-images.githubusercontent.com/4723115/132869460-db573d22-8474-47bb-9c31-db727821b879.png">🌎 `Screenshot 1`</a>
   * `2026` `realm`
   * ☆`6345`
-* <b><code>  6073⭐</code></b> <b><code>   472🍴</code></b> [Delta](https://github.com/rileytestut/Delta) ⭐ 6,076 | 🐛 365 | 🌐 Swift | 📅 2026-07-30): Video game emulator for non-jailbroken devices (successor to GBA4iOS)
+* <b><code>  6073⭐</code></b> <b><code>   472🍴</code></b> [Delta](https://github.com/rileytestut/Delta) ⭐ 6,077 | 🐛 365 | 🌐 Swift | 📅 2026-07-30): Video game emulator for non-jailbroken devices (successor to GBA4iOS)
   * 🌎 [` App Store`](apps.apple.com/app/delta-game-emulator/id1048524688) <a href="https://user-images.githubusercontent.com/705880/115471008-203aa480-a1ec-11eb-8aba-237a46799543.png">🌎 `Screenshot 1`</a>
   * `2026` `swift`
   * ☆`6040`
@@ -1051,7 +1051,7 @@ Jump to
   * <a href="https://is3-ssl.mzstatic.com/image/thumb/Purple71/v4/80/06/f9/8006f9c6-cc64-03b0-5df2-d65dd22d2a0c/pr_source.png/460x0w.jpg">🌎 `Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple71/v4/37/6b/3f/376b3f54-9362-75e5-a484-ebcc314efc8e/mzl.wsjuxftd.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple71/v4/4a/84/98/4a849841-ec59-e945-d290-8245f500b93c/mzl.nnbdchrh.png/460x0w.jpg'>`Screenshot 3`</a>
   * `2026` `objc`
   * ☆`776`
-* <b><code>   350⭐</code></b> <b><code>    89🍴</code></b> [PIA VPN](https://github.com/pia-foss/mobile-ios) ⭐ 350 | 🐛 12 | 🌐 Swift | 📅 2026-08-18)
+* <b><code>   350⭐</code></b> <b><code>    89🍴</code></b> [PIA VPN](https://github.com/pia-foss/mobile-ios) ⭐ 350 | 🐛 11 | 🌐 Swift | 📅 2026-08-19)
   * <a href="https://www.privateinternetaccess.com/download/ios-vpn/">🌎 `https://www.privateinternetaccess.com/download/ios-vpn/`</a>
   * 🌎 [` App Store`](apps.apple.com/app/id955626407) <a href="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/2c/4c/3e/2c4c3ebf-d7bf-2470-c434-32767b574c6f/56ba6ee1-3819-4351-b9c3-46c9e2eb494a_pia_iphone_appstore_1.png/600x0w.png">🌎 `Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/de/9c/4b/de9c4b68-6ade-4abd-97ee-e83c575fd4fb/4660eca5-bfa5-4042-aff9-161d475acba7_pia_iphone_appstore_3.png/600x0w.png'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/08/d5/ad/08d5adae-7392-2f50-87cd-35302ea0ad1d/bd1e8f0f-6fcc-4cc9-bb5f-08286fc8eab1_pia_iphone_appstore_4.png/600x0w.png'>`Screenshot 3`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/2c/9c/c1/2c9cc150-4d85-842f-9ee3-a5cc82ec85c1/4496bbe3-e21f-4e71-b723-90ff31c2ea60_pia_iphone_appstore_5.png/600x0w.png'>`Screenshot 4`</a>
   * `2026` `swift`
@@ -1154,15 +1154,15 @@ Widget (iOS 14) — [back to top](#readme)
 
 File Management — [back to top](#readme)
 
-* <b><code> 88608⭐</code></b> <b><code>  4922🍴</code></b> [localsend](https://github.com/localsend/localsend) ⭐ 88,693 | 🐛 1,079 | 🌐 Dart | 📅 2026-08-19): Cross-platform alternative to AirDrop
+* <b><code> 88608⭐</code></b> <b><code>  4922🍴</code></b> [localsend](https://github.com/localsend/localsend) ⭐ 88,704 | 🐛 1,081 | 🌐 Dart | 📅 2026-08-19): Cross-platform alternative to AirDrop
   * 🌎 [` App Store`](apps.apple.com/app/localsend/id1661733229) <a href="https://localsend.org/img/screenshot-iphone.webp">🌎 `Screenshot 1`</a>
   * `2026` `flutter`
   * ☆`85622`
-* <b><code>  7063⭐</code></b> <b><code>   711🍴</code></b> [OnionShare](https://github.com/onionshare/onionshare) ⭐ 7,063 | 🐛 80 | 🌐 Python | 📅 2026-08-18): Securely and anonymously share files using the Tor network
+* <b><code>  7063⭐</code></b> <b><code>   711🍴</code></b> [OnionShare](https://github.com/onionshare/onionshare) ⭐ 7,062 | 🐛 80 | 🌐 Python | 📅 2026-08-18): Securely and anonymously share files using the Tor network
   * 🌎 [` App Store`](apps.apple.com/app/onionshare/id1601890129)  <b><code>     ?⭐</code></b> <b><code>     ?🍴</code></b> <a href="https://github.com/user-attachments/assets/b12897e0-11f9-43eb-a1e6-636db0400a1d">`Screenshot 1`</a></a>
   * `2026` `ipad` `python` `tor`
   * ☆`7034`
-* <b><code>  2480⭐</code></b> <b><code>  1025🍴</code></b> [Nextcloud](https://github.com/nextcloud/ios) ⭐ 2,480 | 🐛 990 | 🌐 Swift | 📅 2026-08-18): A safe home for all your data
+* <b><code>  2480⭐</code></b> <b><code>  1025🍴</code></b> [Nextcloud](https://github.com/nextcloud/ios) ⭐ 2,480 | 🐛 982 | 🌐 Swift | 📅 2026-08-19): A safe home for all your data
   * <a href="https://nextcloud.com">🌎 `https://nextcloud.com`</a>
   * 🌎 [` App Store`](apps.apple.com/app/nextcloud/id1125420102) <a href="https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/f9/87/cb/f987cbdd-1382-b745-1eff-85cf980e673f/pr_source.jpg/460x0w.jpg">🌎 `Screenshot 1`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/a2/44/89/a2448912-df4f-ac28-a30d-82a9699a9fe4/mzl.bdctkilq.jpg/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/25/ba/7c/25ba7cc2-f9b4-518c-e201-c03bcceffbe1/mzl.fxvipxna.jpg/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/8a/dc/14/8adc144f-e5bc-512e-6f1b-5583dd7bb014/mzl.uymqtwli.jpg/460x0w.jpg'>`Screenshot 4`</a>
   * `2026` `objc`
@@ -1188,7 +1188,7 @@ File Management — [back to top](#readme)
 * <b><code>   173⭐</code></b> <b><code>    23🍴</code></b> [Proton Drive](https://github.com/ProtonDriveApps/ios-drive) ⭐ 173 | 🐛 1 | 🌐 Swift | 📅 2026-08-11): End-to-end encrypted cloud storage made by Proton AG
   * `2026` `swift`
   * ☆`169`
-* <b><code>    84⭐</code></b> <b><code>    13🍴</code></b> [kDrive](https://github.com/Infomaniak/ios-kDrive) ⭐ 84 | 🐛 7 | 🌐 Swift | 📅 2026-08-17): Secure cloud to collaborate online, access your documents and files on all your devices
+* <b><code>    84⭐</code></b> <b><code>    13🍴</code></b> [kDrive](https://github.com/Infomaniak/ios-kDrive) ⭐ 84 | 🐛 8 | 🌐 Swift | 📅 2026-08-19): Secure cloud to collaborate online, access your documents and files on all your devices
   * <a href="https://www.infomaniak.com/kdrive">🌎 `https://www.infomaniak.com/kdrive`</a>
   * 🌎 [` App Store`](apps.apple.com/app/infomaniak-kdrive/id1482778676) <a href="https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/fd/5e/eb/fd5eeb3a-6bef-a79f-b3f6-f6dacd824b8e/2da2a5e3-f988-4215-931a-58f58c9b9a66_mobile-6.5-1.png/600x0w.png">🌎 `Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/8e/a7/72/8ea772cc-81d0-112f-ee4b-c475a92501bc/0c9b7def-a516-4116-92b4-7fa131519ac3_mobile-6.5-2.png/600x0w.png'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/c5/ca/17/c5ca17ff-2950-0ec1-ab91-4e02f8d0947f/1391ef65-23e7-44b7-9c64-62bb35d84f80_mobile-6.5-3.png/600x0w.png'>`Screenshot 3`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/d7/de/85/d7de854f-c3b4-269d-9777-0252d4933666/9eef055e-3d6b-4bf0-9ab4-a0d6d9b9055b_mobile-6.5-4.png/600x0w.png'>`Screenshot 4`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/cd/2a/1acd2a04-49eb-94f5-fca3-6fc9c1e4ada5/df89351c-147d-457f-ba48-e6765e6a24c2_mobile-6.5-5.png/600x0w.png'>`Screenshot 5`</a>
   * `2026` `swift`
@@ -1201,7 +1201,7 @@ File Management — [back to top](#readme)
 
 [back to top](#readme)
 
-* <b><code>  2136⭐</code></b> <b><code>   298🍴</code></b> [BeeCount](https://github.com/TNT-Likely/BeeCount) ⭐ 2,144 | 🐛 103 | 🌐 Dart | 📅 2026-08-17): Privacy-first cross-platform expense tracker with self-hostable cloud sync (BeeCount Cloud, iCloud, Supabase, WebDAV, S3)
+* <b><code>  2136⭐</code></b> <b><code>   298🍴</code></b> [BeeCount](https://github.com/TNT-Likely/BeeCount) ⭐ 2,145 | 🐛 103 | 🌐 Dart | 📅 2026-08-17): Privacy-first cross-platform expense tracker with self-hostable cloud sync (BeeCount Cloud, iCloud, Supabase, WebDAV, S3)
   * 🌎 [` App Store`](apps.apple.com/app/id6754611670) <a href="https://raw.githubusercontent.com/TNT-Likely/BeeCount/main/preview/store-en/01-home.png">🌎 `Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/TNT-Likely/BeeCount/main/preview/store-en/03-analytics.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/TNT-Likely/BeeCount/main/preview/store-en/09-mine.png'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/TNT-Likely/BeeCount/main/preview/store-en/05-add.png'>`Screenshot 4`</a>
   * `2026` `flutter` `dart`
   * ☆`1952`
@@ -1272,7 +1272,7 @@ File Management — [back to top](#readme)
   * 🌎 [` App Store`](apps.apple.com/app/rainbow-ethereum-wallet/id1457119021) <a href="https://user-images.githubusercontent.com/4723115/139700145-bb518aef-a815-421b-a504-1f2646ed32bc.png">🌎 `Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/4723115/139700159-5ac0f3cc-8ecf-4b56-a020-e5e848d460e3.png'>`Screenshot 2`</a>
   * `2026` `reactnative` `typescript`
   * ☆`4371`
-* <b><code>   899⭐</code></b> <b><code>   310🍴</code></b> [Unstoppable Wallet](https://github.com/horizontalsystems/unstoppable-wallet-ios) ⭐ 900 | 🐛 23 | 🌐 Swift | 📅 2026-08-19): A fully decentralized Bitcoin, Ethereum, EOS, Binance Chain, Bitcoin Cash and DASH currency wallet
+* <b><code>   899⭐</code></b> <b><code>   310🍴</code></b> [Unstoppable Wallet](https://github.com/horizontalsystems/unstoppable-wallet-ios) ⭐ 900 | 🐛 24 | 🌐 Swift | 📅 2026-08-19): A fully decentralized Bitcoin, Ethereum, EOS, Binance Chain, Bitcoin Cash and DASH currency wallet
   * 🌎 [` App Store`](apps.apple.com/app/bank-bitcoin-wallet/id1447619907)
   * `2026` `swift`
   * ☆`892`
@@ -1306,11 +1306,11 @@ File Management — [back to top](#readme)
 
 [back to top](#readme)
 
-* <b><code> 28648⭐</code></b> <b><code>  3745🍴</code></b> [Mindustry](https://github.com/Anuken/Mindustry) ⭐ 28,668 | 🐛 72 | 🌐 Java | 📅 2026-08-19): A factory management TD/RTS
+* <b><code> 28648⭐</code></b> <b><code>  3745🍴</code></b> [Mindustry](https://github.com/Anuken/Mindustry) ⭐ 28,669 | 🐛 73 | 🌐 Java | 📅 2026-08-19): A factory management TD/RTS
   * 🌎 [` App Store`](apps.apple.com/app/mindustry/id1385258906)  <b><code>     ?⭐</code></b> <b><code>     ?🍴</code></b> <a href="https://github.com/user-attachments/assets/5bc17e10-8f95-4af4-8c83-c0051d18eb21">`Screenshot 1`</a></a>
   * `2026` `java`
   * ☆`28307`
-* <b><code> 18889⭐</code></b> <b><code>  2785🍴</code></b> [osu!](https://github.com/ppy/osu) ⭐ 18,893 | 🐛 1,884 | 🌐 C# | 📅 2026-08-19): Rhythm game
+* <b><code> 18889⭐</code></b> <b><code>  2785🍴</code></b> [osu!](https://github.com/ppy/osu) ⭐ 18,895 | 🐛 1,883 | 🌐 C# | 📅 2026-08-19): Rhythm game
   * `2026` `csharp`
   * ☆`18713`
 * <b><code>  9684⭐</code></b> <b><code>  2633🍴</code></b> [FlappySwift](https://github.com/newlinedotco/FlappySwift) ⭐ 9,683 | 🐛 19 | 🌐 Swift | 📅 2023-04-29): Flappy Bird clone
@@ -1720,7 +1720,7 @@ File Management — [back to top](#readme)
   * 🌎 [` App Store`](apps.apple.com/app/OutRun/id1477511092) <a href='https://github.com/correia-jpv/fucking-open-source-ios-apps/assets/4723115/1f87f25c-a3fe-45fc-83e1-719d38fbd18d'>`Screenshot 1`</a>
   * `2026` `swift` `snapkit` `charts`
   * ☆`868`
-* <b><code>   831⭐</code></b> <b><code>   204🍴</code></b> [QZ - qdomyos-zwift](https://github.com/cagnulein/qdomyos-zwift) ⭐ 832 | 🐛 333 | 🌐 C++ | 📅 2026-08-19): Unlock your bike / treadmill
+* <b><code>   831⭐</code></b> <b><code>   204🍴</code></b> [QZ - qdomyos-zwift](https://github.com/cagnulein/qdomyos-zwift) ⭐ 832 | 🐛 334 | 🌐 C++ | 📅 2026-08-19): Unlock your bike / treadmill
   * 🌎 [` App Store`](apps.apple.com/app/id1543684531)  <b><code>     ?⭐</code></b> <b><code>     ?🍴</code></b> <a href="https://github.com/cagnulein/qdomyos-zwift/raw/master/icons/AppScreen/iOS%20Phones%20-%206.5_/screenshot2.jpeg">`Screenshot 1`</a></a>
   * `2026` `cpp`
   * ☆`815`
@@ -1743,7 +1743,7 @@ File Management — [back to top](#readme)
 * <b><code>    13⭐</code></b> <b><code>     4🍴</code></b> [Minimalistic Push](https://github.com/jonaspoxleitner/minimalistic_push) ⭐ 13 | 🐛 0 | 🌐 Dart | 📅 2022-05-13): Track your push-ups and see an overview of your sessions
   * `2022` `flutter` `dart`
   * ☆`13`
-* <b><code>     0⭐</code></b> <b><code>     0🍴</code></b> [Dredfit](https://github.com/dredfort42/dredfit) ⭐ 0 | 🐛 10 | 🌐 Swift | 📅 2026-08-19): Adaptive bodyweight workout trainer that adjusts to how your last session went
+* <b><code>     0⭐</code></b> <b><code>     0🍴</code></b> [Dredfit](https://github.com/dredfort42/dredfit) ⭐ 0 | 🐛 6 | 🌐 Swift | 📅 2026-08-19): Adaptive bodyweight workout trainer that adjusts to how your last session went
   * 🌎 [` App Store`](apps.apple.com/app/id6791739610) <a href="https://raw.githubusercontent.com/dredfort42/dredfit/main/appstore/screenshots/en/s1.png">🌎 `Screenshot 1`</a>
   * `swift` `swiftui`
 
@@ -1770,12 +1770,12 @@ File Management — [back to top](#readme)
 
 [back to top](#readme)
 
-* <b><code> 15128⭐</code></b> <b><code>  1544🍴</code></b> [Organic Maps](https://github.com/organicmaps/organicmaps) ⭐ 15,143 | 🐛 3,466 | 🌐 C++ | 📅 2026-08-19): Privacy-focused, ads-free, donation-based offline maps & GPS app with navigation for hiking, cycling, biking, and driving
+* <b><code> 15128⭐</code></b> <b><code>  1544🍴</code></b> [Organic Maps](https://github.com/organicmaps/organicmaps) ⭐ 15,149 | 🐛 3,470 | 🌐 C++ | 📅 2026-08-19): Privacy-focused, ads-free, donation-based offline maps & GPS app with navigation for hiking, cycling, biking, and driving
   * <a href="https://organicmaps.app/">🌎 `https://organicmaps.app/`</a>
   * 🌎 [` App Store`](apps.apple.com/app/organic-maps/id1567437057)  <b><code>     ?⭐</code></b> <b><code>     ?🍴</code></b> <a href="https://github.com/user-attachments/assets/e276770c-1a13-4185-8bd2-a0946f4926ac">`Screenshot 1`</a></a>
   * `2026` `swift` `openstreetmap api` `c++` `objective-c++`
   * ☆`14789`
-* <b><code>  5913⭐</code></b> <b><code>  1214🍴</code></b> [OsmAnd Maps](https://github.com/osmandapp/Osmand) ⭐ 5,916 | 🐛 3,453 | 🌐 Java | 📅 2026-08-19): Map with access to OpenStreetMaps
+* <b><code>  5913⭐</code></b> <b><code>  1214🍴</code></b> [OsmAnd Maps](https://github.com/osmandapp/Osmand) ⭐ 5,917 | 🐛 3,454 | 🌐 Java | 📅 2026-08-19): Map with access to OpenStreetMaps
   * <a href="https://osmand.net/">🌎 `https://osmand.net/`</a>
   * 🌎 [` App Store`](apps.apple.com/app/id934850257) <a href="https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/4e/2e/83/4e2e8318-746e-d079-d520-145290e37c16/pr_source.png/460x0w.jpg">🌎 `Screenshot 1`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/cd/55/dc/cd55dc5f-143c-89a0-8239-426c195c6490/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/86/9b/65/869b6564-776f-bed9-5896-2ec9c0fcb299/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>
   * `2026` `objc`
@@ -1859,16 +1859,16 @@ File Management — [back to top](#readme)
 
 Image, video, audio, reading — [back to top](#readme)
 
-* <b><code> 23509⭐</code></b> <b><code>  1481🍴</code></b> [Readest](https://github.com/readest/readest) ⭐ 23,543 | 🐛 114 | 🌐 TypeScript | 📅 2026-08-18): Feature-rich ebook reader
+* <b><code> 23509⭐</code></b> <b><code>  1481🍴</code></b> [Readest](https://github.com/readest/readest) ⭐ 23,547 | 🐛 114 | 🌐 TypeScript | 📅 2026-08-18): Feature-rich ebook reader
   * 🌎 [` App Store`](apps.apple.com/app/readest-ebook-reader/id6738622779)  <b><code>     ?⭐</code></b> <b><code>     ?🍴</code></b> <a href="https://github.com/user-attachments/assets/c6de1b0e-8a49-4ad8-a72e-b04e7e7b9917">`Screenshot 1`</a></a>
   * `2026` `react-native`
   * ☆`22546`
-* <b><code> 21100⭐</code></b> <b><code>  6584🍴</code></b> [Kodi](https://github.com/xbmc/xbmc) ⭐ 21,107 | 🐛 445 | 🌐 C++ | 📅 2026-08-19): Media player & entertainment hub, includes a separate remote app
+* <b><code> 21100⭐</code></b> <b><code>  6584🍴</code></b> [Kodi](https://github.com/xbmc/xbmc) ⭐ 21,108 | 🐛 443 | 🌐 C++ | 📅 2026-08-19): Media player & entertainment hub, includes a separate remote app
   * <a href="https://kodi.wiki">🌎 `https://kodi.wiki`</a>
   * <a href="https://kodi.wiki/images/9/99/Kodi_on_ipad_in_hand.jpg">🌎 `Screenshot 1`</a>
   * `2026` `objc`
   * ☆`20984`
-* <b><code>  2920⭐</code></b> <b><code>   488🍴</code></b> [MuPDF](https://github.com/ArtifexSoftware/mupdf) ⭐ 2,922 | 🐛 17 | 🌐 C | 📅 2026-08-18): A PDF, XPS/OpenXPS, CBZ & EPUB document viewer
+* <b><code>  2920⭐</code></b> <b><code>   488🍴</code></b> [MuPDF](https://github.com/ArtifexSoftware/mupdf) ⭐ 2,922 | 🐛 15 | 🌐 C | 📅 2026-08-19): A PDF, XPS/OpenXPS, CBZ & EPUB document viewer
   * <a href="https://mupdf.com/">🌎 `https://mupdf.com/`</a>
   * 🌎 [` App Store`](apps.apple.com/app/id482941798) <a href="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/c3/ac/f7/c3acf7d1-9fb6-a5bc-6e09-8ccc70bf3e97/pr_source.png/460x0w.jpg">🌎 `Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/77/69/aa/7769aa4a-5e2f-f145-f89e-541c94ac74a7/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/62/0b/52/620b5289-7cdb-fa7a-4883-0d3565d87690/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>
   * `2026` `objc`
@@ -1926,7 +1926,7 @@ Image, video, audio, reading — [back to top](#readme)
   * <a href="https://cdn-images-1.medium.com/v2/resize:fit:800/1*THdzhTjeuB-niUriPwsxfg.png">🌎 `Screenshot 1`</a>
   * `2026` `swift`
   * ☆`2933`
-* <b><code>  2182⭐</code></b> <b><code>   264🍴</code></b> [BookPlayer](https://github.com/TortugaPower/BookPlayer) ⭐ 2,182 | 🐛 225 | 🌐 Swift | 📅 2026-08-19): Player for your DRM-free audiobooks
+* <b><code>  2182⭐</code></b> <b><code>   264🍴</code></b> [BookPlayer](https://github.com/TortugaPower/BookPlayer) ⭐ 2,183 | 🐛 225 | 🌐 Swift | 📅 2026-08-19): Player for your DRM-free audiobooks
   * 🌎 [` App Store`](apps.apple.com/app/bookplayer-audio-book-player/id1138219998) <a href="https://user-images.githubusercontent.com/14112819/42383876-3619b35c-80fe-11e8-8923-e5f80a3bb0d2.PNG">🌎 `Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/14112819/42383878-36354798-80fe-11e8-9621-9c88e54474ce.PNG'>`Screenshot 2`</a>  <a href='https://user-images.githubusercontent.com/14112819/42383879-3655af6a-80fe-11e8-8516-81c19ba5f4cc.PNG'>`Screenshot 3`</a>
   * `2026` `swift`
   * ☆`2158`
@@ -1989,7 +1989,7 @@ Image, video, audio, reading — [back to top](#readme)
   * <a href="https://user-images.githubusercontent.com/4723115/147510278-346eacd6-8d4f-4fb7-a4b8-17a75efc2536.png">🌎 `Screenshot 1`</a>
   * `2026` `swiftui` `combine` `adult`
   * ☆`3904`
-* <b><code>  3775⭐</code></b> <b><code>   591🍴</code></b> [Artsy](https://github.com/artsy/eigen) ⭐ 3,775 | 🐛 16 | 🌐 TypeScript | 📅 2026-08-19): The art world in your pocket
+* <b><code>  3775⭐</code></b> <b><code>   591🍴</code></b> [Artsy](https://github.com/artsy/eigen) ⭐ 3,775 | 🐛 19 | 🌐 TypeScript | 📅 2026-08-19): The art world in your pocket
   * 🌎 [` App Store`](apps.apple.com/app/artsy-art-world-in-your-pocket/id703796080) <a href='https://github.com/correia-jpv/fucking-open-source-ios-apps/assets/4723115/2e40b21e-59fa-4026-ad3c-07e2a08bf4f5'>`Screenshot 1`</a>
   * `2026` `iphone` `ipad` `reactnative` `typescript`
   * ☆`3775`
@@ -2014,7 +2014,7 @@ Image, video, audio, reading — [back to top](#readme)
   * <b><code>     ?⭐</code></b> <b><code>     ?🍴</code></b> <a href="https://github.com/DeluxeAlonso/UpcomingMovies/raw/development/Demo.gif">`Screenshot 1`</a></a>
   * `2025` `clean-architecture` `mvvm` `coordinator` `themoviedb`
   * ☆`598`
-* <b><code>   407⭐</code></b> <b><code>    49🍴</code></b> [Sora](https://github.com/cranci1/Sora) ⭐ 407 | 🐛 0 | 🌐 Swift | 📅 2026-08-16): Modular web scraping
+* <b><code>   407⭐</code></b> <b><code>    49🍴</code></b> [Sora](https://github.com/cranci1/Sora) ⭐ 408 | 🐛 0 | 🌐 Swift | 📅 2026-08-16): Modular web scraping
   * 🌎 [` App Store`](apps.apple.com/app/sulfur/id6742741043) <a href="https://raw.githubusercontent.com/cranci1/Sora/refs/heads/main/assets/Sulfur.png">🌎 `Screenshot 1`</a>
   * `2026` `swift`
   * ☆`396`
@@ -2210,16 +2210,16 @@ Mostly using <https://giphy.com/> — [back to top](#readme)
 
 [back to top](#readme)
 
-* <b><code> 19357⭐</code></b> <b><code>  6155🍴</code></b> [VLC](https://github.com/videolan/vlc) ⭐ 19,372 | 🐛 2 | 🌐 C | 📅 2026-08-19): Media Player
+* <b><code> 19357⭐</code></b> <b><code>  6155🍴</code></b> [VLC](https://github.com/videolan/vlc) ⭐ 19,374 | 🐛 2 | 🌐 C | 📅 2026-08-19): Media Player
   * <a href="https://www.videolan.org/">🌎 `https://www.videolan.org/`</a>
   * 🌎 [` App Store`](apps.apple.com/app/vlc-for-ios/id650377962) <a href="https://user-images.githubusercontent.com/4723115/146823429-c85f22c0-e757-48c0-ba54-0930ed1769bc.png">🌎 `Screenshot 1`</a>
   * `2026` `objc` `ipad`
   * ☆`19061`
-* <b><code>  3634⭐</code></b> <b><code>   159🍴</code></b> [Yattee](https://github.com/yattee/yattee) ⭐ 3,639 | 🐛 222 | 🌐 Swift | 📅 2026-08-03): Alternative to YouTube
+* <b><code>  3634⭐</code></b> <b><code>   159🍴</code></b> [Yattee](https://github.com/yattee/yattee) ⭐ 3,640 | 🐛 222 | 🌐 Swift | 📅 2026-08-03): Alternative to YouTube
   * 🌎 [` App Store`](apps.apple.com/app/yattee/id1595136629)
   * `2026` `swift` `tvos`
   * ☆`3572`
-* <b><code>   718⭐</code></b> <b><code>   104🍴</code></b> [Moblin](https://github.com/eerimoq/moblin) ⭐ 719 | 🐛 15 | 🌐 Swift | 📅 2026-08-19): IRL streaming
+* <b><code>   718⭐</code></b> <b><code>   104🍴</code></b> [Moblin](https://github.com/eerimoq/moblin) ⭐ 720 | 🐛 15 | 🌐 Swift | 📅 2026-08-19): IRL streaming
   * 🌎 [` App Store`](apps.apple.com/app/moblin/id6466745933) <a href="https://raw.githubusercontent.com/eerimoq/moblin/main/docs/iphone15-pro-max-screenshot.png">🌎 `Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/eerimoq/moblin/main/docs/watch-series-9-screenshot.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/eerimoq/moblin/main/docs/watch-series-9-screenshot-chat.png'>`Screenshot 3`</a>
   * `2026` `swift`
   * ☆`697`
@@ -2369,7 +2369,7 @@ Mostly using <https://giphy.com/> — [back to top](#readme)
 
 [back to top](#readme)
 
-* <b><code> 10291⭐</code></b> <b><code>   743🍴</code></b> [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) ⭐ 10,300 | 🐛 613 | 🌐 Swift | 📅 2026-08-16): Feed reader that supports RSS, Atom, JSON Feed, and RSS-in-JSON formats
+* <b><code> 10291⭐</code></b> <b><code>   743🍴</code></b> [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) ⭐ 10,301 | 🐛 613 | 🌐 Swift | 📅 2026-08-16): Feed reader that supports RSS, Atom, JSON Feed, and RSS-in-JSON formats
   * <a href="https://netnewswire.com">🌎 `https://netnewswire.com`</a>
   * 🌎 [` App Store`](apps.apple.com/app/netnewswire-rss-reader/id1480640210) <a href="https://netnewswire.com/images/nnwios5/iPad-Light-Thumb.png">🌎 `Screenshot 1`</a>
   * `2026` `swift`
@@ -2378,7 +2378,7 @@ Mostly using <https://giphy.com/> — [back to top](#readme)
   * 🌎 [` App Store`](apps.apple.com/app/twine-rss-reader/id6465694958)  <b><code>  2381⭐</code></b> <b><code>   135🍴</code></b> <a href="https://github.com/msasikanth/twine/blob/main/readme_images/banner.png?raw=true">`Screenshot 1`</a></a>
   * `2026` `kotlin` `kotlin-multiplatform`
   * ☆`2359`
-* <b><code>  1159⭐</code></b> <b><code>    61🍴</code></b> [FeedFlow](https://github.com/prof18/feed-flow) ⭐ 1,163 | 🐛 82 | 🌐 Kotlin | 📅 2026-08-18): Minimalistic and opinionated RSS Reader
+* <b><code>  1159⭐</code></b> <b><code>    61🍴</code></b> [FeedFlow](https://github.com/prof18/feed-flow) ⭐ 1,163 | 🐛 83 | 🌐 Kotlin | 📅 2026-08-19): Minimalistic and opinionated RSS Reader
   * <b><code>     ?⭐</code></b> <b><code>     ?🍴</code></b> <a href="https://github.com/prof18/feed-flow/raw/main/assets/banners.png">`Screenshot 1`</a></a>
   * `2026` `swift` `kotlin` `swiftui` `jetpack`
   * ☆`1007`
@@ -2391,16 +2391,16 @@ Mostly using <https://giphy.com/> — [back to top](#readme)
 
 [back to top](#readme)
 
-* <b><code> 24542⭐</code></b> <b><code>  9157🍴</code></b> [Chrome](https://github.com/chromium/chromium) ⭐ 24,557 | 🐛 28 | 📅 2026-08-19)
+* <b><code> 24542⭐</code></b> <b><code>  9157🍴</code></b> [Chrome](https://github.com/chromium/chromium) ⭐ 24,560 | 🐛 28 | 📅 2026-08-19)
   * <a href="https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/15/4d/26/154d2610-1d6e-ed2e-7a7a-698f98e466c1/mzl.fuawsxsw.png/626x0w.jpg">🌎 `Screenshot 1`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/69/51/f2/6951f239-8529-90e5-3b24-0b8ccae172e3/mzl.qdavkgej.png/626x0w.jpg'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/0a/f9/84/0af984c6-83d0-270a-d062-5a16fd16acfb/mzl.ykkkwqij.png/626x0w.jpg'>`Screenshot 3`</a>
   * `2026` `objective-c++`
   * ☆`24291`
-* <b><code> 21100⭐</code></b> <b><code>  6584🍴</code></b> [Kodi](https://github.com/xbmc/xbmc) ⭐ 21,107 | 🐛 445 | 🌐 C++ | 📅 2026-08-19): Media player & entertainment hub, includes a separate remote app
+* <b><code> 21100⭐</code></b> <b><code>  6584🍴</code></b> [Kodi](https://github.com/xbmc/xbmc) ⭐ 21,108 | 🐛 443 | 🌐 C++ | 📅 2026-08-19): Media player & entertainment hub, includes a separate remote app
   * <a href="https://kodi.wiki">🌎 `https://kodi.wiki`</a>
   * <a href="https://kodi.wiki/images/9/99/Kodi_on_ipad_in_hand.jpg">🌎 `Screenshot 1`</a>
   * `2026` `objc`
   * ☆`20984`
-* <b><code> 19357⭐</code></b> <b><code>  6155🍴</code></b> [VLC](https://github.com/videolan/vlc) ⭐ 19,372 | 🐛 2 | 🌐 C | 📅 2026-08-19): Media Player
+* <b><code> 19357⭐</code></b> <b><code>  6155🍴</code></b> [VLC](https://github.com/videolan/vlc) ⭐ 19,374 | 🐛 2 | 🌐 C | 📅 2026-08-19): Media Player
   * <a href="https://www.videolan.org/">🌎 `https://www.videolan.org/`</a>
   * 🌎 [` App Store`](apps.apple.com/app/vlc-for-ios/id650377962) <a href="https://user-images.githubusercontent.com/4723115/146823429-c85f22c0-e757-48c0-ba54-0930ed1769bc.png">🌎 `Screenshot 1`</a>
   * `2026` `objc` `ipad`
@@ -2426,7 +2426,7 @@ Mostly using <https://giphy.com/> — [back to top](#readme)
   * 🌎 [` App Store`](apps.apple.com/app/rainbow-ethereum-wallet/id1457119021) <a href="https://user-images.githubusercontent.com/4723115/139700145-bb518aef-a815-421b-a504-1f2646ed32bc.png">🌎 `Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/4723115/139700159-5ac0f3cc-8ecf-4b56-a020-e5e848d460e3.png'>`Screenshot 2`</a>
   * `2026` `reactnative` `typescript`
   * ☆`4371`
-* <b><code>  3908⭐</code></b> <b><code>  1167🍴</code></b> [WordPress](https://github.com/wordpress-mobile/WordPress-iOS) ⭐ 3,908 | 🐛 362 | 🌐 Swift | 📅 2026-08-19): Official WordPress app
+* <b><code>  3908⭐</code></b> <b><code>  1167🍴</code></b> [WordPress](https://github.com/wordpress-mobile/WordPress-iOS) ⭐ 3,908 | 🐛 361 | 🌐 Swift | 📅 2026-08-19): Official WordPress app
   * 🌎 [` App Store`](apps.apple.com/app/wordpress/id335703880) <a href="https://mobiledotblog.files.wordpress.com/2019/10/690x0w.jpg">🌎 `Screenshot 1`</a>
   * `2026` `swift`
   * ☆`3909`
@@ -2434,7 +2434,7 @@ Mostly using <https://giphy.com/> — [back to top](#readme)
   * 🌎 [` App Store`](apps.apple.com/app/wikipedia-mobile/id324715238) <a href="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/ce/66/0c/ce660cad-9495-8b63-bb6d-c75622b75333/pr_source.png/460x0w.jpg">🌎 `Screenshot 1`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/4a/80/07/4a800728-ff89-81ad-eaad-5f7ce92d8a4c/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/e4/96/48/e49648cf-eb1f-89ac-376e-ca83e43a51e9/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/d5/37/2a/d5372ad3-37b4-e9dd-2506-c5b49e374df1/pr_source.png/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/3b/61/e4/3b61e4cc-e063-519b-82de-cafa39650512/pr_source.png/460x0w.jpg'>`Screenshot 5`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/19/c2/3e/19c23e96-1498-893f-7112-672201f2610e/pr_source.png/460x0w.jpg'>`Screenshot 6`</a>
   * `2026` `swift`
   * ☆`3417`
-* <b><code>  2480⭐</code></b> <b><code>  1025🍴</code></b> [Nextcloud](https://github.com/nextcloud/ios) ⭐ 2,480 | 🐛 990 | 🌐 Swift | 📅 2026-08-18): A safe home for all your data
+* <b><code>  2480⭐</code></b> <b><code>  1025🍴</code></b> [Nextcloud](https://github.com/nextcloud/ios) ⭐ 2,480 | 🐛 982 | 🌐 Swift | 📅 2026-08-19): A safe home for all your data
   * <a href="https://nextcloud.com">🌎 `https://nextcloud.com`</a>
   * 🌎 [` App Store`](apps.apple.com/app/nextcloud/id1125420102) <a href="https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/f9/87/cb/f987cbdd-1382-b745-1eff-85cf980e673f/pr_source.jpg/460x0w.jpg">🌎 `Screenshot 1`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/a2/44/89/a2448912-df4f-ac28-a30d-82a9699a9fe4/mzl.bdctkilq.jpg/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/25/ba/7c/25ba7cc2-f9b4-518c-e201-c03bcceffbe1/mzl.fxvipxna.jpg/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/8a/dc/14/8adc144f-e5bc-512e-6f1b-5583dd7bb014/mzl.uymqtwli.jpg/460x0w.jpg'>`Screenshot 4`</a>
   * `2026` `objc`
@@ -2452,7 +2452,7 @@ Mostly using <https://giphy.com/> — [back to top](#readme)
   * 🌎 [` App Store`](apps.apple.com/app/ivpn-secure-vpn-for-privacy/id1193122683)  <b><code>     ?⭐</code></b> <b><code>     ?🍴</code></b> <a href="https://github.com/user-attachments/assets/b3db260b-3c94-4913-90c1-25f6c2e771f1">`Screenshot 1`</a></a>
   * `2026` `swift` `ipad`
   * ☆`563`
-* <b><code>   503⭐</code></b> <b><code>   100🍴</code></b> [Ultralytics YOLO](https://github.com/ultralytics/yolo-ios-app) ⭐ 503 | 🐛 1 | 🌐 Swift | 📅 2026-08-15): Ultralytics vision and AI
+* <b><code>   503⭐</code></b> <b><code>   100🍴</code></b> [Ultralytics YOLO](https://github.com/ultralytics/yolo-ios-app) ⭐ 505 | 🐛 1 | 🌐 Swift | 📅 2026-08-15): Ultralytics vision and AI
   * <a href="https://www.ultralytics.com/yolo">🌎 `https://www.ultralytics.com/yolo`</a>
   * 🌎 [` App Store`](apps.apple.com/app/ultralytics-yolo/id1452689527)  <b><code>     ?⭐</code></b> <b><code>     ?🍴</code></b> <a href="https://github.com/user-attachments/assets/d5dab2e7-f473-47ce-bc63-69bef89ba52a">`Screenshot 1`</a></a>
   * `2026` `swift`
@@ -2461,7 +2461,7 @@ Mostly using <https://giphy.com/> — [back to top](#readme)
   * 🌎 [` App Store`](apps.apple.com/app/id578665578) <a href="https://is2-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/6e/0c/05/6e0c054b-24d1-3796-4006-bd5078511a80/aaea1545-ccaf-42d3-8d9a-d3ef27417fa1_iphon65_4.6-en_us-01-promo.png/460x0w.png">🌎 `Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/ee/f1/59/eef15998-8309-3e8b-b047-a8614645e30f/87522c7d-2998-41e2-882e-ea3f636ded44_iphon65_4.6-en_us-02-promo.png/460x0w.png'>`Screenshot 2`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/2b/7b/87/2b7b8738-4ce9-dddf-24ff-73c9949e530e/ca775975-4ea7-4aa9-bf12-e5e012b53f72_iphon65_4.6-en_us-03-promo.png/460x0w.png'>`Screenshot 3`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/6d/98/75/6d98752c-9602-a893-ec7b-03a9f93f9985/69f7a9d4-0416-4d4c-9bad-d3de10d9da31_iphon65_4.6-en_us-04-promo.png/460x0w.png'>`Screenshot 4`</a>
   * `2026` `swift` `objc`
   * ☆`417`
-* <b><code>   251⭐</code></b> <b><code>    79🍴</code></b> [DuckDuckGo browser](https://github.com/duckduckgo/apple-browsers) ⭐ 251 | 🐛 123 | 🌐 Swift | 📅 2026-08-19)
+* <b><code>   251⭐</code></b> <b><code>    79🍴</code></b> [DuckDuckGo browser](https://github.com/duckduckgo/apple-browsers) ⭐ 251 | 🐛 127 | 🌐 Swift | 📅 2026-08-19)
   * 🌎 [` App Store`](apps.apple.com/app/duckduckgo-browser-search-ai/id663592361)  <b><code>     ?⭐</code></b> <b><code>     ?🍴</code></b> <a href="https://github.com/user-attachments/assets/c67787e0-97ef-40d4-89ad-deed9dfa3c98">`Screenshot 1`</a></a>
   * `2026` `swift` `ipad` `macos`
   * ☆`233`
@@ -2470,11 +2470,11 @@ Mostly using <https://giphy.com/> — [back to top](#readme)
   * 🌎 [` App Store`](apps.apple.com/app/nextcloud-talk/id1296825574) <a href="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/e3/82/1e/e3821efd-c7fe-d7ce-1416-a8ddc7b86a23/pr_source.png/460x0w.png">🌎 `Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/a8/ba/96/a8ba9621-f390-9fda-27fb-2be07e57ccde/pr_source.png/460x0w.png'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/e3/ae/14/e3ae1453-2409-40d9-9d4b-e83da63d7f2c/mzl.luuiuato.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/07/0e/98/070e9847-526d-c901-b8fd-d3f50c03a718/mzl.renucwgu.png/460x0w.jpg'>`Screenshot 4`</a>
   * `2026` `objc`
   * ☆`226`
-* <b><code>   166⭐</code></b> <b><code>    40🍴</code></b> [Wire](https://github.com/wireapp/wire-ios) ⭐ 166 | 🐛 33 | 🌐 Swift | 📅 2026-08-19): Modern, private communications with crystal clear voice, video, group chats - always encrypted
+* <b><code>   166⭐</code></b> <b><code>    40🍴</code></b> [Wire](https://github.com/wireapp/wire-ios) ⭐ 166 | 🐛 34 | 🌐 Swift | 📅 2026-08-19): Modern, private communications with crystal clear voice, video, group chats - always encrypted
   * 🌎 [` App Store`](apps.apple.com/app/wire/id930944768) <a href="https://cdn-images-1.medium.com/v2/resize:fit:800/1*CEtofzY1rIOKuGT7JO3VkA.png">🌎 `Screenshot 1`</a>
   * `2026` `swift` `carthage` `afnetworking` `purelayout`
   * ☆`163`
-* <b><code>    84⭐</code></b> <b><code>    13🍴</code></b> [kDrive](https://github.com/Infomaniak/ios-kDrive) ⭐ 84 | 🐛 7 | 🌐 Swift | 📅 2026-08-17): Secure cloud to collaborate online, access your documents and files on all your devices
+* <b><code>    84⭐</code></b> <b><code>    13🍴</code></b> [kDrive](https://github.com/Infomaniak/ios-kDrive) ⭐ 84 | 🐛 8 | 🌐 Swift | 📅 2026-08-19): Secure cloud to collaborate online, access your documents and files on all your devices
   * <a href="https://www.infomaniak.com/kdrive">🌎 `https://www.infomaniak.com/kdrive`</a>
   * 🌎 [` App Store`](apps.apple.com/app/infomaniak-kdrive/id1482778676) <a href="https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/fd/5e/eb/fd5eeb3a-6bef-a79f-b3f6-f6dacd824b8e/2da2a5e3-f988-4215-931a-58f58c9b9a66_mobile-6.5-1.png/600x0w.png">🌎 `Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/8e/a7/72/8ea772cc-81d0-112f-ee4b-c475a92501bc/0c9b7def-a516-4116-92b4-7fa131519ac3_mobile-6.5-2.png/600x0w.png'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/c5/ca/17/c5ca17ff-2950-0ec1-ab91-4e02f8d0947f/1391ef65-23e7-44b7-9c64-62bb35d84f80_mobile-6.5-3.png/600x0w.png'>`Screenshot 3`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/d7/de/85/d7de854f-c3b4-269d-9777-0252d4933666/9eef055e-3d6b-4bf0-9ab4-a0d6d9b9055b_mobile-6.5-4.png/600x0w.png'>`Screenshot 4`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/cd/2a/1acd2a04-49eb-94f5-fca3-6fc9c1e4ada5/df89351c-147d-457f-ba48-e6765e6a24c2_mobile-6.5-5.png/600x0w.png'>`Screenshot 5`</a>
   * `2026` `swift`
@@ -2492,7 +2492,7 @@ Mostly using <https://giphy.com/> — [back to top](#readme)
 
 [back to top](#readme)
 
-* <b><code>   684⭐</code></b> <b><code>   118🍴</code></b> [Foqos](https://github.com/awaseem/foqos) ⭐ 686 | 🐛 14 | 🌐 Swift | 📅 2026-08-11): Block distractions, lock apps behind the tap of a NFC tag
+* <b><code>   684⭐</code></b> <b><code>   118🍴</code></b> [Foqos](https://github.com/awaseem/foqos) ⭐ 687 | 🐛 14 | 🌐 Swift | 📅 2026-08-11): Block distractions, lock apps behind the tap of a NFC tag
   * 🌎 [` App Store`](apps.apple.com/app/foqos/id6736793117) <a href="https://www.foqos.app/assets/screenshot.jpg">🌎 `Screenshot 1`</a>
   * `2026` `swift`
   * ☆`614`
@@ -2708,7 +2708,7 @@ Mostly using <https://giphy.com/> — [back to top](#readme)
   * 🌎 [` App Store`](apps.apple.com/app/keybase-crypto-for-everyone/id1044461770)
   * `2026` `react-native`
   * ☆`9233`
-* <b><code>  9235⭐</code></b> <b><code>  1455🍴</code></b> [Outline](https://github.com/OutlineFoundation/outline-apps) ⭐ 9,235 | 🐛 537 | 🌐 TypeScript | 📅 2026-08-18): VPN designed for use with Outline Server, compatible Shadowsocks
+* <b><code>  9235⭐</code></b> <b><code>  1455🍴</code></b> [Outline](https://github.com/OutlineFoundation/outline-apps) ⭐ 9,234 | 🐛 537 | 🌐 TypeScript | 📅 2026-08-19): VPN designed for use with Outline Server, compatible Shadowsocks
   * <a href="https://getoutline.org">🌎 `https://getoutline.org`</a>
   * `2026` `cordova`
   * ☆`9203`
@@ -2717,7 +2717,7 @@ Mostly using <https://giphy.com/> — [back to top](#readme)
   * 🌎 [` App Store`](apps.apple.com/app/id922429609) <a href="https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/9e/10/b6/9e10b656-8e6e-b4b8-bdce-5f787f12d25e/mzl.utcbsrcn.png/460x0w.jpg">🌎 `Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/40/cc/5f/40cc5f60-4d7a-cb19-ddb5-fb9e92de9205/mzl.xpwjvrke.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/a8/c5/a2/a8c5a2de-33fc-1fad-7f5d-3f1579bc3fc3/mzl.xvkhmgab.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/be/32/0a/be320a6b-a860-a359-5c33-38bba742aef1/mzl.vgjqcasc.png/460x0w.jpg'>`Screenshot 4`</a>
   * `2026` `javascript` `cordova` `iphone` `ipad`
   * ☆`7785`
-* <b><code>  7474⭐</code></b> <b><code>   513🍴</code></b> [Mullvad VPN](https://github.com/mullvad/mullvadvpn-app) ⭐ 7,479 | 🐛 149 | 🌐 Rust | 📅 2026-08-19)
+* <b><code>  7474⭐</code></b> <b><code>   513🍴</code></b> [Mullvad VPN](https://github.com/mullvad/mullvadvpn-app) ⭐ 7,481 | 🐛 144 | 🌐 Rust | 📅 2026-08-19)
   * 🌎 [` App Store`](apps.apple.com/us/app/mullvad-vpn/id1488466513) <a href="https://mullvad.net/media/uploads/2020/04/08/mullvad-vpn-ios-connected.PNG">🌎 `Screenshot 1`</a>  <a href='https://mullvad.net/media/uploads/2020/04/08/mullvad-vpn-ios-login.PNG'>`Screenshot 2`</a>  <a href='https://mullvad.net/media/uploads/2020/04/08/mullvad-vpn-ios-location-server.PNG'>`Screenshot 3`</a>
   * `2026` `swift`
   * ☆`7391`
@@ -2730,7 +2730,7 @@ Mostly using <https://giphy.com/> — [back to top](#readme)
   * 🌎 [` App Store`](apps.apple.com/app/wireguard/id1441195209) <a href='https://github.com/correia-jpv/fucking-open-source-ios-apps/assets/4723115/f9e45058-bd35-4626-b5c9-12f8ba174f63'>`Screenshot 1`</a>
   * `2024` `swift`
   * ☆`1369`
-* <b><code>  1350⭐</code></b> <b><code>   167🍴</code></b> [Passepartout](https://github.com/partout-io/passepartout) ⭐ 1,351 | 🐛 141 | 🌐 Swift | 📅 2026-08-18): User-friendly OpenVPN app
+* <b><code>  1350⭐</code></b> <b><code>   167🍴</code></b> [Passepartout](https://github.com/partout-io/passepartout) ⭐ 1,352 | 🐛 141 | 🌐 Swift | 📅 2026-08-18): User-friendly OpenVPN app
   * 🌎 [` App Store`](apps.apple.com/app/passepartout-vpn-client/id1433648537)  <b><code>     ?⭐</code></b> <b><code>     ?🍴</code></b> <a href="https://github.com/user-attachments/assets/c57fbc5f-07fa-418f-abdf-43befda35af2">`Screenshot 1`</a></a>
   * `2026` `swift`
   * ☆`1326`
@@ -2790,7 +2790,7 @@ Mostly using <https://giphy.com/> — [back to top](#readme)
 
 [back to top](#readme)
 
-* <b><code>  3033⭐</code></b> <b><code>    99🍴</code></b> [AliasVault](https://github.com/aliasvault/aliasvault) ⭐ 3,039 | 🐛 169 | 🌐 TypeScript | 📅 2026-08-18): Privacy-first password manager with built-in email aliasing
+* <b><code>  3033⭐</code></b> <b><code>    99🍴</code></b> [AliasVault](https://github.com/aliasvault/aliasvault) ⭐ 3,039 | 🐛 170 | 🌐 TypeScript | 📅 2026-08-18): Privacy-first password manager with built-in email aliasing
   * 🌎 [` App Store`](apps.apple.com/app/aliasvault/id6745490915) <a href="https://raw.githubusercontent.com/aliasvault/aliasvault/main/docs/static/assets/img/screenshot.png">🌎 `Screenshot 1`</a>
   * `react-native`
 * <b><code>  2922⭐</code></b> <b><code>   267🍴</code></b> [Padlock](https://github.com/padloc/padloc) ⭐ 2,922 | 🐛 104 | 🌐 JavaScript | 📅 2025-03-29): A minimalist open source password manager
@@ -2848,7 +2848,7 @@ Mostly using <https://giphy.com/> — [back to top](#readme)
   * 🌎 [` App Store`](apps.apple.com/app/openshop-io/id1250327932) <a href="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/73/69/85/73698567-5cab-f880-98fc-2d8ed66dbe40/mzl.dmuxskhb.jpg/460x0w.jpg">🌎 `Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/df/db/08/dfdb08af-c9bf-bf5c-dba7-160112403315/mzl.sthehrds.jpg/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/3c/81/17/3c811783-8c5a-196a-484f-3653c688e288/mzl.eogwkzlb.jpg/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/c7/5d/05/c75d053d-97e1-7734-ed0c-f6b8e3187a15/mzl.ylqpisof.jpg/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/50/d6/ed/50d6ed5b-7919-bb1c-e129-eb78a8abf542/mzl.mlzjazoh.jpg/460x0w.jpg'>`Screenshot 5`</a>
   * `2019` `objc`
   * ☆`373`
-* <b><code>   360⭐</code></b> <b><code>   122🍴</code></b> [WooCommerce](https://github.com/woocommerce/woocommerce-ios) ⭐ 360 | 🐛 57 | 🌐 Swift | 📅 2026-08-18): Manage orders, receive sales notifications, and view key metrics
+* <b><code>   360⭐</code></b> <b><code>   122🍴</code></b> [WooCommerce](https://github.com/woocommerce/woocommerce-ios) ⭐ 360 | 🐛 61 | 🌐 Swift | 📅 2026-08-19): Manage orders, receive sales notifications, and view key metrics
   * 🌎 [` App Store`](apps.apple.com/app/id1389130815) <a href="https://docs.woocommerce.com/wp-content/uploads/2019/01/mystore-ios.png">🌎 `Screenshot 1`</a>
   * `2026` `swift`
   * ☆`361`
@@ -2905,17 +2905,17 @@ Mostly using <https://giphy.com/> — [back to top](#readme)
 
 [back to top](#readme)
 
-* <b><code>  1432⭐</code></b> <b><code>   170🍴</code></b> [Habo](https://github.com/xpavle00/Habo) ⭐ 1,463 | 🐛 30 | 🌐 Dart | 📅 2026-06-15): Minimalistic habit tracker
+* <b><code>  1432⭐</code></b> <b><code>   170🍴</code></b> [Habo](https://github.com/xpavle00/Habo) ⭐ 1,465 | 🐛 30 | 🌐 Dart | 📅 2026-06-15): Minimalistic habit tracker
   * <a href="https://habo.space">🌎 `https://habo.space`</a>
   * 🌎 [` App Store`](apps.apple.com/us/app/habo-habit-tracker/id1670223360) <a href="https://habo.space/images/mockups/mockup2_hu_128f21691bd29adf.webp">🌎 `Screenshot 1`</a>
   * `2026` `flutter` `dart`
   * ☆`1354`
-* <b><code>  1454⭐</code></b> <b><code>    85🍴</code></b> [Table Habit](https://github.com/FriesI23/mhabit) ⭐ 1,455 | 🐛 78 | 🌐 Dart | 📅 2026-08-16): Offline-first micro-habit tracker
+* <b><code>  1454⭐</code></b> <b><code>    85🍴</code></b> [Table Habit](https://github.com/FriesI23/mhabit) ⭐ 1,455 | 🐛 79 | 🌐 Dart | 📅 2026-08-19): Offline-first micro-habit tracker
   * <a href="https://testflight.apple.com/join/aJ5PWqaR">🌎 `https://testflight.apple.com/join/aJ5PWqaR`</a>
   * 🌎 [` App Store`](apps.apple.com/app/table-habit/id6744886469)  <b><code>     ?⭐</code></b> <b><code>     ?🍴</code></b> <a href="https://github.com/user-attachments/assets/4e5d2110-52fa-430d-a956-1027c98cd5e9">`Screenshot 1`</a></a>
   * `2026` `flutter` `dart`
   * ☆`1428`
-* <b><code>   848⭐</code></b> <b><code>   261🍴</code></b> [Habitica](https://github.com/HabitRPG/habitica-ios) ⭐ 849 | 🐛 9 | 🌐 Swift | 📅 2026-08-18): Habit building & productivity
+* <b><code>   848⭐</code></b> <b><code>   261🍴</code></b> [Habitica](https://github.com/HabitRPG/habitica-ios) ⭐ 850 | 🐛 9 | 🌐 Swift | 📅 2026-08-18): Habit building & productivity
   * <a href="https://habitica.com/static/home">🌎 `https://habitica.com/static/home`</a>
   * 🌎 [` App Store`](apps.apple.com/app/id994882113) <a href="https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/bf/34/34/bf343412-6b20-bb34-9e7f-36311bc5ec45/pr_source.png/460x0w.jpg">🌎 `Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/51/40/88/514088ab-8a5c-b2fd-275d-d4edb1ab584a/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/c1/97/fb/c197fba5-e41d-6d6d-fac3-a196ce9e126e/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/39/40/dc/3940dcb3-3d49-a328-2926-c03f40f12594/pr_source.png/460x0w.jpg'>`Screenshot 4`</a>
   * `2026` `objc`
@@ -2958,33 +2958,33 @@ Mostly using <https://giphy.com/> — [back to top](#readme)
 
 [back to top](#readme)
 
-* <b><code> 55985⭐</code></b> <b><code>  6232🍴</code></b> [Joplin](https://github.com/laurent22/joplin) ⭐ 56,005 | 🐛 636 | 🌐 TypeScript | 📅 2026-08-18): Note taking and to-do with synchronisation capabilities
+* <b><code> 55985⭐</code></b> <b><code>  6232🍴</code></b> [Joplin](https://github.com/laurent22/joplin) ⭐ 56,009 | 🐛 631 | 🌐 TypeScript | 📅 2026-08-19): Note taking and to-do with synchronisation capabilities
   * <a href="https://joplinapp.org/">🌎 `https://joplinapp.org/`</a>
   * 🌎 [` App Store`](apps.apple.com/app/joplin/id1315599797) <a href="https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/db/aa/50/dbaa50be-e23a-d283-da53-f8cd9528c169/pr_source.jpg/300x0w.jpg">🌎 `Screenshot 1`</a>
   * `2026` `react-native`
   * ☆`55655`
-* <b><code> 44491⭐</code></b> <b><code>  2774🍴</code></b> [Logseq](https://github.com/logseq/logseq) ⭐ 44,506 | 🐛 959 | 🌐 Clojure | 📅 2026-08-19): Outliner that works on top of local plain-text Markdown and Org-mode files
+* <b><code> 44491⭐</code></b> <b><code>  2774🍴</code></b> [Logseq](https://github.com/logseq/logseq) ⭐ 44,507 | 🐛 959 | 🌐 Clojure | 📅 2026-08-19): Outliner that works on top of local plain-text Markdown and Org-mode files
   * 🌎 [` App Store`](apps.apple.com/app/logseq/id1601013908) <a href='https://github.com/correia-jpv/fucking-open-source-ios-apps/assets/4723115/79fd777e-caf7-4021-badf-8b5ca12b9a7a'>`Screenshot 1`</a>
   * `2026` `react-native`
   * ☆`43989`
-* <b><code> 14426⭐</code></b> <b><code>   983🍴</code></b> [Notesnook](https://github.com/streetwriters/notesnook) ⭐ 14,433 | 🐛 965 | 🌐 TypeScript | 📅 2026-08-19): End-to-end encrypted and private note taking alternative to Evernote
+* <b><code> 14426⭐</code></b> <b><code>   983🍴</code></b> [Notesnook](https://github.com/streetwriters/notesnook) ⭐ 14,437 | 🐛 965 | 🌐 TypeScript | 📅 2026-08-19): End-to-end encrypted and private note taking alternative to Evernote
   * <a href="https://notesnook.com">🌎 `https://notesnook.com`</a>
   * 🌎 [` App Store`](apps.apple.com/app/notesnook-keep-notes-private/id1544027013)  <b><code> 14426⭐</code></b> <b><code>   983🍴</code></b> <a href="https://github.com/streetwriters/notesnook/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1.jpg?raw=true">`Screenshot 1`</a>  <a href='https://github.com/streetwriters/notesnook/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2.jpg?raw=true'>`Screenshot 2`</a>  <a href='https://github.com/streetwriters/notesnook/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/3.jpg?raw=true'>`Screenshot 3`</a>  <a href='https://github.com/streetwriters/notesnook/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/4.jpg?raw=true'>`Screenshot 4`</a>  <a href='https://github.com/streetwriters/notesnook/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/5.jpg?raw=true'>`Screenshot 5`</a>  <a href='https://github.com/streetwriters/notesnook/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/6.jpg?raw=true'>`Screenshot 6`</a>  <a href='https://github.com/streetwriters/notesnook/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/7.jpg?raw=true'>`Screenshot 7`</a></a>
   * `2026` `react-native`
   * ☆`14307`
-* <b><code> 12653⭐</code></b> <b><code>   949🍴</code></b> [NoteGen](https://github.com/codexu/note-gen) ⭐ 12,657 | 🐛 121 | 🌐 TypeScript | 📅 2026-08-19): Capture scattered information and organize it into Markdown notes with AI
+* <b><code> 12653⭐</code></b> <b><code>   949🍴</code></b> [NoteGen](https://github.com/codexu/note-gen) ⭐ 12,656 | 🐛 121 | 🌐 TypeScript | 📅 2026-08-19): Capture scattered information and organize it into Markdown notes with AI
   * <a href="https://notegen.top/">🌎 `https://notegen.top/`</a>
   * <a href="https://s2.loli.net/2025/12/22/jlpEP2c6ogwHhIA.png">🌎 `Screenshot 1`</a>
   * `typescript` `rust`
-* <b><code>  7445⭐</code></b> <b><code>   572🍴</code></b> [FSNotes](https://github.com/glushchenko/fsnotes) ⭐ 7,447 | 🐛 4 | 🌐 Swift | 📅 2026-08-17): Notes manager
+* <b><code>  7445⭐</code></b> <b><code>   572🍴</code></b> [FSNotes](https://github.com/glushchenko/fsnotes) ⭐ 7,448 | 🐛 4 | 🌐 Swift | 📅 2026-08-17): Notes manager
   * 🌎 [` App Store`](apps.apple.com/app/fsnotes-manager/id1346501102) <a href="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/f9/72/00/f972005b-5a6b-fc54-b68e-f6a704f82f1f/mzl.kxlcltgy.png/460x0w.jpg">🌎 `Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/ee/fd/a8/eefda80f-f32b-94e4-27f3-e4a3fa8b1079/pr_source.png/460x0w.png'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/95/a0/73/95a0739c-7e40-2e7d-787b-52e59b3d8581/mzl.srqiktcn.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/0e/b1/61/0eb1619e-2e6a-234f-06a6-eefafcad478c/mzl.ihcrhigp.png/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/60/09/11/60091180-1755-60ca-b390-3223f4ac8b34/mzl.vbvqksns.png/460x0w.jpg'>`Screenshot 5`</a>
   * `2026` `swift`
   * ☆`7426`
-* <b><code>  6587⭐</code></b> <b><code>   545🍴</code></b> [Standard Notes](https://github.com/standardnotes/app) ⭐ 6,589 | 🐛 98 | 🌐 TypeScript | 📅 2026-08-18): Notes app with focus on longevity, portability & privacy
+* <b><code>  6587⭐</code></b> <b><code>   545🍴</code></b> [Standard Notes](https://github.com/standardnotes/app) ⭐ 6,591 | 🐛 98 | 🌐 TypeScript | 📅 2026-08-18): Notes app with focus on longevity, portability & privacy
   * 🌎 [` App Store`](apps.apple.com/app/standard-notes/id1285392450) <a href="https://is1.mzstatic.com/image/thumb/Purple118/v4/20/d6/3e/20d63e81-ad02-c057-a4d8-fa105f8fff22/source/392x696bb.jpg">🌎 `Screenshot 1`</a>
   * `2026` `react-native`
   * ☆`6555`
-* <b><code>  4691⭐</code></b> <b><code>   350🍴</code></b> [Saber](https://github.com/saber-notes/saber) ⭐ 4,696 | 🐛 398 | 🌐 Dart | 📅 2026-08-18): Take handwritten notes with the same functionalities as typed ones
+* <b><code>  4691⭐</code></b> <b><code>   350🍴</code></b> [Saber](https://github.com/saber-notes/saber) ⭐ 4,697 | 🐛 398 | 🌐 Dart | 📅 2026-08-18): Take handwritten notes with the same functionalities as typed ones
   * 🌎 [` App Store`](apps.apple.com/app/saber-handwritten-notes/id1671523739) <a href="https://raw.githubusercontent.com/saber-notes/saber/main/metadata/en-US/images/phoneScreenshots/1_home.png">🌎 `Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/saber-notes/saber/main/metadata/en-US/images/phoneScreenshots/2_editor.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/saber-notes/saber/main/metadata/en-US/images/phoneScreenshots/3_login.png'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/saber-notes/saber/main/metadata/en-US/images/phoneScreenshots/4_settings.png'>`Screenshot 4`</a>
   * `2026` `dart`
   * ☆`4606`
@@ -3103,7 +3103,7 @@ Mostly using <https://giphy.com/> — [back to top](#readme)
   * 🌎 [` App Store`](apps.apple.com/app/rainvu/id6754812264)  <b><code>     7⭐</code></b> <b><code>     2🍴</code></b> <a href="https://github.com/astraen-dev/RainVu/blob/8e4686107f14be790e6728c71198c14e514d54a8/docs/home_screen.png?raw=true">`Screenshot 1`</a>  <a href='https://github.com/astraen-dev/RainVu/blob/8e4686107f14be790e6728c71198c14e514d54a8/docs/insights_screen.png?raw=true'>`Screenshot 2`</a></a>
   * `2026` `flutter` `dart`
   * ☆`7`
-* <b><code>     2⭐</code></b> <b><code>     0🍴</code></b> [RAYN Weather](https://github.com/qh-work/RAYN) ⭐ 3 | 🐛 0 | 🌐 Swift | 📅 2026-08-18): Live weather, radar, air quality, astronomy, and marine conditions for Apple TV
+* <b><code>     2⭐</code></b> <b><code>     0🍴</code></b> [RAYN Weather](https://github.com/qh-work/RAYN) ⭐ 3 | 🐛 0 | 🌐 Swift | 📅 2026-08-19): Live weather, radar, air quality, astronomy, and marine conditions for Apple TV
   * <a href="https://raw.githubusercontent.com/qh-work/RAYN/main/docs/media/screenshots/01-current-weather.png">🌎 `Screenshot 1`</a>
   * `swift` `swiftui` `tvos`
 
@@ -3111,7 +3111,7 @@ Mostly using <https://giphy.com/> — [back to top](#readme)
 
 [back to top](#readme)
 
-* <b><code>386601⭐</code></b> <b><code> 81240🍴</code></b> [openclaw](https://github.com/openclaw/openclaw) ⭐ 386,735 | 🐛 5,771 | 🌐 TypeScript | 📅 2026-08-19): Your own personal AI assistant
+* <b><code>386601⭐</code></b> <b><code> 81240🍴</code></b> [openclaw](https://github.com/openclaw/openclaw) ⭐ 386,762 | 🐛 5,777 | 🌐 TypeScript | 📅 2026-08-19): Your own personal AI assistant
   * `2026` `swift`
   * ☆`383574`
 * <b><code> 14192⭐</code></b> <b><code>  1388🍴</code></b> [AltStore](https://github.com/altstoreio/AltStore) ⭐ 14,197 | 🐛 673 | 🌐 Swift | 📅 2026-07-14): An alternate App Store, no jailbreak required
@@ -3119,7 +3119,7 @@ Mostly using <https://giphy.com/> — [back to top](#readme)
   * <a href="https://user-images.githubusercontent.com/4723115/206248971-116cb695-f580-45db-be46-e3a908d6b776.jpeg">🌎 `Screenshot 1`</a>
   * `2026` `swift` `nuke` `keychainaccess`
   * ☆`14078`
-* <b><code> 13557⭐</code></b> <b><code> 15401🍴</code></b> [FreeRDP](https://github.com/FreeRDP/FreeRDP) ⭐ 13,567 | 🐛 162 | 🌐 C | 📅 2026-08-19): An implementation of the Remote Desktop Protocol (RDP)
+* <b><code> 13557⭐</code></b> <b><code> 15401🍴</code></b> [FreeRDP](https://github.com/FreeRDP/FreeRDP) ⭐ 13,570 | 🐛 166 | 🌐 C | 📅 2026-08-19): An implementation of the Remote Desktop Protocol (RDP)
   * <a href="https://www.freerdp.com/">🌎 `https://www.freerdp.com/`</a>
   * 🌎 [` App Store`](apps.apple.com/app/ifreerdp/id604813768) <a href="https://is4-ssl.mzstatic.com/image/thumb/Purple2/v4/b0/a5/9a/b0a59a26-836b-8a60-9e33-d562e945a7fb/mzl.royofexn.png/460x0w.jpg">🌎 `Screenshot 1`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple2/v4/4d/15/ce/4d15ce25-faff-baa6-2f73-d5e77718a0d6/mzl.niuitotb.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple/v4/e9/56/2d/e9562d0d-02a3-73a0-1523-a79dfe190967/mzl.bfucaujc.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple2/v4/23/a1/2b/23a12beb-b1aa-82b9-b9fd-50b622685114/mzl.ydgieukd.png/460x0w.jpg'>`Screenshot 4`</a>
   * `2026` `objc`
@@ -3128,7 +3128,7 @@ Mostly using <https://giphy.com/> — [back to top](#readme)
   * <a href="https://user-images.githubusercontent.com/6302/109386736-ac1f0700-78f4-11eb-812e-4bf971a8c2a7.png">🌎 `Screenshot 1`</a>
   * `2026` `kmm` `kotlin` `swiftui`
   * ☆`3356`
-* <b><code>   979⭐</code></b> <b><code>    65🍴</code></b> [Clearcam](https://github.com/roryclear/clearcam) ⭐ 979 | 🐛 0 | 🌐 Python | 📅 2026-08-17): IP Camera with AI object detection
+* <b><code>   979⭐</code></b> <b><code>    65🍴</code></b> [Clearcam](https://github.com/roryclear/clearcam) ⭐ 979 | 🐛 0 | 🌐 Python | 📅 2026-08-19): IP Camera with AI object detection
   * 🌎 [` App Store`](apps.apple.com/app/clearcam/id6743237694) <a href="https://raw.githubusercontent.com/roryclear/clearcam/refs/heads/main/images/recording.PNG">🌎 `Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/roryclear/clearcam/refs/heads/main/images/browser_events.PNG'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/roryclear/clearcam/refs/heads/main/images/browser_playback.PNG'>`Screenshot 3`</a>
   * `2026` `objc` `security` `selfhosted` `ai` `ml` `object detection`
   * ☆`953`
@@ -3388,10 +3388,10 @@ Mostly using <https://giphy.com/> — [back to top](#readme)
 
 <https://flutter.dev> — [back to top](#readme)
 
-* <b><code>111378⭐</code></b> <b><code>  6588🍴</code></b> [Immich](https://github.com/immich-app/immich) ⭐ 111,601 | 🐛 717 | 🌐 TypeScript | 📅 2026-08-19): Self-hosted photo and video backup
+* <b><code>111378⭐</code></b> <b><code>  6588🍴</code></b> [Immich](https://github.com/immich-app/immich) ⭐ 111,614 | 🐛 718 | 🌐 TypeScript | 📅 2026-08-19): Self-hosted photo and video backup
   * `2026` `flutter`
   * ☆`108282`
-* <b><code> 15476⭐</code></b> <b><code>  2626🍴</code></b> [GSYGithubApp](https://github.com/CarGuo/gsy_github_app_flutter) ⭐ 15,477 | 🐛 4 | 🌐 Dart | 📅 2026-08-17): GitHub client
+* <b><code> 15476⭐</code></b> <b><code>  2626🍴</code></b> [GSYGithubApp](https://github.com/CarGuo/gsy_github_app_flutter) ⭐ 15,478 | 🐛 4 | 🌐 Dart | 📅 2026-08-17): GitHub client
   * <b><code>     ?⭐</code></b> <b><code>     ?🍴</code></b> <a href="https://github.com/CarGuo/gsy_github_app_flutter/raw/master/ios.gif">`Screenshot 1`</a></a>
   * `2026` `flutter` `dart`
   * ☆`15467`
@@ -3418,12 +3418,12 @@ Mostly using <https://giphy.com/> — [back to top](#readme)
   * 🌎 [` App Store`](apps.apple.com/app/hacki/id1602043763) <a href="https://user-images.githubusercontent.com/7277662/148859621-965080f3-a191-44cd-a2fc-9ac1f489ef84.png">🌎 `Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/7277662/148859627-48290a22-9679-442b-bae4-97f21546b3ae.png'>`Screenshot 2`</a>  <a href='https://user-images.githubusercontent.com/7277662/148859630-93f7e372-f2e7-4357-86c0-250a3f69c10f.png'>`Screenshot 3`</a>  <a href='https://user-images.githubusercontent.com/7277662/148859632-b52a89ca-b8d7-464c-a508-faa86bcc87f8.png'>`Screenshot 4`</a>
   * `2026` `flutter`
   * ☆`1579`
-* <b><code>  1432⭐</code></b> <b><code>   170🍴</code></b> [Habo](https://github.com/xpavle00/Habo) ⭐ 1,463 | 🐛 30 | 🌐 Dart | 📅 2026-06-15): Minimalistic habit tracker
+* <b><code>  1432⭐</code></b> <b><code>   170🍴</code></b> [Habo](https://github.com/xpavle00/Habo) ⭐ 1,465 | 🐛 30 | 🌐 Dart | 📅 2026-06-15): Minimalistic habit tracker
   * <a href="https://habo.space">🌎 `https://habo.space`</a>
   * 🌎 [` App Store`](apps.apple.com/us/app/habo-habit-tracker/id1670223360) <a href="https://habo.space/images/mockups/mockup2_hu_128f21691bd29adf.webp">🌎 `Screenshot 1`</a>
   * `2026` `flutter` `dart`
   * ☆`1354`
-* <b><code>  1454⭐</code></b> <b><code>    85🍴</code></b> [Table Habit](https://github.com/FriesI23/mhabit) ⭐ 1,455 | 🐛 78 | 🌐 Dart | 📅 2026-08-16): Offline-first micro-habit tracker
+* <b><code>  1454⭐</code></b> <b><code>    85🍴</code></b> [Table Habit](https://github.com/FriesI23/mhabit) ⭐ 1,455 | 🐛 79 | 🌐 Dart | 📅 2026-08-19): Offline-first micro-habit tracker
   * <a href="https://testflight.apple.com/join/aJ5PWqaR">🌎 `https://testflight.apple.com/join/aJ5PWqaR`</a>
   * 🌎 [` App Store`](apps.apple.com/app/table-habit/id6744886469)  <b><code>     ?⭐</code></b> <b><code>     ?🍴</code></b> <a href="https://github.com/user-attachments/assets/4e5d2110-52fa-430d-a956-1027c98cd5e9">`Screenshot 1`</a></a>
   * `2026` `flutter` `dart`
@@ -3603,7 +3603,7 @@ Cross platform projects — [back to top](#readme)
   * <a href="https://raw.githubusercontent.com/Dimillian/MovieSwiftUI/master/images/MovieSwiftUI_promo_new.png">🌎 `Screenshot 1`</a>
   * `2024` `swift` `swiftui` `themoviedb` `combine` `ipad` `macos`
   * ☆`6527`
-* <b><code>  3634⭐</code></b> <b><code>   159🍴</code></b> [Yattee](https://github.com/yattee/yattee) ⭐ 3,639 | 🐛 222 | 🌐 Swift | 📅 2026-08-03): Alternative to YouTube
+* <b><code>  3634⭐</code></b> <b><code>   159🍴</code></b> [Yattee](https://github.com/yattee/yattee) ⭐ 3,640 | 🐛 222 | 🌐 Swift | 📅 2026-08-03): Alternative to YouTube
   * 🌎 [` App Store`](apps.apple.com/app/yattee/id1595136629)
   * `2026` `swift` `tvos`
   * ☆`3572`
@@ -3671,10 +3671,10 @@ Cross platform projects — [back to top](#readme)
 
 <https://facebook.github.io/react-native/> — [back to top](#readme)
 
-* <b><code>126353⭐</code></b> <b><code> 25217🍴</code></b> [RNTester](https://github.com/react/react-native/tree/main/packages/rn-tester) ⭐ 126,362 | 🐛 1,051 | 🌐 C++ | 📅 2026-08-19): Showcases React Native views & modules
+* <b><code>126353⭐</code></b> <b><code> 25217🍴</code></b> [RNTester](https://github.com/react/react-native/tree/main/packages/rn-tester) ⭐ 126,363 | 🐛 1,049 | 🌐 C++ | 📅 2026-08-19): Showcases React Native views & modules
   * <a href='https://github.com/correia-jpv/fucking-open-source-ios-apps/assets/4723115/6ef0b930-4ab0-4c65-a70e-9a58bbc24c6d'>`Screenshot 1`</a>
   * `2023` `react-native`
-* <b><code> 29760⭐</code></b> <b><code>  7997🍴</code></b> [Jitsi Meet](https://github.com/jitsi/jitsi-meet) ⭐ 29,767 | 🐛 149 | 🌐 TypeScript | 📅 2026-08-19): Video meetings for everyone
+* <b><code> 29760⭐</code></b> <b><code>  7997🍴</code></b> [Jitsi Meet](https://github.com/jitsi/jitsi-meet) ⭐ 29,769 | 🐛 148 | 🌐 TypeScript | 📅 2026-08-19): Video meetings for everyone
   * 🌎 [` App Store`](apps.apple.com/app/jitsi-meet/id1165103905) <a href='https://github.com/correia-jpv/fucking-open-source-ios-apps/assets/4723115/049383c1-2870-4b7d-ac2b-52c677e0e04b'>`Screenshot 1`</a>
   * `2026` `react-native`
   * ☆`29621`
@@ -3698,7 +3698,7 @@ Cross platform projects — [back to top](#readme)
   * 🌎 [` App Store`](apps.apple.com/app/rainbow-ethereum-wallet/id1457119021) <a href="https://user-images.githubusercontent.com/4723115/139700145-bb518aef-a815-421b-a504-1f2646ed32bc.png">🌎 `Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/4723115/139700159-5ac0f3cc-8ecf-4b56-a020-e5e848d460e3.png'>`Screenshot 2`</a>
   * `2026` `reactnative` `typescript`
   * ☆`4371`
-* <b><code>  3775⭐</code></b> <b><code>   591🍴</code></b> [Artsy](https://github.com/artsy/eigen) ⭐ 3,775 | 🐛 16 | 🌐 TypeScript | 📅 2026-08-19): The art world in your pocket
+* <b><code>  3775⭐</code></b> <b><code>   591🍴</code></b> [Artsy](https://github.com/artsy/eigen) ⭐ 3,775 | 🐛 19 | 🌐 TypeScript | 📅 2026-08-19): The art world in your pocket
   * 🌎 [` App Store`](apps.apple.com/app/artsy-art-world-in-your-pocket/id703796080) <a href='https://github.com/correia-jpv/fucking-open-source-ios-apps/assets/4723115/2e40b21e-59fa-4026-ad3c-07e2a08bf4f5'>`Screenshot 1`</a>
   * `2026` `iphone` `ipad` `reactnative` `typescript`
   * ☆`3775`
@@ -3730,7 +3730,7 @@ Cross platform projects — [back to top](#readme)
   * <a href='https://github.com/correia-jpv/fucking-open-source-ios-apps/assets/4723115/4ade6dbc-6bee-4018-9f10-4e9d28ca6027'>`Screenshot 1`</a>
   * `2026` `react-native`
   * ☆`1028`
-* <b><code>  1018⭐</code></b> <b><code>   510🍴</code></b> [Chatwoot](https://github.com/chatwoot/chatwoot-mobile-app) ⭐ 1,018 | 🐛 80 | 🌐 TypeScript | 📅 2026-08-18): Live chat for businesses
+* <b><code>  1018⭐</code></b> <b><code>   510🍴</code></b> [Chatwoot](https://github.com/chatwoot/chatwoot-mobile-app) ⭐ 1,018 | 🐛 81 | 🌐 TypeScript | 📅 2026-08-19): Live chat for businesses
   * 🌎 [` App Store`](apps.apple.com/app/id1495796682) <a href='https://github.com/correia-jpv/fucking-open-source-ios-apps/assets/4723115/ca04127b-5c28-419f-95cf-3b1d4816ad07'>`Screenshot 1`</a>
   * `2026` `react-native`
   * ☆`987`
