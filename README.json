@@ -5,7 +5,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "20234⭐ 6376🍴 VLC",
+          "title": "20255⭐ 6388🍴 VLC",
           "description": "): Media Player",
           "children": [],
           "repo_info": {
@@ -15,11 +15,11 @@
             "id": 3299208,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-27T14:20:25Z",
+            "last_commit": "2026-10-28T14:00:25Z",
             "open_issues": 2,
             "owner": "videolan",
             "repo": "vlc",
-            "stars": 20244,
+            "stars": 20260,
             "topics": [
               "c",
               "framework",
@@ -34,7 +34,7 @@
         },
         {
           "node_type": "item",
-          "title": "6390⭐ 714🍴 Provenance",
+          "title": "6391⭐ 714🍴 Provenance",
           "description": "): Emulators frontend for Sega Genesis, SNES, NES, GB/GBC & more",
           "children": [],
           "repo_info": {
@@ -44,7 +44,7 @@
             "id": 12416862,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-27T07:09:51Z",
+            "last_commit": "2026-10-28T06:57:21Z",
             "open_issues": 238,
             "owner": "Provenance-Emu",
             "repo": "Provenance",
@@ -76,7 +76,7 @@
         },
         {
           "node_type": "item",
-          "title": "4238⭐ 632🍴 Swiftfin",
+          "title": "4241⭐ 634🍴 Swiftfin",
           "description": "): Jellyfin Client",
           "children": [],
           "repo_info": {
@@ -86,7 +86,7 @@
             "id": 367480581,
             "language": "Swift",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-27T09:41:17Z",
+            "last_commit": "2026-10-28T03:58:15Z",
             "open_issues": 77,
             "owner": "jellyfin",
             "repo": "Swiftfin",
@@ -103,7 +103,7 @@
         },
         {
           "node_type": "item",
-          "title": "3169⭐ 527🍴 BiliBili",
+          "title": "3170⭐ 527🍴 BiliBili",
           "description": "yichengchen/ATV-Bilibili-demo",
           "children": [
             {
@@ -146,7 +146,7 @@
         },
         {
           "node_type": "item",
-          "title": "1698⭐ 608🍴 Moonlight Game Streaming",
+          "title": "1701⭐ 612🍴 Moonlight Game Streaming",
           "description": "moonlight-stream/moonlight-ios",
           "children": [],
           "repo_info": {
@@ -397,7 +397,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "1904⭐ 31🍴 pISSStream",
+          "title": "1902⭐ 31🍴 pISSStream",
           "description": "): International Space Station's urine tank",
           "children": [],
           "repo_info": {
@@ -411,7 +411,7 @@
             "open_issues": 6,
             "owner": "Jaennaet",
             "repo": "pISSStream",
-            "stars": 1904,
+            "stars": 1902,
             "topics": [
               "humor",
               "humour",
@@ -800,7 +800,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "2274⭐ 185🍴 TermiWatch",
+          "title": "2275⭐ 186🍴 TermiWatch",
           "description": "): A terminal face for Apple Watch",
           "children": [],
           "repo_info": {
@@ -904,7 +904,7 @@
         },
         {
           "node_type": "item",
-          "title": "494⭐ 109🍴 Fud AI",
+          "title": "502⭐ 112🍴 Fud AI",
           "description": "): Calorie, macro and workout tracker that logs meals from photos, barcodes, text or a spoken conversation, using your own Gemini, OpenAI, Claude or other AI key, with an AI coach, Apple Health sync and no account",
           "children": [],
           "repo_info": {
@@ -915,10 +915,10 @@
             "language": "Kotlin",
             "license": "MIT",
             "last_commit": "2026-10-26T00:42:27Z",
-            "open_issues": 32,
+            "open_issues": 33,
             "owner": "apoorvdarshan",
             "repo": "fud-ai",
-            "stars": 498,
+            "stars": 502,
             "topics": [
               "ai",
               "android",
@@ -1111,7 +1111,7 @@
         },
         {
           "node_type": "item",
-          "title": "119⭐ 24🍴 PhotoWatch",
+          "title": "120⭐ 24🍴 PhotoWatch",
           "description": "): Uses the SwiftyDropbox SDK",
           "children": [
             {
@@ -1405,7 +1405,7 @@
         },
         {
           "node_type": "item",
-          "title": "20⭐ 3🍴 Ischys",
+          "title": "21⭐ 4🍴 Ischys",
           "description": "): Strength training log that keeps everything on the phone, with an Apple Watch app and a Lock Screen Live Activity, no account",
           "children": [],
           "repo_info": {
@@ -1447,7 +1447,7 @@
         },
         {
           "node_type": "item",
-          "title": "18⭐ 3🍴 Recly",
+          "title": "19⭐ 3🍴 Recly",
           "description": "): One-tap recorder for iPhone and Apple Watch that saves recordings to your own Google Drive or iCloud without a Recly account or server, and transcribes them on device or with your own API key",
           "children": [],
           "repo_info": {
@@ -1457,11 +1457,11 @@
             "id": 1348293150,
             "language": "Kotlin",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-27T12:53:49Z",
+            "last_commit": "2026-10-28T12:53:02Z",
             "open_issues": 2,
             "owner": "rokrokss",
             "repo": "recly",
-            "stars": 18,
+            "stars": 19,
             "topics": [
               "ai-notes",
               "apple-watch",
@@ -1642,7 +1642,7 @@
             "id": 1380448862,
             "language": "Swift",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-27T14:23:13Z",
+            "last_commit": "2026-10-28T08:08:14Z",
             "open_issues": 0,
             "owner": "denis-kolchev",
             "repo": "Paint-Anytime",
@@ -1697,7 +1697,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "25143⭐ 9370🍴 Chrome",
+          "title": "25164⭐ 9384🍴 Chrome",
           "description": "chromium/chromium",
           "children": [],
           "repo_info": {
@@ -1707,11 +1707,11 @@
             "id": 120360765,
             "language": null,
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-27T14:47:07Z",
+            "last_commit": "2026-10-28T15:22:35Z",
             "open_issues": 28,
             "owner": "chromium",
             "repo": "chromium",
-            "stars": 25153,
+            "stars": 25169,
             "topics": [
               "browser",
               "chromium"
@@ -1721,7 +1721,7 @@
         },
         {
           "node_type": "item",
-          "title": "13064⭐ 3287🍴 Firefox",
+          "title": "13068⭐ 3289🍴 Firefox",
           "description": "): Official Firefox app",
           "children": [],
           "repo_info": {
@@ -1731,11 +1731,11 @@
             "id": 26133979,
             "language": "Swift",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-27T14:52:29Z",
+            "last_commit": "2026-10-28T15:07:25Z",
             "open_issues": 1594,
             "owner": "mozilla-mobile",
             "repo": "firefox-ios",
-            "stars": 13066,
+            "stars": 13068,
             "topics": [
               "browser",
               "firefox",
@@ -1762,7 +1762,7 @@
             "open_issues": 6,
             "owner": "OnionBrowser",
             "repo": "OnionBrowser",
-            "stars": 2703,
+            "stars": 2702,
             "topics": [
               "anonymity",
               "browser",
@@ -1782,7 +1782,7 @@
         },
         {
           "node_type": "item",
-          "title": "1852⭐ 151🍴 Reynard Browser",
+          "title": "1866⭐ 154🍴 Reynard Browser",
           "description": "): Experimental Gecko-based web browser",
           "children": [],
           "repo_info": {
@@ -1792,11 +1792,11 @@
             "id": 1147071648,
             "language": "Swift",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-25T12:56:45Z",
+            "last_commit": "2026-10-28T05:19:47Z",
             "open_issues": 7,
             "owner": "minh-ton",
             "repo": "reynard-browser",
-            "stars": 1862,
+            "stars": 1867,
             "topics": [
               "gecko",
               "ios",
@@ -1835,7 +1835,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "5204⭐ 857🍴 Calculator",
+          "title": "5203⭐ 856🍴 Calculator",
           "description": "): React Native calculator",
           "children": [],
           "repo_info": {
@@ -1849,7 +1849,7 @@
             "open_issues": 25,
             "owner": "benoitvallon",
             "repo": "react-native-nw-react-calculator",
-            "stars": 5204,
+            "stars": 5203,
             "topics": [
               "android-app",
               "architecture",
@@ -1887,7 +1887,7 @@
         },
         {
           "node_type": "item",
-          "title": "81⭐ 482🍴 BMI Calculator",
+          "title": "81⭐ 481🍴 BMI Calculator",
           "description": "appbrewery/BMI-Calculator-iOS13",
           "children": [],
           "repo_info": {
@@ -2026,7 +2026,7 @@
         },
         {
           "node_type": "item",
-          "title": "12⭐ 9🍴 calcupad",
+          "title": "13⭐ 9🍴 calcupad",
           "description": "kwonye/calcupad",
           "children": [],
           "repo_info": {
@@ -2321,7 +2321,7 @@
             "open_issues": 2,
             "owner": "zizicici",
             "repo": "Off-Day",
-            "stars": 392,
+            "stars": 393,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:47.703Z"
@@ -2355,7 +2355,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "9671⭐ 2618🍴 FlappySwift",
+          "title": "9670⭐ 2617🍴 FlappySwift",
           "description": "): Flappy Bird clone",
           "children": [],
           "repo_info": {
@@ -2369,7 +2369,7 @@
             "open_issues": 19,
             "owner": "newlinedotco",
             "repo": "FlappySwift",
-            "stars": 9671,
+            "stars": 9670,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:47.703Z"
@@ -2390,14 +2390,14 @@
             "open_issues": 22,
             "owner": "austinzheng",
             "repo": "swift-2048",
-            "stars": 3122,
+            "stars": 3123,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:47.703Z"
         },
         {
           "node_type": "item",
-          "title": "2073⭐ 605🍴 Finance",
+          "title": "2072⭐ 605🍴 Finance",
           "description": "): The system Stocks app written in React Native",
           "children": [
             {
@@ -2416,7 +2416,7 @@
                 "open_issues": 28,
                 "owner": "7kfpun",
                 "repo": "FinanceReactNative",
-                "stars": 2073,
+                "stars": 2072,
                 "topics": [
                   "android",
                   "ios",
@@ -2439,7 +2439,7 @@
             "open_issues": 28,
             "owner": "7kfpun",
             "repo": "FinanceReactNative",
-            "stars": 2073,
+            "stars": 2072,
             "topics": [
               "android",
               "ios",
@@ -2452,7 +2452,7 @@
         },
         {
           "node_type": "item",
-          "title": "1713⭐ 258🍴 Netflix UI",
+          "title": "1715⭐ 259🍴 Netflix UI",
           "description": "saulsharma/netflix-ui",
           "children": [
             {
@@ -2522,7 +2522,7 @@
         },
         {
           "node_type": "item",
-          "title": "790⭐ 130🍴 Messenger Clone",
+          "title": "791⭐ 130🍴 Messenger Clone",
           "description": "): Real-time chat",
           "children": [],
           "repo_info": {
@@ -2536,7 +2536,7 @@
             "open_issues": 15,
             "owner": "dopebase",
             "repo": "messenger-iOS-chat-swift-firestore",
-            "stars": 790,
+            "stars": 791,
             "topics": [
               "biometrics",
               "chat",
@@ -2675,7 +2675,7 @@
         },
         {
           "node_type": "item",
-          "title": "334⭐ 26🍴 SwiftUICraft",
+          "title": "335⭐ 26🍴 SwiftUICraft",
           "description": "): Minecraft clone",
           "children": [
             {
@@ -2694,7 +2694,7 @@
                 "open_issues": 0,
                 "owner": "aheze",
                 "repo": "SwiftUICraft",
-                "stars": 334,
+                "stars": 335,
                 "topics": [
                   "3d",
                   "3d-graphics",
@@ -2719,7 +2719,7 @@
             "open_issues": 0,
             "owner": "aheze",
             "repo": "SwiftUICraft",
-            "stars": 334,
+            "stars": 335,
             "topics": [
               "3d",
               "3d-graphics",
@@ -2930,7 +2930,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "19597⭐ 1316🍴 SimpleX Chat",
+          "title": "19608⭐ 1318🍴 SimpleX Chat",
           "description": "): Privacy redefined (no user IDs)",
           "children": [],
           "repo_info": {
@@ -2940,11 +2940,11 @@
             "id": 229407566,
             "language": "Haskell",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-27T14:06:20Z",
-            "open_issues": 1267,
+            "last_commit": "2026-10-28T13:55:01Z",
+            "open_issues": 1264,
             "owner": "simplex-chat",
             "repo": "simplex-chat",
-            "stars": 19603,
+            "stars": 19608,
             "topics": [
               "chat",
               "double-ratchet",
@@ -2961,7 +2961,7 @@
         },
         {
           "node_type": "item",
-          "title": "12303⭐ 3529🍴 Signal",
+          "title": "12307⭐ 3529🍴 Signal",
           "description": "): Free, world-wide, private messaging & phone calls",
           "children": [],
           "repo_info": {
@@ -2972,17 +2972,17 @@
             "language": "Swift",
             "license": "AGPL-3.0",
             "last_commit": "2026-10-22T18:39:34Z",
-            "open_issues": 154,
+            "open_issues": 153,
             "owner": "signalapp",
             "repo": "Signal-iOS",
-            "stars": 12305,
+            "stars": 12308,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:47.703Z"
         },
         {
           "node_type": "item",
-          "title": "9350⭐ 3133🍴 Telegram",
+          "title": "9361⭐ 3145🍴 Telegram",
           "description": "): Send messages with a focus on speed & security",
           "children": [],
           "repo_info": {
@@ -2993,17 +2993,17 @@
             "language": "Swift",
             "license": null,
             "last_commit": "2026-10-25T04:56:34Z",
-            "open_issues": 728,
+            "open_issues": 734,
             "owner": "TelegramMessenger",
             "repo": "Telegram-iOS",
-            "stars": 9358,
+            "stars": 9363,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:47.703Z"
         },
         {
           "node_type": "item",
-          "title": "8046⭐ 650🍴 Tutanota",
+          "title": "8053⭐ 649🍴 Tutanota",
           "description": "): End-to-end encrypted email",
           "children": [],
           "repo_info": {
@@ -3013,11 +3013,11 @@
             "id": 22344874,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-27T14:07:27Z",
-            "open_issues": 958,
+            "last_commit": "2026-10-28T15:20:52Z",
+            "open_issues": 941,
             "owner": "tutao",
             "repo": "tutanota",
-            "stars": 8047,
+            "stars": 8053,
             "topics": [
               "email",
               "encryption",
@@ -3053,7 +3053,7 @@
         },
         {
           "node_type": "item",
-          "title": "3227⭐ 668🍴 FluffyChat",
+          "title": "3248⭐ 677🍴 FluffyChat",
           "description": "): Cute matrix messenger, easy to use but secure and decentralized",
           "children": [],
           "repo_info": {
@@ -3063,11 +3063,11 @@
             "id": 665942673,
             "language": "Dart",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-27T04:36:57Z",
-            "open_issues": 566,
+            "last_commit": "2026-10-28T10:48:25Z",
+            "open_issues": 565,
             "owner": "krille-chan",
             "repo": "fluffychat",
-            "stars": 3239,
+            "stars": 3249,
             "topics": [
               "app",
               "dart",
@@ -3115,7 +3115,7 @@
         },
         {
           "node_type": "item",
-          "title": "2740⭐ 1683🍴 Mattermost",
+          "title": "2741⭐ 1687🍴 Mattermost",
           "description": "): Secure messaging platform for DevOps teams",
           "children": [],
           "repo_info": {
@@ -3125,11 +3125,11 @@
             "id": 70265724,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-27T09:57:06Z",
+            "last_commit": "2026-10-28T15:20:27Z",
             "open_issues": 338,
             "owner": "mattermost",
             "repo": "mattermost-mobile",
-            "stars": 2741,
+            "stars": 2742,
             "topics": [
               "hacktoberfest",
               "mattermost-mobile"
@@ -3160,7 +3160,7 @@
         },
         {
           "node_type": "item",
-          "title": "1630⭐ 241🍴 ProtonMail",
+          "title": "1631⭐ 241🍴 ProtonMail",
           "description": "): Encrypted Email",
           "children": [],
           "repo_info": {
@@ -3249,7 +3249,7 @@
         },
         {
           "node_type": "item",
-          "title": "1262⭐ 49🍴 Thunderbird Email",
+          "title": "1263⭐ 50🍴 Thunderbird Email",
           "description": "thunderbird/thunderbird-ios",
           "children": [],
           "repo_info": {
@@ -3259,8 +3259,8 @@
             "id": 919524655,
             "language": "Swift",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-23T19:41:39Z",
-            "open_issues": 83,
+            "last_commit": "2026-10-28T07:27:07Z",
+            "open_issues": 84,
             "owner": "thunderbird",
             "repo": "thunderbird-ios",
             "stars": 1263,
@@ -3270,7 +3270,7 @@
         },
         {
           "node_type": "item",
-          "title": "1075⭐ 553🍴 Chatwoot",
+          "title": "1078⭐ 555🍴 Chatwoot",
           "description": "): Live chat for businesses",
           "children": [],
           "repo_info": {
@@ -3280,11 +3280,11 @@
             "id": 224013854,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-27T12:56:38Z",
-            "open_issues": 106,
+            "last_commit": "2026-10-28T14:08:44Z",
+            "open_issues": 108,
             "owner": "chatwoot",
             "repo": "chatwoot-mobile-app",
-            "stars": 1078,
+            "stars": 1079,
             "topics": [
               "android",
               "chatwoot",
@@ -3298,7 +3298,7 @@
         },
         {
           "node_type": "item",
-          "title": "959⭐ 398🍴 Element X",
+          "title": "962⭐ 401🍴 Element X",
           "description": "): Secure decentralised chat/VoIP, newer version of Element",
           "children": [],
           "repo_info": {
@@ -3308,11 +3308,11 @@
             "id": 458170812,
             "language": "Swift",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-27T14:49:46Z",
-            "open_issues": 424,
+            "last_commit": "2026-10-28T14:45:21Z",
+            "open_issues": 427,
             "owner": "element-hq",
             "repo": "element-x-ios",
-            "stars": 960,
+            "stars": 962,
             "topics": [
               "matrix"
             ]
@@ -3321,7 +3321,7 @@
         },
         {
           "node_type": "item",
-          "title": "790⭐ 130🍴 Messenger Clone",
+          "title": "791⭐ 130🍴 Messenger Clone",
           "description": "): Real-time chat",
           "children": [],
           "repo_info": {
@@ -3335,7 +3335,7 @@
             "open_issues": 15,
             "owner": "dopebase",
             "repo": "messenger-iOS-chat-swift-firestore",
-            "stars": 790,
+            "stars": 791,
             "topics": [
               "biometrics",
               "chat",
@@ -3395,7 +3395,7 @@
         },
         {
           "node_type": "item",
-          "title": "598⭐ 119🍴 Swiftgram",
+          "title": "600⭐ 118🍴 Swiftgram",
           "description": "): Supercharged Telegram experience. Feature-rich, unlocked and secure fork with 50+ settings.",
           "children": [],
           "repo_info": {
@@ -3406,10 +3406,10 @@
             "language": "Swift",
             "license": null,
             "last_commit": "2026-10-25T13:50:46Z",
-            "open_issues": 63,
+            "open_issues": 66,
             "owner": "Swiftgram",
             "repo": "Telegram-iOS",
-            "stars": 599,
+            "stars": 600,
             "topics": [
               "ios",
               "swift",
@@ -3453,7 +3453,7 @@
         },
         {
           "node_type": "item",
-          "title": "455⭐ 82🍴 deltachat",
+          "title": "456⭐ 82🍴 deltachat",
           "description": "): Email-based instant messaging",
           "children": [
             {
@@ -3468,8 +3468,8 @@
                 "id": 109673934,
                 "language": "Swift",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-27T13:46:57Z",
-                "open_issues": 68,
+                "last_commit": "2026-10-28T14:32:28Z",
+                "open_issues": 71,
                 "owner": "deltachat",
                 "repo": "deltachat-ios",
                 "stars": 456,
@@ -3490,8 +3490,8 @@
             "id": 109673934,
             "language": "Swift",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-27T13:46:57Z",
-            "open_issues": 68,
+            "last_commit": "2026-10-28T14:32:28Z",
+            "open_issues": 71,
             "owner": "deltachat",
             "repo": "deltachat-ios",
             "stars": 456,
@@ -3606,7 +3606,7 @@
         },
         {
           "node_type": "item",
-          "title": "300⭐ 90🍴 IRCCloud",
+          "title": "301⭐ 90🍴 IRCCloud",
           "description": "): IRC client/service",
           "children": [],
           "repo_info": {
@@ -3616,7 +3616,7 @@
             "id": 8381004,
             "language": "Objective-C",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-20T19:40:56Z",
+            "last_commit": "2026-10-28T02:34:02Z",
             "open_issues": 24,
             "owner": "irccloud",
             "repo": "ios",
@@ -3726,8 +3726,8 @@
             "id": 581121052,
             "language": "Swift",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-27T14:46:28Z",
-            "open_issues": 36,
+            "last_commit": "2026-10-28T15:24:04Z",
+            "open_issues": 33,
             "owner": "wireapp",
             "repo": "wire-ios",
             "stars": 168,
@@ -3758,7 +3758,7 @@
         },
         {
           "node_type": "item",
-          "title": "136⭐ 29🍴 BetterBlue",
+          "title": "139⭐ 29🍴 BetterBlue",
           "description": "): Seamlessly connect and control your Hyundai or Kia vehicles",
           "children": [
             {
@@ -3777,7 +3777,7 @@
                 "open_issues": 7,
                 "owner": "schmidtwmark",
                 "repo": "BetterBlue",
-                "stars": 138,
+                "stars": 139,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:47.703Z"
@@ -3794,7 +3794,7 @@
             "open_issues": 7,
             "owner": "schmidtwmark",
             "repo": "BetterBlue",
-            "stars": 138,
+            "stars": 139,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:47.703Z"
@@ -3885,7 +3885,7 @@
         },
         {
           "node_type": "item",
-          "title": "30⭐ 9🍴 Scowld",
+          "title": "31⭐ 9🍴 Scowld",
           "description": "): AI voice companion with animated characters, voice and text chat, local conversation history, optional camera context, and bring-your-own AI and speech providers",
           "children": [
             {
@@ -3904,7 +3904,7 @@
                 "open_issues": 3,
                 "owner": "apoorvdarshan",
                 "repo": "scowld",
-                "stars": 30,
+                "stars": 31,
                 "topics": [
                   "ai",
                   "ai-assistant",
@@ -3942,7 +3942,7 @@
             "open_issues": 3,
             "owner": "apoorvdarshan",
             "repo": "scowld",
-            "stars": 30,
+            "stars": 31,
             "topics": [
               "ai",
               "ai-assistant",
@@ -4019,7 +4019,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "53086⭐ 14774🍴 Expo Client",
+          "title": "53140⭐ 14810🍴 Expo Client",
           "description": "): Developer tool for creating experiences with interactive gestures & graphics",
           "children": [],
           "repo_info": {
@@ -4029,11 +4029,11 @@
             "id": 65750241,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-27T14:46:08Z",
-            "open_issues": 971,
+            "last_commit": "2026-10-28T15:20:49Z",
+            "open_issues": 954,
             "owner": "expo",
             "repo": "expo",
-            "stars": 53116,
+            "stars": 53147,
             "topics": [
               "android",
               "app-framework",
@@ -4057,7 +4057,7 @@
         },
         {
           "node_type": "item",
-          "title": "36536⭐ 1883🍴 UTM",
+          "title": "36579⭐ 1886🍴 UTM",
           "description": "): Virtual machines",
           "children": [],
           "repo_info": {
@@ -4068,10 +4068,10 @@
             "language": "Swift",
             "license": "Apache-2.0",
             "last_commit": "2026-10-20T14:24:22Z",
-            "open_issues": 1143,
+            "open_issues": 1144,
             "owner": "utmapp",
             "repo": "UTM",
-            "stars": 36559,
+            "stars": 36579,
             "topics": [
               "apple",
               "emulation",
@@ -4088,7 +4088,7 @@
         },
         {
           "node_type": "item",
-          "title": "20634⭐ 1583🍴 iSH",
+          "title": "20638⭐ 1587🍴 iSH",
           "description": "): Linux shell",
           "children": [],
           "repo_info": {
@@ -4102,7 +4102,7 @@
             "open_issues": 645,
             "owner": "ish-app",
             "repo": "ish",
-            "stars": 20636,
+            "stars": 20642,
             "topics": [
               "emulator",
               "hacktoberfest",
@@ -4114,7 +4114,7 @@
         },
         {
           "node_type": "item",
-          "title": "9378⭐ 722🍴 Bark",
+          "title": "9394⭐ 729🍴 Bark",
           "description": "): Send custom push notifications by calling an HTTP API",
           "children": [],
           "repo_info": {
@@ -4124,11 +4124,11 @@
             "id": 124205615,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-10-19T03:20:17Z",
+            "last_commit": "2026-10-28T01:19:13Z",
             "open_issues": 5,
             "owner": "Finb",
             "repo": "Bark",
-            "stars": 9390,
+            "stars": 9395,
             "topics": [
               "ios",
               "ios-app",
@@ -4164,7 +4164,7 @@
                 "open_issues": 28,
                 "owner": "noodlewerk",
                 "repo": "NWPusher",
-                "stars": 6299,
+                "stars": 6298,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:47.703Z"
@@ -4181,14 +4181,14 @@
             "open_issues": 28,
             "owner": "noodlewerk",
             "repo": "NWPusher",
-            "stars": 6299,
+            "stars": 6298,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:47.703Z"
         },
         {
           "node_type": "item",
-          "title": "6016⭐ 428🍴 Enchanted",
+          "title": "6015⭐ 428🍴 Enchanted",
           "description": "): Developer tool for LLMs",
           "children": [],
           "repo_info": {
@@ -4199,7 +4199,7 @@
             "language": "Swift",
             "license": "Apache-2.0",
             "last_commit": "2026-07-07T19:34:55Z",
-            "open_issues": 114,
+            "open_issues": 113,
             "owner": "gluonfield",
             "repo": "enchanted",
             "stars": 6015,
@@ -4255,14 +4255,14 @@
             "open_issues": 130,
             "owner": "Jasonette",
             "repo": "JASONETTE-iOS",
-            "stars": 5222,
+            "stars": 5221,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:47.703Z"
         },
         {
           "node_type": "item",
-          "title": "4933⭐ 447🍴 Feather",
+          "title": "4950⭐ 452🍴 Feather",
           "description": "): On-device application manager/installer, uses certificates part of the Apple Developer Program",
           "children": [],
           "repo_info": {
@@ -4276,7 +4276,7 @@
             "open_issues": 32,
             "owner": "claration",
             "repo": "feather",
-            "stars": 4941,
+            "stars": 4951,
             "topics": [
               "esign",
               "ios",
@@ -4323,7 +4323,7 @@
         },
         {
           "node_type": "item",
-          "title": "1190⭐ 70🍴 Foundation Models Framework Example",
+          "title": "1191⭐ 70🍴 Foundation Models Framework Example",
           "description": "rudrankriyam/Foundation-Models-Framework-Lab",
           "children": [],
           "repo_info": {
@@ -4365,7 +4365,7 @@
         },
         {
           "node_type": "item",
-          "title": "884⭐ 104🍴 Codync",
+          "title": "969⭐ 115🍴 Codync",
           "description": "): Message the coding agents on your computer (Claude Code, Codex, Gemini and more) as persistent bots, with approvals, push notifications, remote screen and voice calls",
           "children": [],
           "repo_info": {
@@ -4375,11 +4375,11 @@
             "id": 1185223752,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-27T12:12:34Z",
-            "open_issues": 38,
+            "last_commit": "2026-10-28T15:22:27Z",
+            "open_issues": 37,
             "owner": "leepokai",
             "repo": "Codync",
-            "stars": 948,
+            "stars": 976,
             "topics": [
               "acp",
               "agent-client-protocol",
@@ -4407,7 +4407,7 @@
         },
         {
           "node_type": "item",
-          "title": "763⭐ 28🍴 Harbour",
+          "title": "764⭐ 28🍴 Harbour",
           "description": "): Docker/Portainer app",
           "children": [],
           "repo_info": {
@@ -4421,7 +4421,7 @@
             "open_issues": 9,
             "owner": "rrroyal",
             "repo": "Harbour",
-            "stars": 763,
+            "stars": 764,
             "topics": [
               "docker-client",
               "ios",
@@ -4718,7 +4718,7 @@
         },
         {
           "node_type": "item",
-          "title": "93⭐ 19🍴 CI2Go",
+          "title": "92⭐ 19🍴 CI2Go",
           "description": "): For https://circleci.com/",
           "children": [],
           "repo_info": {
@@ -4732,7 +4732,7 @@
             "open_issues": 10,
             "owner": "ngs",
             "repo": "ci2go",
-            "stars": 93,
+            "stars": 92,
             "topics": [
               "circleci",
               "continuous-integration",
@@ -4787,7 +4787,7 @@
             "open_issues": 2,
             "owner": "freesuraj",
             "repo": "TLDR",
-            "stars": 78,
+            "stars": 79,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:47.703Z"
@@ -4825,8 +4825,8 @@
             "id": 1199474157,
             "language": "Kotlin",
             "license": "MIT",
-            "last_commit": "2026-10-24T07:58:50Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-27T20:29:07Z",
+            "open_issues": 7,
             "owner": "apoorvdarshan",
             "repo": "verceltics",
             "stars": 40,
@@ -5014,7 +5014,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "12148⭐ 1506🍴 iGit",
+              "title": "12149⭐ 1506🍴 iGit",
               "description": "): Uses GitUpKit to clone a GitHub repo and perform a commit",
               "children": [],
               "repo_info": {
@@ -5025,7 +5025,7 @@
                 "language": "Objective-C",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-08T17:03:59Z",
-                "open_issues": 363,
+                "open_issues": 364,
                 "owner": "git-up",
                 "repo": "GitUp",
                 "stars": 12149,
@@ -5035,7 +5035,7 @@
             },
             {
               "node_type": "item",
-              "title": "4771⭐ 769🍴 GitPoint",
+              "title": "4770⭐ 768🍴 GitPoint",
               "description": "): GitHub app with a minimal & beautiful UI",
               "children": [],
               "repo_info": {
@@ -5049,7 +5049,7 @@
                 "open_issues": 135,
                 "owner": "gitpoint",
                 "repo": "git-point",
-                "stars": 4771,
+                "stars": 4770,
                 "topics": [
                   "android",
                   "github",
@@ -5063,7 +5063,7 @@
             },
             {
               "node_type": "item",
-              "title": "3118⭐ 539🍴 SwiftHub",
+              "title": "3117⭐ 539🍴 SwiftHub",
               "description": "): GitHub client written with RxSwift and MVVM clean architecture",
               "children": [
                 {
@@ -5082,7 +5082,7 @@
                     "open_issues": 34,
                     "owner": "khoren93",
                     "repo": "SwiftHub",
-                    "stars": 3118,
+                    "stars": 3117,
                     "topics": [
                       "cleanarchitecture",
                       "fastlane",
@@ -5112,7 +5112,7 @@
                 "open_issues": 34,
                 "owner": "khoren93",
                 "repo": "SwiftHub",
-                "stars": 3118,
+                "stars": 3117,
                 "topics": [
                   "cleanarchitecture",
                   "fastlane",
@@ -5213,7 +5213,7 @@
                 "open_issues": 19,
                 "owner": "TheCodeTraveler",
                 "repo": "GitTrends",
-                "stars": 784,
+                "stars": 785,
                 "topics": [
                   "github",
                   "github-api",
@@ -5301,7 +5301,7 @@
             },
             {
               "node_type": "item",
-              "title": "399⭐ 38🍴 Contribution Graphs for GitHub",
+              "title": "400⭐ 38🍴 Contribution Graphs for GitHub",
               "description": "): Check your GitHub contributions using Home Screen Widgets",
               "children": [
                 {
@@ -5320,7 +5320,7 @@
                     "open_issues": 5,
                     "owner": "AnderGoig",
                     "repo": "github-contributions-ios",
-                    "stars": 400,
+                    "stars": 401,
                     "topics": [
                       "contributions",
                       "contributions-chart",
@@ -5349,7 +5349,7 @@
                 "open_issues": 5,
                 "owner": "AnderGoig",
                 "repo": "github-contributions-ios",
-                "stars": 400,
+                "stars": 401,
                 "topics": [
                   "contributions",
                   "contributions-chart",
@@ -5526,7 +5526,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "6993⭐ 760🍴 Blink",
+              "title": "6996⭐ 760🍴 Blink",
               "description": "): Mobile shell terminal based on Mosh",
               "children": [],
               "repo_info": {
@@ -5540,7 +5540,7 @@
                 "open_issues": 365,
                 "owner": "blinksh",
                 "repo": "blink",
-                "stars": 6995,
+                "stars": 6996,
                 "topics": [
                   "ios",
                   "ipad",
@@ -5559,7 +5559,7 @@
             },
             {
               "node_type": "item",
-              "title": "3982⭐ 220🍴 a-shell",
+              "title": "3986⭐ 222🍴 a-shell",
               "description": "): Mobile shell terminal based on Mosh",
               "children": [],
               "repo_info": {
@@ -5570,17 +5570,17 @@
                 "language": "Perl",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-24T13:37:11Z",
-                "open_issues": 664,
+                "open_issues": 669,
                 "owner": "holzschu",
                 "repo": "a-shell",
-                "stars": 3986,
+                "stars": 3987,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:47.703Z"
             },
             {
               "node_type": "item",
-              "title": "1742⭐ 522🍴 SwiftTerm",
+              "title": "1742⭐ 524🍴 SwiftTerm",
               "description": "): VT100/Xterm Terminal emulator",
               "children": [],
               "repo_info": {
@@ -5590,11 +5590,11 @@
                 "id": 177906917,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-10-26T15:38:45Z",
-                "open_issues": 91,
+                "last_commit": "2026-10-28T01:35:54Z",
+                "open_issues": 99,
                 "owner": "migueldeicaza",
                 "repo": "SwiftTerm",
-                "stars": 1741,
+                "stars": 1742,
                 "topics": [
                   "appkit",
                   "ghostty",
@@ -5663,7 +5663,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "7091⭐ 734🍴 Ice Cubes",
+          "title": "7093⭐ 734🍴 Ice Cubes",
           "description": "Dimillian/IceCubesApp",
           "children": [],
           "repo_info": {
@@ -5677,7 +5677,7 @@
             "open_issues": 589,
             "owner": "Dimillian",
             "repo": "IceCubesApp",
-            "stars": 7093,
+            "stars": 7094,
             "topics": [
               "ios",
               "mastodon",
@@ -5689,7 +5689,7 @@
         },
         {
           "node_type": "item",
-          "title": "4088⭐ 234🍴 Sill",
+          "title": "4192⭐ 244🍴 Sill",
           "description": "): Shows any window from your Mac on your iPhone or iPad and lets you use it with touch, Apple Pencil, a trackpad and keys",
           "children": [],
           "repo_info": {
@@ -5700,10 +5700,10 @@
             "language": "Swift",
             "license": "Apache-2.0",
             "last_commit": "2026-10-27T12:51:09Z",
-            "open_issues": 119,
+            "open_issues": 120,
             "owner": "Saffsanity",
             "repo": "sill",
-            "stars": 4159,
+            "stars": 4201,
             "topics": [
               "apple-pencil",
               "hevc",
@@ -5837,7 +5837,7 @@
             "id": 412385182,
             "language": "Swift",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-25T08:37:07Z",
+            "last_commit": "2026-10-27T18:36:28Z",
             "open_issues": 86,
             "owner": "scribe-org",
             "repo": "Scribe-iOS",
@@ -5983,7 +5983,7 @@
         },
         {
           "node_type": "item",
-          "title": "50⭐ 5🍴 Conjugar",
+          "title": "51⭐ 5🍴 Conjugar",
           "description": "): Learn and Practice All the Spanish Verb Tenses",
           "children": [
             {
@@ -6415,7 +6415,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "Free Bulgarian trainer for A0 learners with a Russian or Ukrainian interface: 8 textbook-aligned lessons, 4,000+ exercises. Web app and free iOS app. MIT.",
             "homepage": "https://bgtrainer.korchasa.dev",
             "id": 1161262297,
             "language": "TypeScript",
@@ -6425,7 +6425,15 @@
             "owner": "korchasa",
             "repo": "bg-trainer",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "bulgarian",
+              "bulgarian-language",
+              "capacitor",
+              "education",
+              "ios",
+              "language-learning",
+              "typescript"
+            ]
           },
           "first_seen": "2026-10-18T12:46:32.171Z"
         }
@@ -6437,7 +6445,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "20634⭐ 1583🍴 iSH",
+          "title": "20638⭐ 1587🍴 iSH",
           "description": "): Linux shell",
           "children": [],
           "repo_info": {
@@ -6451,7 +6459,7 @@
             "open_issues": 645,
             "owner": "ish-app",
             "repo": "ish",
-            "stars": 20636,
+            "stars": 20642,
             "topics": [
               "emulator",
               "hacktoberfest",
@@ -6463,7 +6471,7 @@
         },
         {
           "node_type": "item",
-          "title": "14752⭐ 2708🍴 PPSSPP",
+          "title": "14771⭐ 2712🍴 PPSSPP",
           "description": "): PSP emulator",
           "children": [],
           "repo_info": {
@@ -6473,11 +6481,11 @@
             "id": 6486826,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-27T14:47:44Z",
-            "open_issues": 970,
+            "last_commit": "2026-10-28T13:51:00Z",
+            "open_issues": 971,
             "owner": "hrydgard",
             "repo": "ppsspp",
-            "stars": 14763,
+            "stars": 14774,
             "topics": [
               "emulators",
               "ppsspp",
@@ -6488,7 +6496,7 @@
         },
         {
           "node_type": "item",
-          "title": "14435⭐ 2319🍴 RetroArch",
+          "title": "14463⭐ 2325🍴 RetroArch",
           "description": "): Comprehensive emulator frontend with support for NES, SNES, Gameboy, Sega Master System, Genesis, Playstation, N64, Atari Lynx & more",
           "children": [],
           "repo_info": {
@@ -6498,11 +6506,11 @@
             "id": 689344,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-27T14:23:57Z",
-            "open_issues": 2957,
+            "last_commit": "2026-10-28T14:01:58Z",
+            "open_issues": 2953,
             "owner": "libretro",
             "repo": "RetroArch",
-            "stars": 14455,
+            "stars": 14466,
             "topics": [
               "c",
               "libretro",
@@ -6513,7 +6521,7 @@
         },
         {
           "node_type": "item",
-          "title": "6390⭐ 714🍴 Provenance",
+          "title": "6391⭐ 714🍴 Provenance",
           "description": "): Emulators frontend for Sega Genesis, SNES, NES, GB/GBC & more",
           "children": [],
           "repo_info": {
@@ -6523,7 +6531,7 @@
             "id": 12416862,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-27T07:09:51Z",
+            "last_commit": "2026-10-28T06:57:21Z",
             "open_issues": 238,
             "owner": "Provenance-Emu",
             "repo": "Provenance",
@@ -6555,7 +6563,7 @@
         },
         {
           "node_type": "item",
-          "title": "6204⭐ 495🍴 Delta",
+          "title": "6212⭐ 499🍴 Delta",
           "description": "): Video game emulator for non-jailbroken devices (successor to GBA4iOS)",
           "children": [],
           "repo_info": {
@@ -6566,17 +6574,17 @@
             "language": "Swift",
             "license": "AGPL-3.0",
             "last_commit": "2026-10-24T17:39:50Z",
-            "open_issues": 379,
+            "open_issues": 380,
             "owner": "rileytestut",
             "repo": "Delta",
-            "stars": 6207,
+            "stars": 6213,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:47.703Z"
         },
         {
           "node_type": "item",
-          "title": "2232⭐ 284🍴 SameBoy",
+          "title": "2234⭐ 285🍴 SameBoy",
           "description": "): Game Boy and Game Boy Color emulator",
           "children": [],
           "repo_info": {
@@ -6586,8 +6594,8 @@
             "id": 55260928,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-25T22:42:44Z",
-            "open_issues": 170,
+            "last_commit": "2026-10-27T16:59:32Z",
+            "open_issues": 169,
             "owner": "LIJI32",
             "repo": "SameBoy",
             "stars": 2234,
@@ -6622,7 +6630,7 @@
         },
         {
           "node_type": "item",
-          "title": "636⭐ 133🍴 DOSPad",
+          "title": "636⭐ 132🍴 DOSPad",
           "description": "): DOSBox",
           "children": [],
           "repo_info": {
@@ -6865,7 +6873,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Craftify — iOS application with Share Extension for contextual text processing via multiple Large Language Models (OpenAI GPT-4o, Anthropic Claude, …).",
+            "description": "Craftify — free iOS app that adds AI text actions to the Share sheet: translate, simplify, correct, summarize, explain. Bring your own API key for OpenAI, Anthropic Claude, Mistral or OpenRouter. Source available under PolyForm Noncommercial 1.0.0.",
             "homepage": "https://craftify.korchasa.dev",
             "id": 970269856,
             "language": "Swift",
@@ -6875,7 +6883,18 @@
             "owner": "korchasa",
             "repo": "craftify-byok-ai-shortcuts",
             "stars": 2,
-            "topics": []
+            "topics": [
+              "anthropic",
+              "byok",
+              "ios",
+              "llm",
+              "mistral",
+              "openai",
+              "openrouter",
+              "share-extension",
+              "swift",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-10-26T15:26:27.226Z"
         },
@@ -6883,7 +6902,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "3720⭐ 115🍴 Hush",
+              "title": "3721⭐ 115🍴 Hush",
               "description": "): Noiseless browsing",
               "children": [],
               "repo_info": {
@@ -6912,7 +6931,7 @@
             },
             {
               "node_type": "item",
-              "title": "3133⭐ 64🍴 wBlock",
+              "title": "3152⭐ 68🍴 wBlock",
               "description": "): Safari content blocker",
               "children": [],
               "repo_info": {
@@ -6922,11 +6941,11 @@
                 "id": 830523531,
                 "language": "Swift",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-27T10:21:46Z",
+                "last_commit": "2026-10-28T08:59:12Z",
                 "open_issues": 2,
                 "owner": "0xCUB3",
                 "repo": "wBlock",
-                "stars": 3145,
+                "stars": 3154,
                 "topics": [
                   "ad-blocker",
                   "adblock",
@@ -6954,7 +6973,7 @@
             },
             {
               "node_type": "item",
-              "title": "1718⭐ 245🍴 Adguard",
+              "title": "1718⭐ 247🍴 Adguard",
               "description": "): Adblocker and anti-tracking",
               "children": [],
               "repo_info": {
@@ -6964,11 +6983,11 @@
                 "id": 43807802,
                 "language": "Swift",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-28T15:06:02Z",
+                "last_commit": "2026-10-28T14:03:32Z",
                 "open_issues": 209,
                 "owner": "AdguardTeam",
                 "repo": "AdguardForiOS",
-                "stars": 1718,
+                "stars": 1719,
                 "topics": [
                   "adblock",
                   "adguard",
@@ -7020,7 +7039,7 @@
             },
             {
               "node_type": "item",
-              "title": "787⭐ 193🍴 Adblock Fast",
+              "title": "787⭐ 192🍴 Adblock Fast",
               "description": "rocketshipapps/adblockfast",
               "children": [],
               "repo_info": {
@@ -7072,8 +7091,8 @@
                 "id": 128927398,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-10-27T10:59:52Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-28T10:44:56Z",
+                "open_issues": 10,
                 "owner": "pia-foss",
                 "repo": "mobile-ios",
                 "stars": 350,
@@ -7506,7 +7525,7 @@
             },
             {
               "node_type": "item",
-              "title": "399⭐ 38🍴 Contribution Graphs for GitHub",
+              "title": "400⭐ 38🍴 Contribution Graphs for GitHub",
               "description": "): Check your GitHub contributions using Home Screen Widgets",
               "children": [
                 {
@@ -7525,7 +7544,7 @@
                     "open_issues": 5,
                     "owner": "AnderGoig",
                     "repo": "github-contributions-ios",
-                    "stars": 400,
+                    "stars": 401,
                     "topics": [
                       "contributions",
                       "contributions-chart",
@@ -7554,7 +7573,7 @@
                 "open_issues": 5,
                 "owner": "AnderGoig",
                 "repo": "github-contributions-ios",
-                "stars": 400,
+                "stars": 401,
                 "topics": [
                   "contributions",
                   "contributions-chart",
@@ -7785,7 +7804,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "95661⭐ 5385🍴 localsend",
+          "title": "96121⭐ 5429🍴 localsend",
           "description": "): Cross-platform alternative to AirDrop",
           "children": [],
           "repo_info": {
@@ -7799,7 +7818,7 @@
             "open_issues": 1027,
             "owner": "localsend",
             "repo": "localsend",
-            "stars": 96021,
+            "stars": 96183,
             "topics": [
               "dart",
               "file-sharing",
@@ -7811,7 +7830,7 @@
         },
         {
           "node_type": "item",
-          "title": "7190⭐ 740🍴 OnionShare",
+          "title": "7191⭐ 738🍴 OnionShare",
           "description": "): Securely and anonymously share files using the Tor network",
           "children": [],
           "repo_info": {
@@ -7825,7 +7844,7 @@
             "open_issues": 68,
             "owner": "onionshare",
             "repo": "onionshare",
-            "stars": 7191,
+            "stars": 7192,
             "topics": [
               "cross-platform",
               "file-sharing",
@@ -7842,7 +7861,7 @@
         },
         {
           "node_type": "item",
-          "title": "2535⭐ 1042🍴 Nextcloud",
+          "title": "2537⭐ 1041🍴 Nextcloud",
           "description": "): A safe home for all your data",
           "children": [],
           "repo_info": {
@@ -7852,11 +7871,11 @@
             "id": 75287738,
             "language": "Swift",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-27T14:42:13Z",
-            "open_issues": 1014,
+            "last_commit": "2026-10-28T13:21:05Z",
+            "open_issues": 1015,
             "owner": "nextcloud",
             "repo": "ios",
-            "stars": 2536,
+            "stars": 2537,
             "topics": [
               "hacktoberfest",
               "ios",
@@ -7868,7 +7887,7 @@
         },
         {
           "node_type": "item",
-          "title": "752⭐ 114🍴 FileExplorer",
+          "title": "752⭐ 113🍴 FileExplorer",
           "description": "): Powerful file browser that allows its users to choose and remove files and/or directories",
           "children": [],
           "repo_info": {
@@ -7889,7 +7908,7 @@
         },
         {
           "node_type": "item",
-          "title": "672⭐ 126🍴 Airdash",
+          "title": "673⭐ 126🍴 Airdash",
           "description": "): Transfer photos and files to any device, anywhere",
           "children": [],
           "repo_info": {
@@ -7903,7 +7922,7 @@
             "open_issues": 18,
             "owner": "simonbengtsson",
             "repo": "airdash",
-            "stars": 672,
+            "stars": 673,
             "topics": [
               "app-store-connect",
               "file-sharing",
@@ -7925,7 +7944,7 @@
         },
         {
           "node_type": "item",
-          "title": "251⭐ 144🍴 ownCloud",
+          "title": "252⭐ 144🍴 ownCloud",
           "description": "): File browser & sync for ownCloud file hosting service",
           "children": [],
           "repo_info": {
@@ -7935,11 +7954,11 @@
             "id": 120430704,
             "language": "Swift",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-27T07:59:06Z",
+            "last_commit": "2026-10-28T03:11:47Z",
             "open_issues": 245,
             "owner": "owncloud",
             "repo": "ios-app",
-            "stars": 251,
+            "stars": 252,
             "topics": [
               "ios",
               "mobile",
@@ -7962,7 +7981,7 @@
             "id": 7285398,
             "language": "Objective-C",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-27T03:53:53Z",
+            "last_commit": "2026-10-28T08:10:37Z",
             "open_issues": 12,
             "owner": "haiwen",
             "repo": "seafile-iOS",
@@ -8004,7 +8023,7 @@
             "id": 359415613,
             "language": "Swift",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-27T14:12:40Z",
+            "last_commit": "2026-10-28T14:37:35Z",
             "open_issues": 7,
             "owner": "Infomaniak",
             "repo": "ios-kDrive",
@@ -8042,7 +8061,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "2658⭐ 358🍴 BeeCount",
+          "title": "2676⭐ 362🍴 BeeCount",
           "description": "): Privacy-first cross-platform expense tracker with self-hostable cloud sync (BeeCount Cloud, iCloud, Supabase, WebDAV, S3)",
           "children": [],
           "repo_info": {
@@ -8052,11 +8071,11 @@
             "id": 1051440251,
             "language": "Dart",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-26T08:42:29Z",
-            "open_issues": 144,
+            "last_commit": "2026-10-28T12:15:26Z",
+            "open_issues": 145,
             "owner": "TNT-Likely",
             "repo": "BeeCount",
-            "stars": 2673,
+            "stars": 2679,
             "topics": [
               "accounting",
               "ai",
@@ -8081,7 +8100,7 @@
         },
         {
           "node_type": "item",
-          "title": "1899⭐ 284🍴 Dime",
+          "title": "1901⭐ 283🍴 Dime",
           "description": "): Beautiful expense tracker built with Apple design guidelines in mind",
           "children": [
             {
@@ -8100,7 +8119,7 @@
                 "open_issues": 66,
                 "owner": "rafsoh",
                 "repo": "dimeApp",
-                "stars": 1902,
+                "stars": 1901,
                 "topics": [
                   "finance-management",
                   "ios-app",
@@ -8121,7 +8140,7 @@
             "open_issues": 66,
             "owner": "rafsoh",
             "repo": "dimeApp",
-            "stars": 1902,
+            "stars": 1901,
             "topics": [
               "finance-management",
               "ios-app",
@@ -8132,7 +8151,7 @@
         },
         {
           "node_type": "item",
-          "title": "213⭐ 20🍴 Spend Stack Budget Tracker",
+          "title": "214⭐ 20🍴 Spend Stack Budget Tracker",
           "description": "DreamingInBinary/Spend-Stack-Public",
           "children": [],
           "repo_info": {
@@ -8476,7 +8495,7 @@
         },
         {
           "node_type": "item",
-          "title": "25⭐ 6🍴 Inpenso",
+          "title": "26⭐ 6🍴 Inpenso",
           "description": "): Expense tracker that helps you monitor spending habits with analytics and budget management",
           "children": [],
           "repo_info": {
@@ -8519,7 +8538,7 @@
             "id": 527047452,
             "language": "Swift",
             "license": null,
-            "last_commit": "2026-10-27T14:00:26Z",
+            "last_commit": "2026-10-27T21:46:16Z",
             "open_issues": 2,
             "owner": "256Arts",
             "repo": "My-Assets",
@@ -8635,7 +8654,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "4399⭐ 764🍴 Rainbow",
+              "title": "4399⭐ 765🍴 Rainbow",
               "description": "): Ethereum wallet that lives in your pocket",
               "children": [],
               "repo_info": {
@@ -8645,7 +8664,7 @@
                 "id": 176777353,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-26T23:05:58Z",
+                "last_commit": "2026-10-28T15:13:34Z",
                 "open_issues": 42,
                 "owner": "rainbow-me",
                 "repo": "rainbow",
@@ -8672,8 +8691,8 @@
                 "id": 142568914,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-10-27T11:00:39Z",
-                "open_issues": 43,
+                "last_commit": "2026-10-28T12:04:12Z",
+                "open_issues": 42,
                 "owner": "horizontalsystems",
                 "repo": "unstoppable-wallet-ios",
                 "stars": 910,
@@ -8725,7 +8744,7 @@
             },
             {
               "node_type": "item",
-              "title": "633⭐ 379🍴 AlphaWallet ETH Wallet",
+              "title": "633⭐ 380🍴 AlphaWallet ETH Wallet",
               "description": "): Easy-to-use and secure Ethereum wallet",
               "children": [],
               "repo_info": {
@@ -8882,7 +8901,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "29469⭐ 3818🍴 Mindustry",
+          "title": "29504⭐ 3826🍴 Mindustry",
           "description": "): A factory management TD/RTS",
           "children": [],
           "repo_info": {
@@ -8893,10 +8912,10 @@
             "language": "Java",
             "license": "GPL-3.0",
             "last_commit": "2026-10-22T08:04:14Z",
-            "open_issues": 60,
+            "open_issues": 61,
             "owner": "Anuken",
             "repo": "Mindustry",
-            "stars": 29488,
+            "stars": 29505,
             "topics": [
               "android",
               "desktop",
@@ -8914,7 +8933,7 @@
         },
         {
           "node_type": "item",
-          "title": "19323⭐ 2861🍴 osu!",
+          "title": "19337⭐ 2861🍴 osu!",
           "description": "): Rhythm game",
           "children": [],
           "repo_info": {
@@ -8924,11 +8943,11 @@
             "id": 22456440,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-27T13:57:07Z",
-            "open_issues": 1869,
+            "last_commit": "2026-10-28T11:12:03Z",
+            "open_issues": 1872,
             "owner": "ppy",
             "repo": "osu",
-            "stars": 19333,
+            "stars": 19342,
             "topics": [
               "beatmap",
               "catch",
@@ -8943,7 +8962,7 @@
         },
         {
           "node_type": "item",
-          "title": "9671⭐ 2618🍴 FlappySwift",
+          "title": "9670⭐ 2617🍴 FlappySwift",
           "description": "): Flappy Bird clone",
           "children": [],
           "repo_info": {
@@ -8957,7 +8976,7 @@
             "open_issues": 19,
             "owner": "newlinedotco",
             "repo": "FlappySwift",
-            "stars": 9671,
+            "stars": 9670,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:47.703Z"
@@ -8978,14 +8997,14 @@
             "open_issues": 22,
             "owner": "austinzheng",
             "repo": "swift-2048",
-            "stars": 3122,
+            "stars": 3123,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:47.703Z"
         },
         {
           "node_type": "item",
-          "title": "1698⭐ 608🍴 Moonlight Game Streaming",
+          "title": "1701⭐ 612🍴 Moonlight Game Streaming",
           "description": "moonlight-stream/moonlight-ios",
           "children": [],
           "repo_info": {
@@ -9148,7 +9167,7 @@
         },
         {
           "node_type": "item",
-          "title": "709⭐ 126🍴 Frogatto & Friends",
+          "title": "710⭐ 126🍴 Frogatto & Friends",
           "description": "): Action-adventure game, starring a certain quixotic frog",
           "children": [],
           "repo_info": {
@@ -9162,7 +9181,7 @@
             "open_issues": 166,
             "owner": "frogatto",
             "repo": "frogatto",
-            "stars": 709,
+            "stars": 710,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:47.703Z"
@@ -9458,7 +9477,7 @@
         },
         {
           "node_type": "item",
-          "title": "114⭐ 34🍴 Neocom for EVE Online",
+          "title": "117⭐ 35🍴 Neocom for EVE Online",
           "description": "): EveOnline MMORG character management tool",
           "children": [],
           "repo_info": {
@@ -9469,10 +9488,10 @@
             "language": "Swift",
             "license": "MIT",
             "last_commit": "2026-10-27T06:09:20Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "artem-shimanski",
             "repo": "Neocom",
-            "stars": 114,
+            "stars": 117,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:47.703Z"
@@ -9598,7 +9617,7 @@
                 "id": 36532042,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-27T06:41:11Z",
+                "last_commit": "2026-10-28T06:04:36Z",
                 "open_issues": 28,
                 "owner": "ifrotz",
                 "repo": "iosfrotz",
@@ -9615,7 +9634,7 @@
             "id": 36532042,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-27T06:41:11Z",
+            "last_commit": "2026-10-28T06:04:36Z",
             "open_issues": 28,
             "owner": "ifrotz",
             "repo": "iosfrotz",
@@ -9698,7 +9717,7 @@
         },
         {
           "node_type": "item",
-          "title": "33⭐ 15🍴 Friday Night Funkin'",
+          "title": "33⭐ 16🍴 Friday Night Funkin'",
           "description": "hadobedo/FunkiniOS",
           "children": [],
           "repo_info": {
@@ -9719,7 +9738,7 @@
         },
         {
           "node_type": "item",
-          "title": "30⭐ 8🍴 Memory Game",
+          "title": "31⭐ 8🍴 Memory Game",
           "description": "): Uses VIPER with robust unit tests",
           "children": [],
           "repo_info": {
@@ -9960,6 +9979,41 @@
             ]
           },
           "first_seen": "2026-10-15T13:39:24.334Z"
+        },
+        {
+          "node_type": "item",
+          "title": "1⭐ 0🍴 Waybill",
+          "description": "): Tactile 3D logistics idle diorama game for iPad built with RealityKit and SwiftUI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Logistics idle game for iPad with 3D dioramas built with Swift, SwiftUI and RealityKit",
+            "homepage": "https://yorben.me",
+            "id": 1432443295,
+            "language": "Swift",
+            "license": "MIT",
+            "last_commit": "2026-10-26T16:02:06Z",
+            "open_issues": 0,
+            "owner": "Yvsleyen00941",
+            "repo": "Waybill",
+            "stars": 1,
+            "topics": [
+              "3d",
+              "diorama",
+              "game-development",
+              "gamedev",
+              "idle-game",
+              "indie-game",
+              "ipados",
+              "logistics",
+              "open-source",
+              "realitykit",
+              "simulation",
+              "swift",
+              "swiftui"
+            ]
+          },
+          "first_seen": "2026-10-28T15:24:17.443Z"
         },
         {
           "node_type": "item",
@@ -10391,7 +10445,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "2754⭐ 380🍴 OpenNutriTracker",
+          "title": "2765⭐ 383🍴 OpenNutriTracker",
           "description": "): Easily log your meals, snacks and access a vast database of food items and ingredients to get detailed nutritional information",
           "children": [],
           "repo_info": {
@@ -10401,11 +10455,11 @@
             "id": 539619974,
             "language": "Dart",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-27T06:11:24Z",
-            "open_issues": 166,
+            "last_commit": "2026-10-28T15:03:30Z",
+            "open_issues": 167,
             "owner": "simonoppowa",
             "repo": "OpenNutriTracker",
-            "stars": 2760,
+            "stars": 2766,
             "topics": [
               "android",
               "barcode-scanner",
@@ -10462,7 +10516,7 @@
         },
         {
           "node_type": "item",
-          "title": "1440⭐ 493🍴 Open Food Facts",
+          "title": "1443⭐ 495🍴 Open Food Facts",
           "description": "): Scan food products barcode to see if they are good for you and the planet",
           "children": [],
           "repo_info": {
@@ -10472,11 +10526,11 @@
             "id": 258191576,
             "language": "Dart",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-27T14:29:26Z",
-            "open_issues": 710,
+            "last_commit": "2026-10-28T15:22:44Z",
+            "open_issues": 702,
             "owner": "openfoodfacts",
             "repo": "smooth-app",
-            "stars": 1442,
+            "stars": 1443,
             "topics": [
               "android",
               "dart",
@@ -10497,7 +10551,7 @@
         },
         {
           "node_type": "item",
-          "title": "494⭐ 109🍴 Fud AI",
+          "title": "502⭐ 112🍴 Fud AI",
           "description": "): Calorie, macro and workout tracker that logs meals from photos, barcodes, text or a spoken conversation, using your own Gemini, OpenAI, Claude or other AI key, with an AI coach, Apple Health sync and no account",
           "children": [],
           "repo_info": {
@@ -10508,10 +10562,10 @@
             "language": "Kotlin",
             "license": "MIT",
             "last_commit": "2026-10-26T00:42:27Z",
-            "open_issues": 32,
+            "open_issues": 33,
             "owner": "apoorvdarshan",
             "repo": "fud-ai",
-            "stars": 498,
+            "stars": 502,
             "topics": [
               "ai",
               "android",
@@ -10650,7 +10704,7 @@
             "id": 449643176,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-27T08:15:17Z",
+            "last_commit": "2026-10-28T11:06:20Z",
             "open_issues": 3,
             "owner": "mrzmyr",
             "repo": "pixy-mood-tracker-app",
@@ -11075,7 +11129,7 @@
         },
         {
           "node_type": "item",
-          "title": "19⭐ 5🍴 DailyVox",
+          "title": "19⭐ 6🍴 DailyVox",
           "description": "): Voice journal that transcribes on-device and holds no internet permission",
           "children": [],
           "repo_info": {
@@ -11085,8 +11139,8 @@
             "id": 1176189721,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-10-27T09:44:38Z",
-            "open_issues": 12,
+            "last_commit": "2026-10-28T12:08:35Z",
+            "open_issues": 16,
             "owner": "intrepidkarthi",
             "repo": "dailyvox",
             "stars": 19,
@@ -11238,7 +11292,7 @@
         },
         {
           "node_type": "item",
-          "title": "10⭐ 3🍴 HealthSync",
+          "title": "12⭐ 3🍴 HealthSync",
           "description": "): Sync selected Apple Health data to a private backend API",
           "children": [],
           "repo_info": {
@@ -11252,7 +11306,7 @@
             "open_issues": 0,
             "owner": "megabyte0x",
             "repo": "healthykit",
-            "stars": 11,
+            "stars": 12,
             "topics": [
               "apple-health",
               "apple-health-sync",
@@ -11302,7 +11356,7 @@
         },
         {
           "node_type": "item",
-          "title": "2⭐ 0🍴 Prism",
+          "title": "3⭐ 0🍴 Prism",
           "description": "): Reads Apple Health and works out daily sleep, recovery, strain, stress and energy scores on the device, with a journal, planners, widgets and full data export; no account needed",
           "children": [],
           "repo_info": {
@@ -11312,7 +11366,7 @@
             "id": 1426189629,
             "language": "Swift",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-26T00:48:26Z",
+            "last_commit": "2026-10-28T05:51:19Z",
             "open_issues": 0,
             "owner": "soma-intelligence",
             "repo": "prism",
@@ -11802,7 +11856,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "1332⭐ 171🍴 Medito",
+              "title": "1332⭐ 172🍴 Medito",
               "description": "): No ads, no sign-up",
               "children": [],
               "repo_info": {
@@ -11812,7 +11866,7 @@
                 "id": 343094174,
                 "language": "Dart",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-22T10:04:21Z",
+                "last_commit": "2026-10-28T11:47:23Z",
                 "open_issues": 3,
                 "owner": "meditohq",
                 "repo": "medito-app",
@@ -11833,7 +11887,7 @@
             },
             {
               "node_type": "item",
-              "title": "886⭐ 236🍴 QZ - qdomyos-zwift",
+              "title": "888⭐ 238🍴 QZ - qdomyos-zwift",
               "description": "): Unlock your bike / treadmill",
               "children": [
                 {
@@ -11848,8 +11902,8 @@
                     "id": 294157477,
                     "language": "C++",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-27T13:05:40Z",
-                    "open_issues": 372,
+                    "last_commit": "2026-10-28T13:37:35Z",
+                    "open_issues": 371,
                     "owner": "cagnulein",
                     "repo": "qdomyos-zwift",
                     "stars": 887,
@@ -11886,8 +11940,8 @@
                 "id": 294157477,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-27T13:05:40Z",
-                "open_issues": 372,
+                "last_commit": "2026-10-28T13:37:35Z",
+                "open_issues": 371,
                 "owner": "cagnulein",
                 "repo": "qdomyos-zwift",
                 "stars": 887,
@@ -11928,7 +11982,7 @@
                 "id": 286016244,
                 "language": "Swift",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-25T20:22:01Z",
+                "last_commit": "2026-10-27T19:51:03Z",
                 "open_issues": 13,
                 "owner": "timfraedrich",
                 "repo": "OutRun",
@@ -11943,7 +11997,7 @@
             },
             {
               "node_type": "item",
-              "title": "225⭐ 25🍴 Simple.",
+              "title": "226⭐ 25🍴 Simple.",
               "description": "): Create, schedule and track your workouts locally",
               "children": [],
               "repo_info": {
@@ -11957,7 +12011,7 @@
                 "open_issues": 15,
                 "owner": "basarsubasi",
                 "repo": "simplefitnessapp",
-                "stars": 226,
+                "stars": 224,
                 "topics": [
                   "fitness-tracker"
                 ]
@@ -12072,7 +12126,7 @@
             },
             {
               "node_type": "item",
-              "title": "20⭐ 3🍴 Ischys",
+              "title": "21⭐ 4🍴 Ischys",
               "description": "): Strength training log that keeps everything on the phone, with an Apple Watch app and a Lock Screen Live Activity, no account",
               "children": [],
               "repo_info": {
@@ -12274,7 +12328,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "2387⭐ 545🍴 Home Assistant Companion",
+          "title": "2391⭐ 550🍴 Home Assistant Companion",
           "description": "): Control and monitor your home from anywhere in the world",
           "children": [],
           "repo_info": {
@@ -12284,11 +12338,11 @@
             "id": 55336932,
             "language": "Swift",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-27T14:37:34Z",
+            "last_commit": "2026-10-28T09:21:43Z",
             "open_issues": 316,
             "owner": "home-assistant",
             "repo": "iOS",
-            "stars": 2390,
+            "stars": 2391,
             "topics": [
               "hacktoberfest",
               "home-assistant",
@@ -12339,7 +12393,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "15776⭐ 1662🍴 Organic Maps",
+          "title": "15794⭐ 1664🍴 Organic Maps",
           "description": "): Privacy-focused, ads-free, donation-based offline maps & GPS app with navigation for hiking, cycling, biking, and driving",
           "children": [],
           "repo_info": {
@@ -12349,11 +12403,11 @@
             "id": 324829379,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-27T14:50:56Z",
-            "open_issues": 3618,
+            "last_commit": "2026-10-28T15:20:27Z",
+            "open_issues": 3623,
             "owner": "organicmaps",
             "repo": "organicmaps",
-            "stars": 15790,
+            "stars": 15795,
             "topics": [
               "android",
               "app",
@@ -12381,7 +12435,7 @@
         },
         {
           "node_type": "item",
-          "title": "6110⭐ 1252🍴 OsmAnd Maps",
+          "title": "6117⭐ 1253🍴 OsmAnd Maps",
           "description": "): Map with access to OpenStreetMaps",
           "children": [],
           "repo_info": {
@@ -12391,11 +12445,11 @@
             "id": 1258570,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-27T14:50:54Z",
-            "open_issues": 3478,
+            "last_commit": "2026-10-28T15:03:29Z",
+            "open_issues": 3488,
             "owner": "osmandapp",
             "repo": "OsmAnd",
-            "stars": 6111,
+            "stars": 6117,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:47.703Z"
@@ -12442,7 +12496,7 @@
             "language": "Objective-C",
             "license": "NOASSERTION",
             "last_commit": "2026-10-17T14:00:23Z",
-            "open_issues": 21,
+            "open_issues": 22,
             "owner": "owntracks",
             "repo": "ios",
             "stars": 457,
@@ -12567,7 +12621,7 @@
         },
         {
           "node_type": "item",
-          "title": "115⭐ 21🍴 Arc",
+          "title": "115⭐ 20🍴 Arc",
           "description": "): Learns about the places you visit & how you like to move around",
           "children": [],
           "repo_info": {
@@ -12854,7 +12908,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "25624⭐ 1756🍴 Readest",
+          "title": "25694⭐ 1768🍴 Readest",
           "description": "): Feature-rich ebook reader",
           "children": [],
           "repo_info": {
@@ -12864,11 +12918,11 @@
             "id": 871781831,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-27T13:51:59Z",
-            "open_issues": 138,
+            "last_commit": "2026-10-28T15:00:40Z",
+            "open_issues": 150,
             "owner": "readest",
             "repo": "readest",
-            "stars": 25676,
+            "stars": 25703,
             "topics": [
               "calibre",
               "calibre-plugin",
@@ -12896,7 +12950,7 @@
         },
         {
           "node_type": "item",
-          "title": "21386⭐ 6646🍴 Kodi",
+          "title": "21388⭐ 6648🍴 Kodi",
           "description": "): Media player & entertainment hub, includes a separate remote app",
           "children": [],
           "repo_info": {
@@ -12906,11 +12960,11 @@
             "id": 1217614,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-27T13:40:04Z",
-            "open_issues": 550,
+            "last_commit": "2026-10-28T06:40:09Z",
+            "open_issues": 548,
             "owner": "xbmc",
             "repo": "xbmc",
-            "stars": 21389,
+            "stars": 21388,
             "topics": [
               "android",
               "c-plus-plus",
@@ -12935,7 +12989,7 @@
         },
         {
           "node_type": "item",
-          "title": "3028⭐ 504🍴 MuPDF",
+          "title": "3033⭐ 505🍴 MuPDF",
           "description": "): A PDF, XPS/OpenXPS, CBZ & EPUB document viewer",
           "children": [],
           "repo_info": {
@@ -12945,11 +12999,11 @@
             "id": 37978718,
             "language": "C",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-27T10:31:27Z",
+            "last_commit": "2026-10-28T10:17:27Z",
             "open_issues": 14,
             "owner": "ArtifexSoftware",
             "repo": "mupdf",
-            "stars": 3032,
+            "stars": 3033,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:47.703Z"
@@ -13009,11 +13063,11 @@
             "id": 512754250,
             "language": "Swift",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-27T11:38:46Z",
-            "open_issues": 345,
+            "last_commit": "2026-10-28T14:34:08Z",
+            "open_issues": 351,
             "owner": "Automattic",
             "repo": "pocket-casts-ios",
-            "stars": 1831,
+            "stars": 1830,
             "topics": [
               "hacktoberfest",
               "pocket-casts"
@@ -13037,7 +13091,7 @@
             "open_issues": 92,
             "owner": "pixelfed",
             "repo": "pixelfed-rn",
-            "stars": 365,
+            "stars": 364,
             "topics": [
               "activitypub",
               "fediverse",
@@ -13133,7 +13187,7 @@
         },
         {
           "node_type": "item",
-          "title": "16⭐ 2🍴 MuVis",
+          "title": "17⭐ 2🍴 MuVis",
           "description": "): Music Visualization",
           "children": [],
           "repo_info": {
@@ -13147,7 +13201,7 @@
             "open_issues": 0,
             "owner": "Keith-43",
             "repo": "MuVis-Experimentation",
-            "stars": 16,
+            "stars": 17,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:47.703Z"
@@ -13251,7 +13305,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "11480⭐ 1626🍴 Analog Synth X",
+              "title": "11482⭐ 1625🍴 Analog Synth X",
               "description": "): Simple analog synthesizer music keyboard example",
               "children": [],
               "repo_info": {
@@ -13283,7 +13337,7 @@
             },
             {
               "node_type": "item",
-              "title": "2945⭐ 708🍴 Swift Radio Pro",
+              "title": "2946⭐ 708🍴 Swift Radio Pro",
               "description": "): Professional radio station",
               "children": [],
               "repo_info": {
@@ -13297,7 +13351,7 @@
                 "open_issues": 11,
                 "owner": "analogcode",
                 "repo": "Swift-Radio-Pro",
-                "stars": 2945,
+                "stars": 2946,
                 "topics": [
                   "album-art",
                   "audio",
@@ -13320,7 +13374,7 @@
             },
             {
               "node_type": "item",
-              "title": "2263⭐ 280🍴 BookPlayer",
+              "title": "2267⭐ 280🍴 BookPlayer",
               "description": "): Player for your DRM-free audiobooks",
               "children": [],
               "repo_info": {
@@ -13334,7 +13388,7 @@
                 "open_issues": 208,
                 "owner": "TortugaPower",
                 "repo": "BookPlayer",
-                "stars": 2266,
+                "stars": 2267,
                 "topics": [
                   "audiobook",
                   "ios",
@@ -13347,7 +13401,7 @@
             },
             {
               "node_type": "item",
-              "title": "1798⭐ 230🍴 AudioKitSynthOne",
+              "title": "1799⭐ 230🍴 AudioKitSynthOne",
               "description": "): Free synthesizer https://audiokitpro.com/synth/",
               "children": [],
               "repo_info": {
@@ -13605,7 +13659,7 @@
             },
             {
               "node_type": "item",
-              "title": "50⭐ 2🍴 Sonar",
+              "title": "51⭐ 3🍴 Sonar",
               "description": "): Music player with NetEase Cloud Music and QQ Music search, synchronized lyrics, and local playlist backups.",
               "children": [],
               "repo_info": {
@@ -13615,11 +13669,11 @@
                 "id": 1360233610,
                 "language": "Swift",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-23T10:14:19Z",
+                "last_commit": "2026-10-28T12:59:59Z",
                 "open_issues": 0,
                 "owner": "can4hou6joeng4",
                 "repo": "Sonar",
-                "stars": 51,
+                "stars": 50,
                 "topics": [
                   "avfoundation",
                   "ios",
@@ -13652,8 +13706,8 @@
                     "id": 228760635,
                     "language": "Objective-C",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-26T21:36:10Z",
-                    "open_issues": 30,
+                    "last_commit": "2026-10-28T14:02:09Z",
+                    "open_issues": 31,
                     "owner": "cmicali",
                     "repo": "vibe",
                     "stars": 49,
@@ -13690,8 +13744,8 @@
                 "id": 228760635,
                 "language": "Objective-C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-26T21:36:10Z",
-                "open_issues": 30,
+                "last_commit": "2026-10-28T14:02:09Z",
+                "open_issues": 31,
                 "owner": "cmicali",
                 "repo": "vibe",
                 "stars": 49,
@@ -13749,7 +13803,7 @@
             },
             {
               "node_type": "item",
-              "title": "42⭐ 7🍴 Minidisc",
+              "title": "42⭐ 8🍴 Minidisc",
               "description": "): An opinionated music player for Navidrome, Subsonic and OpenSubsonic servers with native Lidarr integration.",
               "children": [],
               "repo_info": {
@@ -13882,7 +13936,7 @@
                 "id": 1296873090,
                 "language": "Swift",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-26T23:30:21Z",
+                "last_commit": "2026-10-28T11:44:58Z",
                 "open_issues": 1,
                 "owner": "adrbn",
                 "repo": "aura",
@@ -13935,7 +13989,7 @@
             },
             {
               "node_type": "item",
-              "title": "0⭐ 1🍴 Lyricar",
+              "title": "1⭐ 1🍴 Lyricar",
               "description": "): Synced lyrics for whatever plays on your Spotify, on the Lock Screen, Dynamic Island, Home Screen widgets and CarPlay",
               "children": [],
               "repo_info": {
@@ -13949,7 +14003,7 @@
                 "open_issues": 5,
                 "owner": "noluyorAbi",
                 "repo": "lyricar",
-                "stars": 0,
+                "stars": 1,
                 "topics": [
                   "activitykit",
                   "app-intents",
@@ -13984,7 +14038,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "6526⭐ 649🍴 MovieSwiftUI",
+              "title": "6528⭐ 650🍴 MovieSwiftUI",
               "description": "): Browse movies, made with SwiftUI, Combine & MovieDB",
               "children": [],
               "repo_info": {
@@ -13998,14 +14052,14 @@
                 "open_issues": 15,
                 "owner": "Dimillian",
                 "repo": "MovieSwiftUI",
-                "stars": 6527,
+                "stars": 6528,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:47.703Z"
             },
             {
               "node_type": "item",
-              "title": "4007⭐ 262🍴 EhPanda",
+              "title": "4010⭐ 264🍴 EhPanda",
               "description": "): Unofficial E-Hentai browser",
               "children": [],
               "repo_info": {
@@ -14015,11 +14069,11 @@
                 "id": 308043635,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-10-27T13:32:41Z",
+                "last_commit": "2026-10-28T08:24:38Z",
                 "open_issues": 35,
                 "owner": "EhPanda-Team",
                 "repo": "EhPanda",
-                "stars": 4010,
+                "stars": 4011,
                 "topics": [
                   "combine",
                   "e-hentai",
@@ -14034,7 +14088,7 @@
             },
             {
               "node_type": "item",
-              "title": "3783⭐ 593🍴 Artsy",
+              "title": "3786⭐ 593🍴 Artsy",
               "description": "): The art world in your pocket",
               "children": [],
               "repo_info": {
@@ -14044,11 +14098,11 @@
                 "id": 29702213,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-27T12:54:25Z",
-                "open_issues": 26,
+                "last_commit": "2026-10-28T15:18:46Z",
+                "open_issues": 20,
                 "owner": "artsy",
                 "repo": "eigen",
-                "stars": 3784,
+                "stars": 3786,
                 "topics": [
                   "android",
                   "app",
@@ -14154,7 +14208,7 @@
                 "language": "Swift",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-26T12:01:21Z",
-                "open_issues": 57,
+                "open_issues": 58,
                 "owner": "kiwix",
                 "repo": "kiwix-apple",
                 "stars": 802,
@@ -14279,7 +14333,7 @@
             },
             {
               "node_type": "item",
-              "title": "315⭐ 71🍴 SwiftUI-MovieDB",
+              "title": "315⭐ 69🍴 SwiftUI-MovieDB",
               "description": "): Browse movies, made with SwiftUI, Combine & MovieDB",
               "children": [
                 {
@@ -15378,7 +15432,7 @@
             },
             {
               "node_type": "item",
-              "title": "1071⭐ 71🍴 Find",
+              "title": "1072⭐ 71🍴 Find",
               "description": "): Text search for images",
               "children": [],
               "repo_info": {
@@ -15392,7 +15446,7 @@
                 "open_issues": 4,
                 "owner": "aheze",
                 "repo": "OpenFind",
-                "stars": 1071,
+                "stars": 1072,
                 "topics": [
                   "app",
                   "camera",
@@ -15591,7 +15645,7 @@
                 "id": 527052255,
                 "language": "Swift",
                 "license": null,
-                "last_commit": "2026-10-27T03:07:05Z",
+                "last_commit": "2026-10-27T21:47:08Z",
                 "open_issues": 0,
                 "owner": "256Arts",
                 "repo": "Sprite-Pencil",
@@ -15635,7 +15689,7 @@
                 "id": 527051182,
                 "language": "Swift",
                 "license": null,
-                "last_commit": "2026-10-27T01:58:19Z",
+                "last_commit": "2026-10-28T03:54:59Z",
                 "open_issues": 0,
                 "owner": "256Arts",
                 "repo": "Sprite-Catalog",
@@ -15741,7 +15795,7 @@
                 "id": 527051726,
                 "language": "Swift",
                 "license": null,
-                "last_commit": "2026-09-27T07:14:03Z",
+                "last_commit": "2026-10-27T21:42:40Z",
                 "open_issues": 0,
                 "owner": "256Arts",
                 "repo": "Sprite-Cutter",
@@ -15755,7 +15809,7 @@
             },
             {
               "node_type": "item",
-              "title": "2⭐ 1🍴 Align Studio",
+              "title": "3⭐ 1🍴 Align Studio",
               "description": "): Intelligent camera app that guides real-time photo composition, suggests optimal zoom levels, and captures high-resolution RAW shots with film presets",
               "children": [],
               "repo_info": {
@@ -15765,11 +15819,11 @@
                 "id": 1348560625,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-10-27T14:50:55Z",
+                "last_commit": "2026-10-28T15:03:05Z",
                 "open_issues": 0,
                 "owner": "emlavankhoahienma-hue",
                 "repo": "ai-smart-framing-camera",
-                "stars": 2,
+                "stars": 3,
                 "topics": [
                   "ai-camera",
                   "camera",
@@ -15889,7 +15943,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "20234⭐ 6376🍴 VLC",
+              "title": "20255⭐ 6388🍴 VLC",
               "description": "): Media Player",
               "children": [],
               "repo_info": {
@@ -15899,11 +15953,11 @@
                 "id": 3299208,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-27T14:20:25Z",
+                "last_commit": "2026-10-28T14:00:25Z",
                 "open_issues": 2,
                 "owner": "videolan",
                 "repo": "vlc",
-                "stars": 20244,
+                "stars": 20260,
                 "topics": [
                   "c",
                   "framework",
@@ -15918,7 +15972,7 @@
             },
             {
               "node_type": "item",
-              "title": "3770⭐ 180🍴 Yattee",
+              "title": "3773⭐ 180🍴 Yattee",
               "description": "): Alternative to YouTube",
               "children": [],
               "repo_info": {
@@ -15932,7 +15986,7 @@
                 "open_issues": 235,
                 "owner": "yattee",
                 "repo": "yattee",
-                "stars": 3771,
+                "stars": 3773,
                 "topics": [
                   "invidious",
                   "ios",
@@ -15959,18 +16013,18 @@
                 "id": 680010704,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-10-27T08:46:01Z",
+                "last_commit": "2026-10-28T14:47:04Z",
                 "open_issues": 28,
                 "owner": "eerimoq",
                 "repo": "moblin",
-                "stars": 774,
+                "stars": 773,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:47.703Z"
             },
             {
               "node_type": "item",
-              "title": "374⭐ 42🍴 Opaline",
+              "title": "375⭐ 42🍴 Opaline",
               "description": "): Lightweight, privacy-focused YouTube client",
               "children": [],
               "repo_info": {
@@ -15981,10 +16035,10 @@
                 "language": "Swift",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-10T02:02:35Z",
-                "open_issues": 53,
+                "open_issues": 54,
                 "owner": "verback2308",
                 "repo": "Opaline",
-                "stars": 375,
+                "stars": 376,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:47.703Z"
@@ -16375,7 +16429,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "1634⭐ 133🍴 Hacki for Hacker News",
+              "title": "1635⭐ 133🍴 Hacki for Hacker News",
               "description": "Livinglist/Hacki",
               "children": [],
               "repo_info": {
@@ -16386,10 +16440,10 @@
                 "language": "Dart",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-26T15:29:28Z",
-                "open_issues": 42,
+                "open_issues": 41,
                 "owner": "Livinglist",
                 "repo": "Hacki",
-                "stars": 1634,
+                "stars": 1635,
                 "topics": [
                   "android",
                   "android-app",
@@ -16461,7 +16515,7 @@
             },
             {
               "node_type": "item",
-              "title": "767⭐ 106🍴 Hackers",
+              "title": "768⭐ 106🍴 Hackers",
               "description": "weiran/Hackers",
               "children": [],
               "repo_info": {
@@ -16515,7 +16569,7 @@
             },
             {
               "node_type": "item",
-              "title": "140⭐ 75🍴 Hacker News Multiplatform",
+              "title": "141⭐ 76🍴 Hacker News Multiplatform",
               "description": "rickwierenga/heartbeat-tutorials",
               "children": [],
               "repo_info": {
@@ -17136,7 +17190,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "10484⭐ 776🍴 NetNewsWire",
+              "title": "10487⭐ 778🍴 NetNewsWire",
               "description": "): Feed reader that supports RSS, Atom, JSON Feed, and RSS-in-JSON formats",
               "children": [],
               "repo_info": {
@@ -17147,10 +17201,10 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-10-25T04:53:36Z",
-                "open_issues": 644,
+                "open_issues": 645,
                 "owner": "Ranchero-Software",
                 "repo": "NetNewsWire",
-                "stars": 10484,
+                "stars": 10487,
                 "topics": [
                   "feed-reader",
                   "ios",
@@ -17165,7 +17219,7 @@
             },
             {
               "node_type": "item",
-              "title": "2434⭐ 139🍴 Twine RSS Reader",
+              "title": "2436⭐ 140🍴 Twine RSS Reader",
               "description": "msasikanth/twine",
               "children": [
                 {
@@ -17180,11 +17234,11 @@
                     "id": 632826313,
                     "language": "Kotlin",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-27T06:34:42Z",
-                    "open_issues": 22,
+                    "last_commit": "2026-10-27T21:31:59Z",
+                    "open_issues": 23,
                     "owner": "msasikanth",
                     "repo": "twine",
-                    "stars": 2436,
+                    "stars": 2437,
                     "topics": [
                       "compose-multiplatform",
                       "kotlin-multiplatform",
@@ -17201,11 +17255,11 @@
                 "id": 632826313,
                 "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-27T06:34:42Z",
-                "open_issues": 22,
+                "last_commit": "2026-10-27T21:31:59Z",
+                "open_issues": 23,
                 "owner": "msasikanth",
                 "repo": "twine",
-                "stars": 2436,
+                "stars": 2437,
                 "topics": [
                   "compose-multiplatform",
                   "kotlin-multiplatform",
@@ -17216,7 +17270,7 @@
             },
             {
               "node_type": "item",
-              "title": "1286⭐ 70🍴 FeedFlow",
+              "title": "1291⭐ 70🍴 FeedFlow",
               "description": "): Minimalistic and opinionated RSS Reader",
               "children": [
                 {
@@ -17231,11 +17285,11 @@
                     "id": 600257020,
                     "language": "Kotlin",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-27T12:09:24Z",
-                    "open_issues": 98,
+                    "last_commit": "2026-10-28T12:31:04Z",
+                    "open_issues": 96,
                     "owner": "prof18",
                     "repo": "feed-flow",
-                    "stars": 1291,
+                    "stars": 1292,
                     "topics": [
                       "compose-desktop",
                       "jetpack-compose",
@@ -17253,11 +17307,11 @@
                 "id": 600257020,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-27T12:09:24Z",
-                "open_issues": 98,
+                "last_commit": "2026-10-28T12:31:04Z",
+                "open_issues": 96,
                 "owner": "prof18",
                 "repo": "feed-flow",
-                "stars": 1291,
+                "stars": 1292,
                 "topics": [
                   "compose-desktop",
                   "jetpack-compose",
@@ -17310,7 +17364,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "25143⭐ 9370🍴 Chrome",
+          "title": "25164⭐ 9384🍴 Chrome",
           "description": "chromium/chromium",
           "children": [],
           "repo_info": {
@@ -17320,11 +17374,11 @@
             "id": 120360765,
             "language": null,
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-27T14:47:07Z",
+            "last_commit": "2026-10-28T15:22:35Z",
             "open_issues": 28,
             "owner": "chromium",
             "repo": "chromium",
-            "stars": 25153,
+            "stars": 25169,
             "topics": [
               "browser",
               "chromium"
@@ -17334,7 +17388,7 @@
         },
         {
           "node_type": "item",
-          "title": "21386⭐ 6646🍴 Kodi",
+          "title": "21388⭐ 6648🍴 Kodi",
           "description": "): Media player & entertainment hub, includes a separate remote app",
           "children": [],
           "repo_info": {
@@ -17344,11 +17398,11 @@
             "id": 1217614,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-27T13:40:04Z",
-            "open_issues": 550,
+            "last_commit": "2026-10-28T06:40:09Z",
+            "open_issues": 548,
             "owner": "xbmc",
             "repo": "xbmc",
-            "stars": 21389,
+            "stars": 21388,
             "topics": [
               "android",
               "c-plus-plus",
@@ -17373,7 +17427,7 @@
         },
         {
           "node_type": "item",
-          "title": "20234⭐ 6376🍴 VLC",
+          "title": "20255⭐ 6388🍴 VLC",
           "description": "): Media Player",
           "children": [],
           "repo_info": {
@@ -17383,11 +17437,11 @@
             "id": 3299208,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-27T14:20:25Z",
+            "last_commit": "2026-10-28T14:00:25Z",
             "open_issues": 2,
             "owner": "videolan",
             "repo": "vlc",
-            "stars": 20244,
+            "stars": 20260,
             "topics": [
               "c",
               "framework",
@@ -17402,7 +17456,7 @@
         },
         {
           "node_type": "item",
-          "title": "18351⭐ 2854🍴 Bluesky Social",
+          "title": "18361⭐ 2862🍴 Bluesky Social",
           "description": "bluesky-social/social-app",
           "children": [],
           "repo_info": {
@@ -17412,18 +17466,18 @@
             "id": 501027541,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-27T14:51:31Z",
+            "last_commit": "2026-10-28T15:24:15Z",
             "open_issues": 2433,
             "owner": "bluesky-social",
             "repo": "social-app",
-            "stars": 18353,
+            "stars": 18361,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:47.703Z"
         },
         {
           "node_type": "item",
-          "title": "13064⭐ 3287🍴 Firefox",
+          "title": "13068⭐ 3289🍴 Firefox",
           "description": "): Official Firefox app",
           "children": [],
           "repo_info": {
@@ -17433,11 +17487,11 @@
             "id": 26133979,
             "language": "Swift",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-27T14:52:29Z",
+            "last_commit": "2026-10-28T15:07:25Z",
             "open_issues": 1594,
             "owner": "mozilla-mobile",
             "repo": "firefox-ios",
-            "stars": 13066,
+            "stars": 13068,
             "topics": [
               "browser",
               "firefox",
@@ -17450,7 +17504,7 @@
         },
         {
           "node_type": "item",
-          "title": "12303⭐ 3529🍴 Signal",
+          "title": "12307⭐ 3529🍴 Signal",
           "description": "): Free, world-wide, private messaging & phone calls",
           "children": [],
           "repo_info": {
@@ -17461,17 +17515,17 @@
             "language": "Swift",
             "license": "AGPL-3.0",
             "last_commit": "2026-10-22T18:39:34Z",
-            "open_issues": 154,
+            "open_issues": 153,
             "owner": "signalapp",
             "repo": "Signal-iOS",
-            "stars": 12305,
+            "stars": 12308,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:47.703Z"
         },
         {
           "node_type": "item",
-          "title": "8674⭐ 1230🍴 Kickstarter",
+          "title": "8673⭐ 1231🍴 Kickstarter",
           "description": "): Where independent creators & passionate backers come together to bring new ideas to life",
           "children": [],
           "repo_info": {
@@ -17481,11 +17535,11 @@
             "id": 75432091,
             "language": "Swift",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-27T13:44:42Z",
+            "last_commit": "2026-10-27T14:59:22Z",
             "open_issues": 12,
             "owner": "kickstarter",
             "repo": "ios-oss",
-            "stars": 8674,
+            "stars": 8672,
             "topics": [
               "frp",
               "functional-programming",
@@ -17502,7 +17556,7 @@
         },
         {
           "node_type": "item",
-          "title": "4399⭐ 764🍴 Rainbow",
+          "title": "4399⭐ 765🍴 Rainbow",
           "description": "): Ethereum wallet that lives in your pocket",
           "children": [],
           "repo_info": {
@@ -17512,7 +17566,7 @@
             "id": 176777353,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-26T23:05:58Z",
+            "last_commit": "2026-10-28T15:13:34Z",
             "open_issues": 42,
             "owner": "rainbow-me",
             "repo": "rainbow",
@@ -17529,7 +17583,7 @@
         },
         {
           "node_type": "item",
-          "title": "3907⭐ 1173🍴 WordPress",
+          "title": "3907⭐ 1174🍴 WordPress",
           "description": "): Official WordPress app",
           "children": [],
           "repo_info": {
@@ -17539,8 +17593,8 @@
             "id": 8859285,
             "language": "Swift",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-27T09:42:27Z",
-            "open_issues": 412,
+            "last_commit": "2026-10-28T15:23:04Z",
+            "open_issues": 418,
             "owner": "wordpress-mobile",
             "repo": "WordPress-iOS",
             "stars": 3907,
@@ -17557,7 +17611,7 @@
         },
         {
           "node_type": "item",
-          "title": "3463⭐ 934🍴 Wikipedia",
+          "title": "3465⭐ 936🍴 Wikipedia",
           "description": "): Official Wikipedia app",
           "children": [],
           "repo_info": {
@@ -17567,11 +17621,11 @@
             "id": 13863130,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-10-27T14:31:07Z",
-            "open_issues": 49,
+            "last_commit": "2026-10-28T15:16:46Z",
+            "open_issues": 45,
             "owner": "wikimedia",
             "repo": "wikipedia-ios",
-            "stars": 3463,
+            "stars": 3465,
             "topics": [
               "objective-c",
               "swift",
@@ -17582,7 +17636,7 @@
         },
         {
           "node_type": "item",
-          "title": "2535⭐ 1042🍴 Nextcloud",
+          "title": "2537⭐ 1041🍴 Nextcloud",
           "description": "): A safe home for all your data",
           "children": [],
           "repo_info": {
@@ -17592,11 +17646,11 @@
             "id": 75287738,
             "language": "Swift",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-27T14:42:13Z",
-            "open_issues": 1014,
+            "last_commit": "2026-10-28T13:21:05Z",
+            "open_issues": 1015,
             "owner": "nextcloud",
             "repo": "ios",
-            "stars": 2536,
+            "stars": 2537,
             "topics": [
               "hacktoberfest",
               "ios",
@@ -17618,7 +17672,7 @@
             "id": 332718082,
             "language": "Swift",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-27T04:31:50Z",
+            "last_commit": "2026-10-28T04:25:05Z",
             "open_issues": 358,
             "owner": "mastodon",
             "repo": "mastodon-ios",
@@ -17653,7 +17707,7 @@
         },
         {
           "node_type": "item",
-          "title": "575⭐ 115🍴 IVPN",
+          "title": "576⭐ 114🍴 IVPN",
           "description": "ivpn/ios-app",
           "children": [],
           "repo_info": {
@@ -17682,7 +17736,7 @@
         },
         {
           "node_type": "item",
-          "title": "525⭐ 103🍴 Ultralytics YOLO",
+          "title": "526⭐ 104🍴 Ultralytics YOLO",
           "description": "): Ultralytics vision and AI",
           "children": [],
           "repo_info": {
@@ -17692,8 +17746,8 @@
             "id": 755968402,
             "language": "Swift",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-24T22:04:45Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-28T13:59:45Z",
+            "open_issues": 5,
             "owner": "ultralytics",
             "repo": "yolo-ios-app",
             "stars": 526,
@@ -17748,7 +17802,7 @@
         },
         {
           "node_type": "item",
-          "title": "266⭐ 88🍴 DuckDuckGo browser",
+          "title": "267⭐ 88🍴 DuckDuckGo browser",
           "description": "duckduckgo/apple-browsers",
           "children": [],
           "repo_info": {
@@ -17758,11 +17812,11 @@
             "id": 903987915,
             "language": "Swift",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-27T14:47:21Z",
-            "open_issues": 167,
+            "last_commit": "2026-10-28T15:22:49Z",
+            "open_issues": 176,
             "owner": "duckduckgo",
             "repo": "apple-browsers",
-            "stars": 267,
+            "stars": 268,
             "topics": [
               "browsers",
               "duckduckgo",
@@ -17784,7 +17838,7 @@
             "id": 96201497,
             "language": "Swift",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-27T11:51:35Z",
+            "last_commit": "2026-10-28T03:41:32Z",
             "open_issues": 167,
             "owner": "nextcloud",
             "repo": "talk-ios",
@@ -17812,8 +17866,8 @@
             "id": 581121052,
             "language": "Swift",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-27T14:46:28Z",
-            "open_issues": 36,
+            "last_commit": "2026-10-28T15:24:04Z",
+            "open_issues": 33,
             "owner": "wireapp",
             "repo": "wire-ios",
             "stars": 168,
@@ -17854,7 +17908,7 @@
             "id": 359415613,
             "language": "Swift",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-27T14:12:40Z",
+            "last_commit": "2026-10-28T14:37:35Z",
             "open_issues": 7,
             "owner": "Infomaniak",
             "repo": "ios-kDrive",
@@ -17981,7 +18035,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "4088⭐ 234🍴 Sill",
+          "title": "4192⭐ 244🍴 Sill",
           "description": "): Shows any window from your Mac on your iPhone or iPad and lets you use it with touch, Apple Pencil, a trackpad and keys",
           "children": [],
           "repo_info": {
@@ -17992,10 +18046,10 @@
             "language": "Swift",
             "license": "Apache-2.0",
             "last_commit": "2026-10-27T12:51:09Z",
-            "open_issues": 119,
+            "open_issues": 120,
             "owner": "Saffsanity",
             "repo": "sill",
-            "stars": 4159,
+            "stars": 4201,
             "topics": [
               "apple-pencil",
               "hevc",
@@ -18019,7 +18073,7 @@
         },
         {
           "node_type": "item",
-          "title": "892⭐ 166🍴 Foqos",
+          "title": "894⭐ 167🍴 Foqos",
           "description": "): Block distractions, lock apps behind the tap of a NFC tag",
           "children": [],
           "repo_info": {
@@ -18030,10 +18084,10 @@
             "language": "Swift",
             "license": "MIT",
             "last_commit": "2026-10-27T01:46:06Z",
-            "open_issues": 19,
+            "open_issues": 22,
             "owner": "awaseem",
             "repo": "foqos",
-            "stars": 893,
+            "stars": 896,
             "topics": [
               "ios-app",
               "productivity",
@@ -18044,7 +18098,7 @@
         },
         {
           "node_type": "item",
-          "title": "621⭐ 77🍴 Clip",
+          "title": "622⭐ 78🍴 Clip",
           "description": "): Clipboard manager that can monitor your clipboard indefinitely in the background",
           "children": [],
           "repo_info": {
@@ -18058,14 +18112,14 @@
             "open_issues": 25,
             "owner": "rileytestut",
             "repo": "Clip",
-            "stars": 621,
+            "stars": 622,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:47.703Z"
         },
         {
           "node_type": "item",
-          "title": "95⭐ 18🍴 DartPDF",
+          "title": "98⭐ 18🍴 DartPDF",
           "description": "): PDF editor for annotating documents and filling forms",
           "children": [],
           "repo_info": {
@@ -18075,11 +18129,11 @@
             "id": 1264447327,
             "language": "Dart",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-27T10:38:18Z",
-            "open_issues": 13,
+            "last_commit": "2026-10-28T12:59:57Z",
+            "open_issues": 29,
             "owner": "ben-milanko",
             "repo": "dart-pdf",
-            "stars": 96,
+            "stars": 98,
             "topics": [
               "acroform",
               "annotations",
@@ -18283,7 +18337,37 @@
         },
         {
           "node_type": "item",
-          "title": "2⭐ 0🍴 JoeBro Mobile",
+          "title": "4⭐ 1🍴 Posato",
+          "description": "): Block chosen websites and apps with Screen Time for a timed pause, now or on a schedule, with optional end-to-end encrypted iCloud sync",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Block the websites and apps you choose for a timed pause on macOS, iOS, Linux, and Android. No account, no analytics.",
+            "homepage": "https://posato.app",
+            "id": 1347305068,
+            "language": "Kotlin",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-28T15:10:44Z",
+            "open_issues": 1,
+            "owner": "dees91",
+            "repo": "posato",
+            "stars": 4,
+            "topics": [
+              "app-blocker",
+              "compose-multiplatform",
+              "digital-wellbeing",
+              "distraction-blocker",
+              "focus",
+              "kotlin-multiplatform",
+              "screen-time",
+              "website-blocker"
+            ]
+          },
+          "first_seen": "2026-10-28T15:24:17.443Z"
+        },
+        {
+          "node_type": "item",
+          "title": "3⭐ 1🍴 JoeBro Mobile",
           "description": "): iPhone companion to the JoeBro Mac AI workspace; chats, agents and documents over your own network, no cloud",
           "children": [],
           "repo_info": {
@@ -18297,7 +18381,7 @@
             "open_issues": 0,
             "owner": "joexk1",
             "repo": "JoeBro-Mobile",
-            "stars": 2,
+            "stars": 3,
             "topics": [
               "ai-assistant",
               "companion-app",
@@ -18349,6 +18433,37 @@
         },
         {
           "node_type": "item",
+          "title": "1⭐ 0🍴 Yihu",
+          "description": "): An iPhone voice companion for your own web workspace, with on-device recognition and reviewed draft insertion, without automatic sending.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "一呼 Yihu — Native iOS browser shell optimized for Agent workbenches, with on-device speech, voice notes and sharing; not a general-purpose Agent platform.",
+            "homepage": null,
+            "id": 1408643370,
+            "language": "Swift",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-26T19:22:34Z",
+            "open_issues": 3,
+            "owner": "alexlee2046",
+            "repo": "yihu-ios",
+            "stars": 1,
+            "topics": [
+              "agent-workbench",
+              "collie",
+              "ios",
+              "ios-browser",
+              "on-device-ai",
+              "speech-recognition",
+              "swift",
+              "swiftui",
+              "webkit"
+            ]
+          },
+          "first_seen": "2026-10-28T15:24:17.443Z"
+        },
+        {
+          "node_type": "item",
           "title": "0⭐ 0🍴 Generator Tracker",
           "description": "): Offline logbook for power generators: one-tap engine-hour timer, fuel estimates from refills, maintenance reminders and monthly charts",
           "children": [],
@@ -18376,7 +18491,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "14989⭐ 1681🍴 TicTacToe",
+          "title": "14993⭐ 1682🍴 TicTacToe",
           "description": "): Demonstrate how to build a full, moderately complex application in the Composable Architecture",
           "children": [],
           "repo_info": {
@@ -18386,11 +18501,11 @@
             "id": 261039251,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-10-06T22:13:50Z",
+            "last_commit": "2026-10-27T18:51:29Z",
             "open_issues": 27,
             "owner": "pointfreeco",
             "repo": "swift-composable-architecture",
-            "stars": 14992,
+            "stars": 14996,
             "topics": [
               "architecture",
               "composition",
@@ -18404,7 +18519,7 @@
         },
         {
           "node_type": "item",
-          "title": "8288⭐ 1858🍴 30 mini Swift Apps for self-study",
+          "title": "8287⭐ 1858🍴 30 mini Swift Apps for self-study",
           "description": "soapyigu/Swift-30-Projects",
           "children": [],
           "repo_info": {
@@ -18431,7 +18546,7 @@
         },
         {
           "node_type": "item",
-          "title": "4409⭐ 731🍴 Template using Clean Architecture and MVVM",
+          "title": "4410⭐ 731🍴 Template using Clean Architecture and MVVM",
           "description": "kudoleh/iOS-Clean-Architecture-MVVM",
           "children": [],
           "repo_info": {
@@ -18463,7 +18578,7 @@
         },
         {
           "node_type": "item",
-          "title": "3774⭐ 854🍴 Swift-Demos",
+          "title": "3774⭐ 853🍴 Swift-Demos",
           "description": "): Mirror of Apple sample code",
           "children": [],
           "repo_info": {
@@ -18497,7 +18612,7 @@
         },
         {
           "node_type": "item",
-          "title": "2688⭐ 431🍴 MLX Examples by Apple",
+          "title": "2689⭐ 432🍴 MLX Examples by Apple",
           "description": "ml-explore/mlx-swift-examples",
           "children": [],
           "repo_info": {
@@ -18520,7 +18635,7 @@
         },
         {
           "node_type": "item",
-          "title": "2052⭐ 295🍴 Recordings",
+          "title": "2051⭐ 295🍴 Recordings",
           "description": "): Sample code of the App Architecture book",
           "children": [],
           "repo_info": {
@@ -18534,14 +18649,14 @@
             "open_issues": 22,
             "owner": "objcio",
             "repo": "app-architecture",
-            "stars": 2052,
+            "stars": 2051,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:47.703Z"
         },
         {
           "node_type": "item",
-          "title": "1919⭐ 308🍴 CleanStore",
+          "title": "1919⭐ 309🍴 CleanStore",
           "description": "): Uses the Clean Swift architecture (Uncle Bob's Clean Architecture)",
           "children": [],
           "repo_info": {
@@ -18673,7 +18788,7 @@
         },
         {
           "node_type": "item",
-          "title": "612⭐ 55🍴 Backyard Birds",
+          "title": "614⭐ 55🍴 Backyard Birds",
           "description": "): App with persistent data, interactive widgets, and an all new in-app purchase experience - WWDC 2023 sample code by Apple",
           "children": [],
           "repo_info": {
@@ -18687,7 +18802,7 @@
             "open_issues": 2,
             "owner": "apple",
             "repo": "sample-backyard-birds",
-            "stars": 613,
+            "stars": 614,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:47.703Z"
@@ -18868,7 +18983,7 @@
         },
         {
           "node_type": "item",
-          "title": "207⭐ 20🍴 Learning Metal with metal-cpp",
+          "title": "208⭐ 20🍴 Learning Metal with metal-cpp",
           "description": "metal-by-example/learn-metal-cpp-ios",
           "children": [],
           "repo_info": {
@@ -19609,7 +19724,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "9269⭐ 1463🍴 Outline",
+          "title": "9269⭐ 1462🍴 Outline",
           "description": "): VPN designed for use with Outline Server, compatible Shadowsocks",
           "children": [],
           "repo_info": {
@@ -19623,7 +19738,7 @@
             "open_issues": 571,
             "owner": "OutlineFoundation",
             "repo": "outline-apps",
-            "stars": 9270,
+            "stars": 9269,
             "topics": [
               "android",
               "chromeos",
@@ -19642,7 +19757,7 @@
         },
         {
           "node_type": "item",
-          "title": "9263⭐ 1286🍴 Keybase",
+          "title": "9267⭐ 1286🍴 Keybase",
           "description": "keybase/client",
           "children": [],
           "repo_info": {
@@ -19652,11 +19767,11 @@
             "id": 29099181,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-27T14:51:49Z",
-            "open_issues": 4270,
+            "last_commit": "2026-10-28T00:57:45Z",
+            "open_issues": 4273,
             "owner": "keybase",
             "repo": "client",
-            "stars": 9265,
+            "stars": 9266,
             "topics": [
               "chat",
               "end-to-end-encryption",
@@ -19672,7 +19787,7 @@
         },
         {
           "node_type": "item",
-          "title": "8046⭐ 650🍴 Tutanota",
+          "title": "8053⭐ 649🍴 Tutanota",
           "description": "): End-to-end encrypted email",
           "children": [],
           "repo_info": {
@@ -19682,11 +19797,11 @@
             "id": 22344874,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-27T14:07:27Z",
-            "open_issues": 958,
+            "last_commit": "2026-10-28T15:20:52Z",
+            "open_issues": 941,
             "owner": "tutao",
             "repo": "tutanota",
-            "stars": 8047,
+            "stars": 8053,
             "topics": [
               "email",
               "encryption",
@@ -19701,7 +19816,7 @@
         },
         {
           "node_type": "item",
-          "title": "7701⭐ 559🍴 Mullvad VPN",
+          "title": "7710⭐ 560🍴 Mullvad VPN",
           "description": "mullvad/mullvadvpn-app",
           "children": [],
           "repo_info": {
@@ -19711,11 +19826,11 @@
             "id": 114742422,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-27T14:52:08Z",
-            "open_issues": 160,
+            "last_commit": "2026-10-28T15:24:08Z",
+            "open_issues": 158,
             "owner": "mullvad",
             "repo": "mullvadvpn-app",
-            "stars": 7707,
+            "stars": 7711,
             "topics": [
               "electron",
               "nodejs",
@@ -19729,7 +19844,7 @@
         },
         {
           "node_type": "item",
-          "title": "1630⭐ 241🍴 ProtonMail",
+          "title": "1631⭐ 241🍴 ProtonMail",
           "description": "): Encrypted Email",
           "children": [],
           "repo_info": {
@@ -19750,7 +19865,7 @@
         },
         {
           "node_type": "item",
-          "title": "1413⭐ 758🍴 WireGuard",
+          "title": "1415⭐ 758🍴 WireGuard",
           "description": "): WireGuard: fast, modern, secure VPN tunnel (less battery consumption than OpenVPN)",
           "children": [],
           "repo_info": {
@@ -19764,14 +19879,14 @@
             "open_issues": 28,
             "owner": "WireGuard",
             "repo": "wireguard-apple",
-            "stars": 1414,
+            "stars": 1415,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:47.703Z"
         },
         {
           "node_type": "item",
-          "title": "1389⭐ 172🍴 Passepartout",
+          "title": "1390⭐ 172🍴 Passepartout",
           "description": "): User-friendly OpenVPN app",
           "children": [],
           "repo_info": {
@@ -19781,7 +19896,7 @@
             "id": 152491432,
             "language": "Swift",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-26T09:37:13Z",
+            "last_commit": "2026-10-28T08:49:45Z",
             "open_issues": 139,
             "owner": "partout-io",
             "repo": "passepartout",
@@ -19864,7 +19979,7 @@
         },
         {
           "node_type": "item",
-          "title": "663⭐ 141🍴 ProtonVPN",
+          "title": "664⭐ 141🍴 ProtonVPN",
           "description": "ProtonVPN/ios-mac-app",
           "children": [],
           "repo_info": {
@@ -19890,7 +20005,7 @@
         },
         {
           "node_type": "item",
-          "title": "575⭐ 115🍴 IVPN",
+          "title": "576⭐ 114🍴 IVPN",
           "description": "ivpn/ios-app",
           "children": [],
           "repo_info": {
@@ -19975,7 +20090,7 @@
             "open_issues": 7,
             "owner": "guardianproject",
             "repo": "orbot-apple",
-            "stars": 314,
+            "stars": 313,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:47.703Z"
@@ -20052,7 +20167,7 @@
         },
         {
           "node_type": "item",
-          "title": "20⭐ 4🍴 LegitURL",
+          "title": "20⭐ 5🍴 LegitURL",
           "description": "): Scan links for safety. no AI, no internet",
           "children": [
             {
@@ -20133,11 +20248,11 @@
             "id": 1378248063,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-09-21T13:35:23Z",
+            "last_commit": "2026-10-28T09:30:32Z",
             "open_issues": 0,
             "owner": "xsxs18-dev",
             "repo": "FileManager",
-            "stars": 5,
+            "stars": 6,
             "topics": [
               "aes256",
               "altstore",
@@ -20170,7 +20285,7 @@
             "id": 532533477,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-10-26T15:14:09Z",
+            "last_commit": "2026-10-27T17:45:32Z",
             "open_issues": 0,
             "owner": "LemonPepperSeasoning",
             "repo": "Hasher",
@@ -20239,7 +20354,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "3318⭐ 111🍴 AliasVault",
+              "title": "3321⭐ 111🍴 AliasVault",
               "description": "): Privacy-first password manager with built-in email aliasing",
               "children": [],
               "repo_info": {
@@ -20249,11 +20364,11 @@
                 "id": 808517453,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-27T11:43:56Z",
-                "open_issues": 199,
+                "last_commit": "2026-10-28T06:30:29Z",
+                "open_issues": 198,
                 "owner": "aliasvault",
                 "repo": "aliasvault",
-                "stars": 3320,
+                "stars": 3321,
                 "topics": [
                   "alias",
                   "argon2id",
@@ -20272,7 +20387,7 @@
             },
             {
               "node_type": "item",
-              "title": "2937⭐ 269🍴 Padlock",
+              "title": "2938⭐ 270🍴 Padlock",
               "description": "): A minimalist open source password manager",
               "children": [],
               "repo_info": {
@@ -20282,11 +20397,11 @@
                 "id": 14284411,
                 "language": "JavaScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-23T09:31:00Z",
-                "open_issues": 108,
+                "last_commit": "2026-10-28T12:45:55Z",
+                "open_issues": 109,
                 "owner": "padloc",
                 "repo": "padloc",
-                "stars": 2938,
+                "stars": 2939,
                 "topics": [
                   "cryptography",
                   "end-to-end-encryption",
@@ -20305,7 +20420,7 @@
             },
             {
               "node_type": "item",
-              "title": "1725⭐ 150🍴 KeePassium",
+              "title": "1730⭐ 150🍴 KeePassium",
               "description": "): KeePass-compatible password manager with support for automatic database synchronization, respect to privacy and premium user experience",
               "children": [],
               "repo_info": {
@@ -20319,7 +20434,7 @@
                 "open_issues": 105,
                 "owner": "keepassium",
                 "repo": "KeePassium",
-                "stars": 1729,
+                "stars": 1730,
                 "topics": [
                   "ios",
                   "ios-swift",
@@ -20333,7 +20448,7 @@
             },
             {
               "node_type": "item",
-              "title": "1648⭐ 115🍴 Pass",
+              "title": "1647⭐ 115🍴 Pass",
               "description": "): Client for the Pass command line app https://www.passwordstore.org/",
               "children": [],
               "repo_info": {
@@ -20360,7 +20475,7 @@
             },
             {
               "node_type": "item",
-              "title": "1471⭐ 127🍴 Strongbox",
+              "title": "1475⭐ 126🍴 Strongbox",
               "description": "): A Safe Client for KeePass/Password",
               "children": [],
               "repo_info": {
@@ -20374,7 +20489,7 @@
                 "open_issues": 231,
                 "owner": "strongbox-password-safe",
                 "repo": "Strongbox",
-                "stars": 1474,
+                "stars": 1475,
                 "topics": [
                   "cocoa",
                   "cryptography",
@@ -20477,7 +20592,7 @@
             },
             {
               "node_type": "item",
-              "title": "715⭐ 171🍴 Bitwarden",
+              "title": "716⭐ 175🍴 Bitwarden",
               "description": "): Password Manager and Authenticator",
               "children": [],
               "repo_info": {
@@ -20487,11 +20602,11 @@
                 "id": 666493404,
                 "language": "Swift",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-27T14:51:41Z",
-                "open_issues": 121,
+                "last_commit": "2026-10-28T15:21:12Z",
+                "open_issues": 126,
                 "owner": "bitwarden",
                 "repo": "ios",
-                "stars": 715,
+                "stars": 717,
                 "topics": [
                   "apple",
                   "bitwarden",
@@ -20617,7 +20732,7 @@
                 "id": 1184798764,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-10-12T22:16:21Z",
+                "last_commit": "2026-10-28T02:52:43Z",
                 "open_issues": 0,
                 "owner": "Nerdykidtech",
                 "repo": "Autheris",
@@ -20664,8 +20779,8 @@
             "id": 118771568,
             "language": "Swift",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-27T14:35:08Z",
-            "open_issues": 45,
+            "last_commit": "2026-10-28T14:04:24Z",
+            "open_issues": 46,
             "owner": "woocommerce",
             "repo": "woocommerce-ios",
             "stars": 358,
@@ -20737,7 +20852,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "18351⭐ 2854🍴 Bluesky Social",
+          "title": "18361⭐ 2862🍴 Bluesky Social",
           "description": "bluesky-social/social-app",
           "children": [],
           "repo_info": {
@@ -20747,11 +20862,11 @@
             "id": 501027541,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-27T14:51:31Z",
+            "last_commit": "2026-10-28T15:24:15Z",
             "open_issues": 2433,
             "owner": "bluesky-social",
             "repo": "social-app",
-            "stars": 18353,
+            "stars": 18361,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:47.703Z"
@@ -20840,8 +20955,8 @@
             "id": 661451138,
             "language": "Swift",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-27T08:06:41Z",
-            "open_issues": 462,
+            "last_commit": "2026-10-27T20:26:24Z",
+            "open_issues": 463,
             "owner": "mlemgroup",
             "repo": "mlem",
             "stars": 251,
@@ -20952,7 +21067,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "7091⭐ 734🍴 Ice Cubes",
+              "title": "7093⭐ 734🍴 Ice Cubes",
               "description": "Dimillian/IceCubesApp",
               "children": [],
               "repo_info": {
@@ -20966,7 +21081,7 @@
                 "open_issues": 589,
                 "owner": "Dimillian",
                 "repo": "IceCubesApp",
-                "stars": 7093,
+                "stars": 7094,
                 "topics": [
                   "ios",
                   "mastodon",
@@ -21038,7 +21153,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "23156⭐ 2201🍴 Super Productivity",
+          "title": "23206⭐ 2213🍴 Super Productivity",
           "description": "): To-do list and time tracker with timeboxing, a Pomodoro timer and Jira, GitHub and GitLab integrations; works offline, no account needed",
           "children": [],
           "repo_info": {
@@ -21048,11 +21163,11 @@
             "id": 78243781,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-27T08:12:30Z",
-            "open_issues": 1510,
+            "last_commit": "2026-10-27T23:52:50Z",
+            "open_issues": 1507,
             "owner": "super-productivity",
             "repo": "super-productivity",
-            "stars": 23188,
+            "stars": 23216,
             "topics": [
               "android",
               "flowmodoro",
@@ -21080,7 +21195,7 @@
         },
         {
           "node_type": "item",
-          "title": "1676⭐ 103🍴 Table Habit",
+          "title": "1681⭐ 103🍴 Table Habit",
           "description": "): Offline-first micro-habit tracker",
           "children": [],
           "repo_info": {
@@ -21094,7 +21209,7 @@
             "open_issues": 86,
             "owner": "FriesI23",
             "repo": "mhabit",
-            "stars": 1678,
+            "stars": 1680,
             "topics": [
               "android",
               "cross-platform",
@@ -21122,7 +21237,7 @@
         },
         {
           "node_type": "item",
-          "title": "1548⭐ 181🍴 Habo",
+          "title": "1550⭐ 181🍴 Habo",
           "description": "): Minimalistic habit tracker",
           "children": [],
           "repo_info": {
@@ -21164,7 +21279,7 @@
             "language": "Swift",
             "license": "GPL-3.0",
             "last_commit": "2026-10-26T20:59:08Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "HabitRPG",
             "repo": "habitica-ios",
             "stars": 859,
@@ -21248,6 +21363,40 @@
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:47.703Z"
+        },
+        {
+          "node_type": "item",
+          "title": "2⭐ 0🍴 Open Habit",
+          "description": "): Habit tracker with interactive widgets, Apple Shortcuts actions, an Apple Watch app, iCloud sync and JSON export; no account needed",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Free, private, open-source habit tracker for iPhone and iPad with interactive widgets, Apple Shortcuts, iCloud sync, and portable JSON data.",
+            "homepage": "https://getopenhabit.com",
+            "id": 1357424650,
+            "language": "Swift",
+            "license": "MIT",
+            "last_commit": "2026-10-27T17:13:08Z",
+            "open_issues": 0,
+            "owner": "zamai",
+            "repo": "open-habit",
+            "stars": 2,
+            "topics": [
+              "app-intents",
+              "cloudkit",
+              "habit-tracker",
+              "ios",
+              "ipados",
+              "offline-first",
+              "open-source",
+              "privacy",
+              "shortcuts",
+              "swift",
+              "swiftui",
+              "widgets"
+            ]
+          },
+          "first_seen": "2026-10-28T15:24:17.443Z"
         }
       ],
       "title": "Tasks"
@@ -21375,7 +21524,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Craftify — iOS application with Share Extension for contextual text processing via multiple Large Language Models (OpenAI GPT-4o, Anthropic Claude, …).",
+            "description": "Craftify — free iOS app that adds AI text actions to the Share sheet: translate, simplify, correct, summarize, explain. Bring your own API key for OpenAI, Anthropic Claude, Mistral or OpenRouter. Source available under PolyForm Noncommercial 1.0.0.",
             "homepage": "https://craftify.korchasa.dev",
             "id": 970269856,
             "language": "Swift",
@@ -21385,7 +21534,18 @@
             "owner": "korchasa",
             "repo": "craftify-byok-ai-shortcuts",
             "stars": 2,
-            "topics": []
+            "topics": [
+              "anthropic",
+              "byok",
+              "ios",
+              "llm",
+              "mistral",
+              "openai",
+              "openrouter",
+              "share-extension",
+              "swift",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-10-26T15:26:27.226Z"
         },
@@ -21393,7 +21553,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "56877⭐ 6371🍴 Joplin",
+              "title": "56911⭐ 6372🍴 Joplin",
               "description": "): Note taking and to-do with synchronisation capabilities",
               "children": [],
               "repo_info": {
@@ -21404,10 +21564,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-27T10:32:57Z",
-                "open_issues": 649,
+                "open_issues": 661,
                 "owner": "laurent22",
                 "repo": "joplin",
-                "stars": 56907,
+                "stars": 56911,
                 "topics": [
                   "android",
                   "dropbox",
@@ -21433,7 +21593,7 @@
             },
             {
               "node_type": "item",
-              "title": "45381⭐ 2850🍴 Logseq",
+              "title": "45404⭐ 2854🍴 Logseq",
               "description": "): Outliner that works on top of local plain-text Markdown and Org-mode files",
               "children": [],
               "repo_info": {
@@ -21443,11 +21603,11 @@
                 "id": 266231149,
                 "language": "Clojure",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-27T12:50:59Z",
-                "open_issues": 1009,
+                "last_commit": "2026-10-28T14:14:18Z",
+                "open_issues": 1027,
                 "owner": "logseq",
                 "repo": "logseq",
-                "stars": 45399,
+                "stars": 45404,
                 "topics": [
                   "clojure",
                   "clojurescript",
@@ -21466,7 +21626,7 @@
             },
             {
               "node_type": "item",
-              "title": "14831⭐ 1037🍴 Notesnook",
+              "title": "14845⭐ 1039🍴 Notesnook",
               "description": "): End-to-end encrypted and private note taking alternative to Evernote",
               "children": [
                 {
@@ -21481,11 +21641,11 @@
                     "id": 353775942,
                     "language": "TypeScript",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-27T11:33:27Z",
-                    "open_issues": 1121,
+                    "last_commit": "2026-10-28T07:11:34Z",
+                    "open_issues": 1122,
                     "owner": "streetwriters",
                     "repo": "notesnook",
-                    "stars": 14837,
+                    "stars": 14846,
                     "topics": [
                       "asp-net-core",
                       "dotnet-core",
@@ -21518,11 +21678,11 @@
                 "id": 353775942,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-27T11:33:27Z",
-                "open_issues": 1121,
+                "last_commit": "2026-10-28T07:11:34Z",
+                "open_issues": 1122,
                 "owner": "streetwriters",
                 "repo": "notesnook",
-                "stars": 14837,
+                "stars": 14846,
                 "topics": [
                   "asp-net-core",
                   "dotnet-core",
@@ -21549,7 +21709,7 @@
             },
             {
               "node_type": "item",
-              "title": "12918⭐ 975🍴 NoteGen",
+              "title": "12933⭐ 977🍴 NoteGen",
               "description": "): Capture scattered information and organize it into Markdown notes with AI",
               "children": [],
               "repo_info": {
@@ -21559,11 +21719,11 @@
                 "id": 838659679,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-27T11:52:25Z",
-                "open_issues": 70,
+                "last_commit": "2026-10-28T03:36:38Z",
+                "open_issues": 72,
                 "owner": "codexu",
                 "repo": "note-gen",
-                "stars": 12929,
+                "stars": 12933,
                 "topics": [
                   "agent",
                   "ai-notes",
@@ -21587,7 +21747,7 @@
             },
             {
               "node_type": "item",
-              "title": "7548⭐ 583🍴 FSNotes",
+              "title": "7551⭐ 585🍴 FSNotes",
               "description": "): Notes manager",
               "children": [],
               "repo_info": {
@@ -21597,11 +21757,11 @@
                 "id": 97860533,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-10-26T22:15:09Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-27T21:42:35Z",
+                "open_issues": 4,
                 "owner": "glushchenko",
                 "repo": "fsnotes",
-                "stars": 7550,
+                "stars": 7553,
                 "topics": [
                   "ios",
                   "macos",
@@ -21616,7 +21776,7 @@
             },
             {
               "node_type": "item",
-              "title": "6681⭐ 563🍴 Standard Notes",
+              "title": "6684⭐ 565🍴 Standard Notes",
               "description": "): Notes app with focus on longevity, portability & privacy",
               "children": [],
               "repo_info": {
@@ -21626,11 +21786,11 @@
                 "id": 75675698,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-27T14:50:06Z",
+                "last_commit": "2026-10-27T15:16:00Z",
                 "open_issues": 96,
                 "owner": "standardnotes",
                 "repo": "app",
-                "stars": 6682,
+                "stars": 6684,
                 "topics": [
                   "encrypted",
                   "evernote",
@@ -21646,7 +21806,7 @@
             },
             {
               "node_type": "item",
-              "title": "4961⭐ 406🍴 Saber",
+              "title": "4976⭐ 412🍴 Saber",
               "description": "): Take handwritten notes with the same functionalities as typed ones",
               "children": [],
               "repo_info": {
@@ -21656,11 +21816,11 @@
                 "id": 516598834,
                 "language": "Dart",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-27T14:26:36Z",
-                "open_issues": 405,
+                "last_commit": "2026-10-27T19:31:14Z",
+                "open_issues": 404,
                 "owner": "saber-notes",
                 "repo": "saber",
-                "stars": 4972,
+                "stars": 4977,
                 "topics": [
                   "android",
                   "cross-platform",
@@ -21917,7 +22077,7 @@
                 "id": 1394754812,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-10-27T13:57:20Z",
+                "last_commit": "2026-10-28T15:18:51Z",
                 "open_issues": 16,
                 "owner": "pinto-notes",
                 "repo": "pinto-notes",
@@ -22180,7 +22340,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "5240⭐ 1205🍴 SwiftLanguageWeather",
+          "title": "5239⭐ 1205🍴 SwiftLanguageWeather",
           "description": "JakeLin/SwiftLanguageWeather",
           "children": [],
           "repo_info": {
@@ -22208,7 +22368,7 @@
         },
         {
           "node_type": "item",
-          "title": "2845⭐ 536🍴 YoCelsius",
+          "title": "2844⭐ 536🍴 YoCelsius",
           "description": "YouXianMing/YoCelsius",
           "children": [],
           "repo_info": {
@@ -22222,7 +22382,7 @@
             "open_issues": 2,
             "owner": "YouXianMing",
             "repo": "YoCelsius",
-            "stars": 2845,
+            "stars": 2844,
             "topics": [
               "animation",
               "animations",
@@ -22315,7 +22475,7 @@
         },
         {
           "node_type": "item",
-          "title": "468⭐ 30🍴 OSS Weather",
+          "title": "469⭐ 30🍴 OSS Weather",
           "description": "ossappscollective/oss-weather",
           "children": [],
           "repo_info": {
@@ -22325,7 +22485,7 @@
             "id": 237026905,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-26T16:55:58Z",
+            "last_commit": "2026-10-28T09:52:02Z",
             "open_issues": 24,
             "owner": "ossappscollective",
             "repo": "oss-weather",
@@ -22591,7 +22751,7 @@
             "id": 933013531,
             "language": "Swift",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-27T08:49:17Z",
+            "last_commit": "2026-10-28T09:29:16Z",
             "open_issues": 4,
             "owner": "saxobroko",
             "repo": "SaxWeather",
@@ -22698,7 +22858,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "393091⭐ 82626🍴 openclaw",
+          "title": "393242⭐ 82666🍴 openclaw",
           "description": "): Your own personal AI assistant",
           "children": [],
           "repo_info": {
@@ -22708,11 +22868,11 @@
             "id": 1103012935,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-27T14:53:08Z",
-            "open_issues": 7762,
+            "last_commit": "2026-10-28T15:24:40Z",
+            "open_issues": 7738,
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 393198,
+            "stars": 393259,
             "topics": [
               "ai",
               "assistant",
@@ -22727,7 +22887,7 @@
         },
         {
           "node_type": "item",
-          "title": "14766⭐ 1667🍴 AltStore",
+          "title": "14786⭐ 1675🍴 AltStore",
           "description": "): An alternate App Store, no jailbreak required",
           "children": [],
           "repo_info": {
@@ -22741,14 +22901,14 @@
             "open_issues": 734,
             "owner": "altstoreio",
             "repo": "AltStore",
-            "stars": 14780,
+            "stars": 14786,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:47.703Z"
         },
         {
           "node_type": "item",
-          "title": "13890⭐ 15557🍴 FreeRDP",
+          "title": "13898⭐ 15561🍴 FreeRDP",
           "description": "): An implementation of the Remote Desktop Protocol (RDP)",
           "children": [],
           "repo_info": {
@@ -22758,11 +22918,11 @@
             "id": 1979797,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T17:58:30Z",
-            "open_issues": 206,
+            "last_commit": "2026-10-28T15:21:23Z",
+            "open_issues": 194,
             "owner": "FreeRDP",
             "repo": "FreeRDP",
-            "stars": 13896,
+            "stars": 13900,
             "topics": [
               "android",
               "c",
@@ -22781,7 +22941,7 @@
         },
         {
           "node_type": "item",
-          "title": "3439⭐ 316🍴 PeopleInSpace",
+          "title": "3441⭐ 316🍴 PeopleInSpace",
           "description": "): List of people currently in space",
           "children": [],
           "repo_info": {
@@ -22795,7 +22955,7 @@
             "open_issues": 4,
             "owner": "joreilly",
             "repo": "PeopleInSpace",
-            "stars": 3440,
+            "stars": 3441,
             "topics": [
               "android",
               "compose-desktop",
@@ -22822,7 +22982,7 @@
         },
         {
           "node_type": "item",
-          "title": "2029⭐ 202🍴 Clearcam",
+          "title": "2067⭐ 206🍴 Clearcam",
           "description": "): IP Camera with AI object detection",
           "children": [],
           "repo_info": {
@@ -22836,7 +22996,7 @@
             "open_issues": 0,
             "owner": "roryclear",
             "repo": "clearcam",
-            "stars": 2062,
+            "stars": 2087,
             "topics": [
               "ai",
               "cctv",
@@ -23076,7 +23236,7 @@
         },
         {
           "node_type": "item",
-          "title": "346⭐ 57🍴 ObjectDetection-CoreML",
+          "title": "345⭐ 57🍴 ObjectDetection-CoreML",
           "description": "): Real-time object detection using Core ML and Vision",
           "children": [],
           "repo_info": {
@@ -23429,11 +23589,11 @@
             "id": 793502707,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-27T12:18:40Z",
-            "open_issues": 28,
+            "last_commit": "2026-10-27T17:07:09Z",
+            "open_issues": 27,
             "owner": "ooni",
             "repo": "probe-multiplatform",
-            "stars": 98,
+            "stars": 97,
             "topics": [
               "android",
               "compose-multiplatform",
@@ -24451,7 +24611,7 @@
                 "id": 57147359,
                 "language": "Swift",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-15T20:06:10Z",
+                "last_commit": "2026-10-28T15:22:10Z",
                 "open_issues": 36,
                 "owner": "firebase",
                 "repo": "quickstart-ios",
@@ -24472,7 +24632,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "117266⭐ 7356🍴 Immich",
+              "title": "117458⭐ 7379🍴 Immich",
               "description": "): Self-hosted photo and video backup",
               "children": [],
               "repo_info": {
@@ -24482,11 +24642,11 @@
                 "id": 455229168,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-27T14:45:51Z",
-                "open_issues": 725,
+                "last_commit": "2026-10-28T15:13:24Z",
+                "open_issues": 688,
                 "owner": "immich-app",
                 "repo": "immich",
-                "stars": 117373,
+                "stars": 117496,
                 "topics": [
                   "backup-tool",
                   "flutter",
@@ -24510,7 +24670,7 @@
             },
             {
               "node_type": "item",
-              "title": "15502⭐ 2620🍴 GSYGithubApp",
+              "title": "15505⭐ 2620🍴 GSYGithubApp",
               "description": "): GitHub client",
               "children": [
                 {
@@ -24529,7 +24689,7 @@
                     "open_issues": 5,
                     "owner": "CarGuo",
                     "repo": "gsy_github_app_flutter",
-                    "stars": 15504,
+                    "stars": 15503,
                     "topics": [
                       "android",
                       "cross-platform",
@@ -24559,7 +24719,7 @@
                 "open_issues": 5,
                 "owner": "CarGuo",
                 "repo": "gsy_github_app_flutter",
-                "stars": 15504,
+                "stars": 15503,
                 "topics": [
                   "android",
                   "cross-platform",
@@ -24579,7 +24739,7 @@
             },
             {
               "node_type": "item",
-              "title": "3689⭐ 694🍴 inKino",
+              "title": "3688⭐ 694🍴 inKino",
               "description": "): Browse movies and showtimes for Finnkino cinemas",
               "children": [
                 {
@@ -24673,7 +24833,7 @@
             },
             {
               "node_type": "item",
-              "title": "2385⭐ 611🍴 Fluttergram",
+              "title": "2385⭐ 609🍴 Fluttergram",
               "description": "): Instagram clone using Flutter, Firebase, Firestore",
               "children": [],
               "repo_info": {
@@ -24699,7 +24859,7 @@
             },
             {
               "node_type": "item",
-              "title": "1755⭐ 583🍴 Invoice Ninja",
+              "title": "1756⭐ 582🍴 Invoice Ninja",
               "description": "): https://www.invoiceninja.com/",
               "children": [],
               "repo_info": {
@@ -24713,7 +24873,7 @@
                 "open_issues": 79,
                 "owner": "invoiceninja",
                 "repo": "admin-portal",
-                "stars": 1755,
+                "stars": 1756,
                 "topics": [
                   "android",
                   "flutter",
@@ -24729,7 +24889,7 @@
             },
             {
               "node_type": "item",
-              "title": "1676⭐ 103🍴 Table Habit",
+              "title": "1681⭐ 103🍴 Table Habit",
               "description": "): Offline-first micro-habit tracker",
               "children": [],
               "repo_info": {
@@ -24743,7 +24903,7 @@
                 "open_issues": 86,
                 "owner": "FriesI23",
                 "repo": "mhabit",
-                "stars": 1678,
+                "stars": 1680,
                 "topics": [
                   "android",
                   "cross-platform",
@@ -24771,7 +24931,7 @@
             },
             {
               "node_type": "item",
-              "title": "1661⭐ 127🍴 Openreads",
+              "title": "1663⭐ 127🍴 Openreads",
               "description": "): Books tracker that respects your privacy",
               "children": [
                 {
@@ -24790,7 +24950,7 @@
                     "open_issues": 51,
                     "owner": "mateusz-bak",
                     "repo": "openreads",
-                    "stars": 1663,
+                    "stars": 1662,
                     "topics": [
                       "android",
                       "books",
@@ -24818,7 +24978,7 @@
                 "open_issues": 51,
                 "owner": "mateusz-bak",
                 "repo": "openreads",
-                "stars": 1663,
+                "stars": 1662,
                 "topics": [
                   "android",
                   "books",
@@ -24836,7 +24996,7 @@
             },
             {
               "node_type": "item",
-              "title": "1634⭐ 133🍴 Hacki for Hacker News",
+              "title": "1635⭐ 133🍴 Hacki for Hacker News",
               "description": "Livinglist/Hacki",
               "children": [],
               "repo_info": {
@@ -24847,10 +25007,10 @@
                 "language": "Dart",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-26T15:29:28Z",
-                "open_issues": 42,
+                "open_issues": 41,
                 "owner": "Livinglist",
                 "repo": "Hacki",
-                "stars": 1634,
+                "stars": 1635,
                 "topics": [
                   "android",
                   "android-app",
@@ -24869,7 +25029,7 @@
             },
             {
               "node_type": "item",
-              "title": "1548⭐ 181🍴 Habo",
+              "title": "1550⭐ 181🍴 Habo",
               "description": "): Minimalistic habit tracker",
               "children": [],
               "repo_info": {
@@ -24900,7 +25060,7 @@
             },
             {
               "node_type": "item",
-              "title": "1332⭐ 171🍴 Medito",
+              "title": "1332⭐ 172🍴 Medito",
               "description": "): No ads, no sign-up",
               "children": [],
               "repo_info": {
@@ -24910,7 +25070,7 @@
                 "id": 343094174,
                 "language": "Dart",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-22T10:04:21Z",
+                "last_commit": "2026-10-28T11:47:23Z",
                 "open_issues": 3,
                 "owner": "meditohq",
                 "repo": "medito-app",
@@ -24931,7 +25091,7 @@
             },
             {
               "node_type": "item",
-              "title": "1266⭐ 276🍴 WhatTodo",
+              "title": "1265⭐ 276🍴 WhatTodo",
               "description": "): Keep track of your tasks daily",
               "children": [],
               "repo_info": {
@@ -24962,7 +25122,7 @@
             },
             {
               "node_type": "item",
-              "title": "1148⭐ 334🍴 Trace",
+              "title": "1149⭐ 334🍴 Trace",
               "description": "): Modern crypto Portfolio & market explorer",
               "children": [],
               "repo_info": {
@@ -24988,13 +25148,13 @@
             },
             {
               "node_type": "item",
-              "title": "1141⭐ 517🍴 Grocery Shopping",
-              "description": "Widle-Studio/Grocery-App",
+              "title": "1142⭐ 517🍴 Grocery Shopping",
+              "description": "widle-ai/Grocery-App",
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Widle-Studio/Grocery-App",
-                  "description": "Widle-Studio/Grocery-App",
+                  "title": "widle-ai/Grocery-App",
+                  "description": "widle-ai/Grocery-App",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -25005,7 +25165,7 @@
                     "license": "MIT",
                     "last_commit": "2023-04-07T07:14:42Z",
                     "open_issues": 2,
-                    "owner": "Widle-Studio",
+                    "owner": "widle-ai",
                     "repo": "Grocery-App",
                     "stars": 1142,
                     "topics": [
@@ -25041,7 +25201,7 @@
                 "license": "MIT",
                 "last_commit": "2023-04-07T07:14:42Z",
                 "open_issues": 2,
-                "owner": "Widle-Studio",
+                "owner": "widle-ai",
                 "repo": "Grocery-App",
                 "stars": 1142,
                 "topics": [
@@ -25204,7 +25364,7 @@
             },
             {
               "node_type": "item",
-              "title": "742⭐ 41🍴 orgro",
+              "title": "743⭐ 41🍴 orgro",
               "description": "): Mobile Org Mode viewer and editor",
               "children": [
                 {
@@ -25220,10 +25380,10 @@
                     "language": "Dart",
                     "license": "GPL-3.0",
                     "last_commit": "2026-10-26T01:32:57Z",
-                    "open_issues": 44,
+                    "open_issues": 41,
                     "owner": "amake",
                     "repo": "orgro",
-                    "stars": 743,
+                    "stars": 742,
                     "topics": [
                       "android",
                       "editor",
@@ -25245,10 +25405,10 @@
                 "language": "Dart",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-26T01:32:57Z",
-                "open_issues": 44,
+                "open_issues": 41,
                 "owner": "amake",
                 "repo": "orgro",
-                "stars": 743,
+                "stars": 742,
                 "topics": [
                   "android",
                   "editor",
@@ -25263,7 +25423,7 @@
             },
             {
               "node_type": "item",
-              "title": "672⭐ 126🍴 Airdash",
+              "title": "673⭐ 126🍴 Airdash",
               "description": "): Transfer photos and files to any device, anywhere",
               "children": [],
               "repo_info": {
@@ -25277,7 +25437,7 @@
                 "open_issues": 18,
                 "owner": "simonbengtsson",
                 "repo": "airdash",
-                "stars": 672,
+                "stars": 673,
                 "topics": [
                   "app-store-connect",
                   "file-sharing",
@@ -25588,7 +25748,7 @@
             },
             {
               "node_type": "item",
-              "title": "256⭐ 103🍴 Trovami",
+              "title": "257⭐ 103🍴 Trovami",
               "description": "): Live location sharing",
               "children": [],
               "repo_info": {
@@ -25602,14 +25762,14 @@
                 "open_issues": 28,
                 "owner": "Samaritan1011001",
                 "repo": "Trovami",
-                "stars": 256,
+                "stars": 257,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:47.703Z"
             },
             {
               "node_type": "item",
-              "title": "200⭐ 831🍴 BMI Calculator",
+              "title": "200⭐ 828🍴 BMI Calculator",
               "description": "londonappbrewery/bmi-calculator-flutter",
               "children": [],
               "repo_info": {
@@ -25786,7 +25946,7 @@
             },
             {
               "node_type": "item",
-              "title": "95⭐ 18🍴 DartPDF",
+              "title": "98⭐ 18🍴 DartPDF",
               "description": "): PDF editor for annotating documents and filling forms",
               "children": [],
               "repo_info": {
@@ -25796,11 +25956,11 @@
                 "id": 1264447327,
                 "language": "Dart",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-27T10:38:18Z",
-                "open_issues": 13,
+                "last_commit": "2026-10-28T12:59:57Z",
+                "open_issues": 29,
                 "owner": "ben-milanko",
                 "repo": "dart-pdf",
-                "stars": 96,
+                "stars": 98,
                 "topics": [
                   "acroform",
                   "annotations",
@@ -26350,7 +26510,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "6606⭐ 830🍴 Clean Architecture for SwiftUI + Combine",
+              "title": "6607⭐ 830🍴 Clean Architecture for SwiftUI + Combine",
               "description": "nalexn/clean-architecture-swiftui",
               "children": [
                 {
@@ -26386,7 +26546,7 @@
                 "open_issues": 20,
                 "owner": "nalexn",
                 "repo": "clean-architecture-swiftui",
-                "stars": 6606,
+                "stars": 6607,
                 "topics": [
                   "architecture",
                   "clean-architecture",
@@ -26409,7 +26569,7 @@
             },
             {
               "node_type": "item",
-              "title": "6526⭐ 649🍴 MovieSwiftUI",
+              "title": "6528⭐ 650🍴 MovieSwiftUI",
               "description": "): Browse movies, made with SwiftUI, Combine & MovieDB",
               "children": [],
               "repo_info": {
@@ -26423,14 +26583,14 @@
                 "open_issues": 15,
                 "owner": "Dimillian",
                 "repo": "MovieSwiftUI",
-                "stars": 6527,
+                "stars": 6528,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:47.703Z"
             },
             {
               "node_type": "item",
-              "title": "3770⭐ 180🍴 Yattee",
+              "title": "3773⭐ 180🍴 Yattee",
               "description": "): Alternative to YouTube",
               "children": [],
               "repo_info": {
@@ -26444,7 +26604,7 @@
                 "open_issues": 235,
                 "owner": "yattee",
                 "repo": "yattee",
-                "stars": 3771,
+                "stars": 3773,
                 "topics": [
                   "invidious",
                   "ios",
@@ -26613,7 +26773,7 @@
             },
             {
               "node_type": "item",
-              "title": "663⭐ 141🍴 ProtonVPN",
+              "title": "664⭐ 141🍴 ProtonVPN",
               "description": "ProtonVPN/ios-mac-app",
               "children": [],
               "repo_info": {
@@ -26767,7 +26927,7 @@
             },
             {
               "node_type": "item",
-              "title": "140⭐ 75🍴 Hacker News Multiplatform",
+              "title": "141⭐ 76🍴 Hacker News Multiplatform",
               "description": "rickwierenga/heartbeat-tutorials",
               "children": [],
               "repo_info": {
@@ -26954,7 +27114,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "126791⭐ 25380🍴 RNTester",
+              "title": "126809⭐ 25414🍴 RNTester",
               "description": "): Showcases React Native views & modules",
               "children": [],
               "repo_info": {
@@ -26964,11 +27124,11 @@
                 "id": 29028775,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-27T14:53:15Z",
-                "open_issues": 1280,
+                "last_commit": "2026-10-28T14:06:59Z",
+                "open_issues": 1294,
                 "owner": "react",
                 "repo": "react-native",
-                "stars": 126802,
+                "stars": 126810,
                 "topics": [
                   "android",
                   "app-framework",
@@ -26984,7 +27144,7 @@
             },
             {
               "node_type": "item",
-              "title": "30145⭐ 8108🍴 Jitsi Meet",
+              "title": "30158⭐ 8107🍴 Jitsi Meet",
               "description": "): Video meetings for everyone",
               "children": [],
               "repo_info": {
@@ -26994,11 +27154,11 @@
                 "id": 15225670,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-27T14:05:49Z",
+                "last_commit": "2026-10-28T15:12:31Z",
                 "open_issues": 188,
                 "owner": "jitsi",
                 "repo": "jitsi-meet",
-                "stars": 30155,
+                "stars": 30159,
                 "topics": [
                   "debian",
                   "deep-video",
@@ -27016,7 +27176,7 @@
             },
             {
               "node_type": "item",
-              "title": "14557⭐ 2004🍴 AR Cut & Paste",
+              "title": "14554⭐ 2004🍴 AR Cut & Paste",
               "description": "): Cut and paste your surroundings using AR",
               "children": [],
               "repo_info": {
@@ -27030,14 +27190,14 @@
                 "open_issues": 56,
                 "owner": "cyrildiagne",
                 "repo": "ar-cutpaste",
-                "stars": 14556,
+                "stars": 14553,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:47.703Z"
             },
             {
               "node_type": "item",
-              "title": "9263⭐ 1286🍴 Keybase",
+              "title": "9267⭐ 1286🍴 Keybase",
               "description": "keybase/client",
               "children": [],
               "repo_info": {
@@ -27047,11 +27207,11 @@
                 "id": 29099181,
                 "language": "Go",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-27T14:51:49Z",
-                "open_issues": 4270,
+                "last_commit": "2026-10-28T00:57:45Z",
+                "open_issues": 4273,
                 "owner": "keybase",
                 "repo": "client",
-                "stars": 9265,
+                "stars": 9266,
                 "topics": [
                   "chat",
                   "end-to-end-encryption",
@@ -27067,7 +27227,7 @@
             },
             {
               "node_type": "item",
-              "title": "5204⭐ 857🍴 Calculator",
+              "title": "5203⭐ 856🍴 Calculator",
               "description": "): React Native calculator",
               "children": [],
               "repo_info": {
@@ -27081,7 +27241,7 @@
                 "open_issues": 25,
                 "owner": "benoitvallon",
                 "repo": "react-native-nw-react-calculator",
-                "stars": 5204,
+                "stars": 5203,
                 "topics": [
                   "android-app",
                   "architecture",
@@ -27098,7 +27258,7 @@
             },
             {
               "node_type": "item",
-              "title": "4771⭐ 769🍴 GitPoint",
+              "title": "4770⭐ 768🍴 GitPoint",
               "description": "): GitHub app with a minimal & beautiful UI",
               "children": [],
               "repo_info": {
@@ -27112,7 +27272,7 @@
                 "open_issues": 135,
                 "owner": "gitpoint",
                 "repo": "git-point",
-                "stars": 4771,
+                "stars": 4770,
                 "topics": [
                   "android",
                   "github",
@@ -27126,7 +27286,7 @@
             },
             {
               "node_type": "item",
-              "title": "4399⭐ 764🍴 Rainbow",
+              "title": "4399⭐ 765🍴 Rainbow",
               "description": "): Ethereum wallet that lives in your pocket",
               "children": [],
               "repo_info": {
@@ -27136,7 +27296,7 @@
                 "id": 176777353,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-26T23:05:58Z",
+                "last_commit": "2026-10-28T15:13:34Z",
                 "open_issues": 42,
                 "owner": "rainbow-me",
                 "repo": "rainbow",
@@ -27153,7 +27313,7 @@
             },
             {
               "node_type": "item",
-              "title": "3783⭐ 593🍴 Artsy",
+              "title": "3786⭐ 593🍴 Artsy",
               "description": "): The art world in your pocket",
               "children": [],
               "repo_info": {
@@ -27163,11 +27323,11 @@
                 "id": 29702213,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-27T12:54:25Z",
-                "open_issues": 26,
+                "last_commit": "2026-10-28T15:18:46Z",
+                "open_issues": 20,
                 "owner": "artsy",
                 "repo": "eigen",
-                "stars": 3784,
+                "stars": 3786,
                 "topics": [
                   "android",
                   "app",
@@ -27183,7 +27343,7 @@
             },
             {
               "node_type": "item",
-              "title": "2754⭐ 380🍴 OpenNutriTracker",
+              "title": "2765⭐ 383🍴 OpenNutriTracker",
               "description": "): Easily log your meals, snacks and access a vast database of food items and ingredients to get detailed nutritional information",
               "children": [],
               "repo_info": {
@@ -27193,11 +27353,11 @@
                 "id": 539619974,
                 "language": "Dart",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-27T06:11:24Z",
-                "open_issues": 166,
+                "last_commit": "2026-10-28T15:03:30Z",
+                "open_issues": 167,
                 "owner": "simonoppowa",
                 "repo": "OpenNutriTracker",
-                "stars": 2760,
+                "stars": 2766,
                 "topics": [
                   "android",
                   "barcode-scanner",
@@ -27224,7 +27384,7 @@
             },
             {
               "node_type": "item",
-              "title": "2740⭐ 1683🍴 Mattermost",
+              "title": "2741⭐ 1687🍴 Mattermost",
               "description": "): Secure messaging platform for DevOps teams",
               "children": [],
               "repo_info": {
@@ -27234,11 +27394,11 @@
                 "id": 70265724,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-27T09:57:06Z",
+                "last_commit": "2026-10-28T15:20:27Z",
                 "open_issues": 338,
                 "owner": "mattermost",
                 "repo": "mattermost-mobile",
-                "stars": 2741,
+                "stars": 2742,
                 "topics": [
                   "hacktoberfest",
                   "mattermost-mobile"
@@ -27248,7 +27408,7 @@
             },
             {
               "node_type": "item",
-              "title": "2211⭐ 498🍴 NBA allyoop",
+              "title": "2211⭐ 497🍴 NBA allyoop",
               "description": "): NBA game scores",
               "children": [],
               "repo_info": {
@@ -27269,7 +27429,7 @@
             },
             {
               "node_type": "item",
-              "title": "2073⭐ 605🍴 Finance",
+              "title": "2072⭐ 605🍴 Finance",
               "description": "): The system Stocks app written in React Native",
               "children": [
                 {
@@ -27288,7 +27448,7 @@
                     "open_issues": 28,
                     "owner": "7kfpun",
                     "repo": "FinanceReactNative",
-                    "stars": 2073,
+                    "stars": 2072,
                     "topics": [
                       "android",
                       "ios",
@@ -27311,7 +27471,7 @@
                 "open_issues": 28,
                 "owner": "7kfpun",
                 "repo": "FinanceReactNative",
-                "stars": 2073,
+                "stars": 2072,
                 "topics": [
                   "android",
                   "ios",
@@ -27324,7 +27484,7 @@
             },
             {
               "node_type": "item",
-              "title": "2057⭐ 397🍴 Dribbble",
+              "title": "2056⭐ 397🍴 Dribbble",
               "description": "catalinmiron/react-native-dribbble-app",
               "children": [],
               "repo_info": {
@@ -27338,7 +27498,7 @@
                 "open_issues": 20,
                 "owner": "catalinmiron",
                 "repo": "react-native-dribbble-app",
-                "stars": 2057,
+                "stars": 2056,
                 "topics": [
                   "dribbble",
                   "ios",
@@ -27380,7 +27540,7 @@
             },
             {
               "node_type": "item",
-              "title": "1075⭐ 553🍴 Chatwoot",
+              "title": "1078⭐ 555🍴 Chatwoot",
               "description": "): Live chat for businesses",
               "children": [],
               "repo_info": {
@@ -27390,11 +27550,11 @@
                 "id": 224013854,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-27T12:56:38Z",
-                "open_issues": 106,
+                "last_commit": "2026-10-28T14:08:44Z",
+                "open_issues": 108,
                 "owner": "chatwoot",
                 "repo": "chatwoot-mobile-app",
-                "stars": 1078,
+                "stars": 1079,
                 "topics": [
                   "android",
                   "chatwoot",
@@ -27408,7 +27568,7 @@
             },
             {
               "node_type": "item",
-              "title": "1067⭐ 79🍴 Frosty",
+              "title": "1069⭐ 81🍴 Frosty",
               "description": "): Twitch client with 7TV, BetterTTV (BTTV), and FrankerFaceZ (FFZ) support",
               "children": [],
               "repo_info": {
@@ -27422,7 +27582,7 @@
                 "open_issues": 203,
                 "owner": "tommyxchow",
                 "repo": "frosty",
-                "stars": 1068,
+                "stars": 1069,
                 "topics": [
                   "actions",
                   "android",
@@ -27574,7 +27734,7 @@
             },
             {
               "node_type": "item",
-              "title": "293⭐ 47🍴 Moonwalk",
+              "title": "294⭐ 47🍴 Moonwalk",
               "description": "): A simple way to stay up to date with upcoming space launches",
               "children": [],
               "repo_info": {
@@ -27588,7 +27748,7 @@
                 "open_issues": 12,
                 "owner": "Illu",
                 "repo": "moonwalk",
-                "stars": 293,
+                "stars": 294,
                 "topics": [
                   "ios",
                   "launch",
@@ -27745,7 +27905,7 @@
                 "id": 449643176,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-27T08:15:17Z",
+                "last_commit": "2026-10-28T11:06:20Z",
                 "open_issues": 3,
                 "owner": "mrzmyr",
                 "repo": "pixy-mood-tracker-app",
@@ -28120,7 +28280,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "3118⭐ 539🍴 SwiftHub",
+              "title": "3117⭐ 539🍴 SwiftHub",
               "description": "): GitHub client written with RxSwift and MVVM clean architecture",
               "children": [
                 {
@@ -28139,7 +28299,7 @@
                     "open_issues": 34,
                     "owner": "khoren93",
                     "repo": "SwiftHub",
-                    "stars": 3118,
+                    "stars": 3117,
                     "topics": [
                       "cleanarchitecture",
                       "fastlane",
@@ -28169,7 +28329,7 @@
                 "open_issues": 34,
                 "owner": "khoren93",
                 "repo": "SwiftHub",
-                "stars": 3118,
+                "stars": 3117,
                 "topics": [
                   "cleanarchitecture",
                   "fastlane",
@@ -28352,7 +28512,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "6606⭐ 830🍴 Clean Architecture for SwiftUI + Combine",
+              "title": "6607⭐ 830🍴 Clean Architecture for SwiftUI + Combine",
               "description": "nalexn/clean-architecture-swiftui",
               "children": [
                 {
@@ -28388,7 +28548,7 @@
                 "open_issues": 20,
                 "owner": "nalexn",
                 "repo": "clean-architecture-swiftui",
-                "stars": 6606,
+                "stars": 6607,
                 "topics": [
                   "architecture",
                   "clean-architecture",
@@ -28411,7 +28571,7 @@
             },
             {
               "node_type": "item",
-              "title": "6526⭐ 649🍴 MovieSwiftUI",
+              "title": "6528⭐ 650🍴 MovieSwiftUI",
               "description": "): Browse movies, made with SwiftUI, Combine & MovieDB",
               "children": [],
               "repo_info": {
@@ -28425,14 +28585,14 @@
                 "open_issues": 15,
                 "owner": "Dimillian",
                 "repo": "MovieSwiftUI",
-                "stars": 6527,
+                "stars": 6528,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:47.703Z"
             },
             {
               "node_type": "item",
-              "title": "5628⭐ 567🍴 SwiftUI Examples",
+              "title": "5627⭐ 567🍴 SwiftUI Examples",
               "description": "): Include layout, UI, animations, gestures, draw and data",
               "children": [],
               "repo_info": {
@@ -28446,7 +28606,7 @@
                 "open_issues": 8,
                 "owner": "ivanvorobei",
                 "repo": "SwiftUI",
-                "stars": 5628,
+                "stars": 5627,
                 "topics": [
                   "animate",
                   "composing-complex-interfaces",
@@ -28461,7 +28621,7 @@
             },
             {
               "node_type": "item",
-              "title": "3545⭐ 214🍴 OldOS",
+              "title": "3548⭐ 214🍴 OldOS",
               "description": "): iOS 4 beautifully rebuilt in SwiftUI",
               "children": [],
               "repo_info": {
@@ -28475,14 +28635,14 @@
                 "open_issues": 89,
                 "owner": "zzanehip",
                 "repo": "The-OldOS-Project",
-                "stars": 3546,
+                "stars": 3548,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:47.703Z"
             },
             {
               "node_type": "item",
-              "title": "3006⭐ 258🍴 isowords",
+              "title": "3007⭐ 258🍴 isowords",
               "description": "): Word search game played on a vanishing cube",
               "children": [],
               "repo_info": {
@@ -28496,7 +28656,7 @@
                 "open_issues": 9,
                 "owner": "pointfreeco",
                 "repo": "isowords",
-                "stars": 3006,
+                "stars": 3007,
                 "topics": [
                   "game",
                   "ios",
@@ -28561,7 +28721,7 @@
             },
             {
               "node_type": "item",
-              "title": "2269⭐ 222🍴 fullmoon",
+              "title": "2269⭐ 223🍴 fullmoon",
               "description": "): Chat with private and local large language models",
               "children": [],
               "repo_info": {
@@ -28582,7 +28742,7 @@
             },
             {
               "node_type": "item",
-              "title": "2068⭐ 113🍴 SwiftUI Experiments",
+              "title": "2069⭐ 113🍴 SwiftUI Experiments",
               "description": "mikelikesdesign/SwiftUI-experiments",
               "children": [
                 {
@@ -28661,7 +28821,7 @@
             },
             {
               "node_type": "item",
-              "title": "1742⭐ 522🍴 SwiftTerm",
+              "title": "1742⭐ 524🍴 SwiftTerm",
               "description": "): VT100/Xterm Terminal emulator",
               "children": [],
               "repo_info": {
@@ -28671,11 +28831,11 @@
                 "id": 177906917,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-10-26T15:38:45Z",
-                "open_issues": 91,
+                "last_commit": "2026-10-28T01:35:54Z",
+                "open_issues": 99,
                 "owner": "migueldeicaza",
                 "repo": "SwiftTerm",
-                "stars": 1741,
+                "stars": 1742,
                 "topics": [
                   "appkit",
                   "ghostty",
@@ -28787,7 +28947,7 @@
             },
             {
               "node_type": "item",
-              "title": "938⭐ 69🍴 Purposeful Animations",
+              "title": "939⭐ 69🍴 Purposeful Animations",
               "description": "GetStream/purposeful-ios-animations",
               "children": [],
               "repo_info": {
@@ -28801,7 +28961,7 @@
                 "open_issues": 1,
                 "owner": "GetStream",
                 "repo": "purposeful-ios-animations",
-                "stars": 939,
+                "stars": 940,
                 "topics": [
                   "animations",
                   "app-animations",
@@ -28959,7 +29119,7 @@
             },
             {
               "node_type": "item",
-              "title": "763⭐ 28🍴 Harbour",
+              "title": "764⭐ 28🍴 Harbour",
               "description": "): Docker/Portainer app",
               "children": [],
               "repo_info": {
@@ -28973,7 +29133,7 @@
                 "open_issues": 9,
                 "owner": "rrroyal",
                 "repo": "Harbour",
-                "stars": 763,
+                "stars": 764,
                 "topics": [
                   "docker-client",
                   "ios",
@@ -29138,7 +29298,7 @@
             },
             {
               "node_type": "item",
-              "title": "697⭐ 72🍴 Simple SwiftUI",
+              "title": "698⭐ 72🍴 Simple SwiftUI",
               "description": "): Collection of small SwiftUI sample projects, including news, to-do and scores",
               "children": [],
               "repo_info": {
@@ -29223,7 +29383,7 @@
             },
             {
               "node_type": "item",
-              "title": "534⭐ 36🍴 IcySky for BlueSky",
+              "title": "534⭐ 35🍴 IcySky for BlueSky",
               "description": "Dimillian/IcySky",
               "children": [
                 {
@@ -29405,55 +29565,6 @@
             },
             {
               "node_type": "item",
-              "title": "451⭐ 33🍴 GitHub User Search",
-              "description": "ra1028/SwiftUI-Combine",
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "ra1028/SwiftUI-Combine",
-                  "description": "ra1028/SwiftUI-Combine",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "This is an example project of SwiftUI and Combine using GitHub API.  ",
-                    "homepage": null,
-                    "id": 190279986,
-                    "language": "Swift",
-                    "license": "MIT",
-                    "last_commit": "2019-10-13T11:42:55Z",
-                    "open_issues": 1,
-                    "owner": "ra1028",
-                    "repo": "SwiftUI-Combine",
-                    "stars": 451,
-                    "topics": [
-                      "combine",
-                      "swiftui"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T20:20:47.703Z"
-                }
-              ],
-              "repo_info": {
-                "archived": false,
-                "description": "This is an example project of SwiftUI and Combine using GitHub API.  ",
-                "homepage": null,
-                "id": 190279986,
-                "language": "Swift",
-                "license": "MIT",
-                "last_commit": "2019-10-13T11:42:55Z",
-                "open_issues": 1,
-                "owner": "ra1028",
-                "repo": "SwiftUI-Combine",
-                "stars": 451,
-                "topics": [
-                  "combine",
-                  "swiftui"
-                ]
-              },
-              "first_seen": "2026-08-28T20:20:47.703Z"
-            },
-            {
-              "node_type": "item",
               "title": "447⭐ 17🍴 buttoncraft",
               "description": "): Craft that perfect button style",
               "children": [
@@ -29589,7 +29700,7 @@
             },
             {
               "node_type": "item",
-              "title": "339⭐ 198🍴 Basic Car Maintenance",
+              "title": "340⭐ 198🍴 Basic Car Maintenance",
               "description": "): Track your car's maintenance",
               "children": [],
               "repo_info": {
@@ -29668,7 +29779,7 @@
             },
             {
               "node_type": "item",
-              "title": "334⭐ 26🍴 SwiftUICraft",
+              "title": "335⭐ 26🍴 SwiftUICraft",
               "description": "): Minecraft clone",
               "children": [
                 {
@@ -29687,7 +29798,7 @@
                     "open_issues": 0,
                     "owner": "aheze",
                     "repo": "SwiftUICraft",
-                    "stars": 334,
+                    "stars": 335,
                     "topics": [
                       "3d",
                       "3d-graphics",
@@ -29712,7 +29823,7 @@
                 "open_issues": 0,
                 "owner": "aheze",
                 "repo": "SwiftUICraft",
-                "stars": 334,
+                "stars": 335,
                 "topics": [
                   "3d",
                   "3d-graphics",
@@ -29748,7 +29859,7 @@
             },
             {
               "node_type": "item",
-              "title": "315⭐ 71🍴 SwiftUI-MovieDB",
+              "title": "315⭐ 69🍴 SwiftUI-MovieDB",
               "description": "): Browse movies, made with SwiftUI, Combine & MovieDB",
               "children": [
                 {
@@ -29809,7 +29920,7 @@
             },
             {
               "node_type": "item",
-              "title": "301⭐ 52🍴 CarBode barcode scanner",
+              "title": "302⭐ 52🍴 CarBode barcode scanner",
               "description": "heart/CarBode-Barcode-Scanner-For-SwiftUI",
               "children": [],
               "repo_info": {
@@ -32536,6 +32647,43 @@
             },
             {
               "node_type": "item",
+              "title": "11⭐ 1🍴 Pocket AI Lab",
+              "description": "): Run open LLMs from Hugging Face offline on iPhone with llama.cpp, MLX, Core ML or Apple Foundation Models, with vision models, voice input, a memory-fit check before download and a built-in benchmark",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Offline LLM app for iPhone: run open models from Hugging Face on-device with llama.cpp, MLX, Core ML and Apple Foundation Models. No account, MIT.",
+                "homepage": "https://ananasdda.github.io/pocket-ai-lab/",
+                "id": 1336329799,
+                "language": "Swift",
+                "license": "MIT",
+                "last_commit": "2026-10-28T12:43:51Z",
+                "open_issues": 0,
+                "owner": "ananasDDA",
+                "repo": "pocket-ai-lab",
+                "stars": 11,
+                "topics": [
+                  "apple-foundation-models",
+                  "coreml",
+                  "gemma",
+                  "gguf",
+                  "huggingface",
+                  "ios",
+                  "iphone",
+                  "llama-cpp",
+                  "llm",
+                  "local-llm",
+                  "mlx",
+                  "offline-ai",
+                  "on-device-ai",
+                  "qwen",
+                  "swiftui"
+                ]
+              },
+              "first_seen": "2026-10-28T15:24:17.443Z"
+            },
+            {
+              "node_type": "item",
               "title": "11⭐ 3🍴 Portfolio",
               "description": "): Use MVI (Model View Intent) to keep track of your portfolio over time",
               "children": [],
@@ -32821,7 +32969,7 @@
             },
             {
               "node_type": "item",
-              "title": "30⭐ 8🍴 Memory Game",
+              "title": "31⭐ 8🍴 Memory Game",
               "description": "): Uses VIPER with robust unit tests",
               "children": [],
               "repo_info": {
@@ -32872,7 +33020,7 @@
                 "open_issues": 19,
                 "owner": "TheCodeTraveler",
                 "repo": "GitTrends",
-                "stars": 784,
+                "stars": 785,
                 "topics": [
                   "github",
                   "github-api",
@@ -32904,7 +33052,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "19390⭐ 1669🍴 awesome-macOS",
+          "title": "19400⭐ 1682🍴 awesome-macOS",
           "description": "iCHAIT/awesome-macOS",
           "children": [],
           "repo_info": {
@@ -32915,10 +33063,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-21T09:12:04Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "iCHAIT",
             "repo": "awesome-macOS",
-            "stars": 19395,
+            "stars": 19401,
             "topics": [
               "apple",
               "awesome",
@@ -32933,7 +33081,7 @@
         },
         {
           "node_type": "item",
-          "title": "10556⭐ 2332🍴 open-source-android-apps",
+          "title": "10557⭐ 2333🍴 open-source-android-apps",
           "description": "pcqpcq/open-source-android-apps",
           "children": [],
           "repo_info": {
@@ -32943,7 +33091,7 @@
             "id": 32374513,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-27T00:50:09Z",
+            "last_commit": "2026-10-28T06:14:31Z",
             "open_issues": 0,
             "owner": "pcqpcq",
             "repo": "open-source-android-apps",
@@ -32954,7 +33102,7 @@
         },
         {
           "node_type": "item",
-          "title": "7992⭐ 907🍴 awesome-arkit",
+          "title": "7993⭐ 908🍴 awesome-arkit",
           "description": "olucurious/Awesome-ARKit",
           "children": [],
           "repo_info": {
@@ -32984,7 +33132,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T14:52:51.064Z",
+    "last_updated": "2026-10-28T15:24:17.443Z",
     "original_repository_info": {
       "archived": false,
       "description": "📱 Collaborative List of Open-Source iOS Apps. With up-to-date repository stars⭐ and forks🍴",
@@ -32992,7 +33140,7 @@
       "id": 517287360,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-10-26T08:30:38Z",
+      "last_commit": "2026-10-28T09:14:40Z",
       "open_issues": 0,
       "owner": "Correia-jpv",
       "repo": "fucking-open-source-ios-apps",
@@ -33020,7 +33168,7 @@
         "watchos"
       ]
     },
-    "original_repository_sha": "91ad442ad692eea9c9d24c2fe6ab5b8198843df9",
+    "original_repository_sha": "34d9851c216d5aa119d9b611a23173ca0b6cb236",
     "enhanced_repository": "enhansome/enhansome-fucking-open-source-ios-apps",
     "enhanced_repository_description": null,
     "title": "Awesome Open-Source iOS Apps with stars"
